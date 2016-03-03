@@ -1,4 +1,4 @@
 name: MyOSD
 description: My Ocean Sampling Day
 paginate: 10
-baseurl: "http://myosd.github.io/"
+baseurl: "//myosd.github.io/"
