@@ -279,7 +279,7 @@
 			text-align: center;
 			cursor: default;
 			background-color: $color-accent-bg;
-			@include vendor-value('background-image', 'linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png")');
+			@include vendor-value('background-image', 'linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/Icon_Mitmachen.gif")');
 			color: $color-accent-fg;
 			border-radius: 100%;
 			display: inline-block;
