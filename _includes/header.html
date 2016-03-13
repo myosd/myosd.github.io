@@ -42,7 +42,7 @@
 					<nav id="nav">
 						<ul>
 							
-							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">MyOSD</a></li>
+							<li {% if current[1] == '' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">MyOSD</a></li>
                             <!-- not needed right now
 							<li>
 								<a href="">Dropdown test</a>
@@ -72,6 +72,8 @@
 							<li {% if current[1] == 'status' %}class="current"{% endif %}><a href="{{ site.baseurl }}/status">Status</a></li>
                             <li {% if current[1] == 'aktuelles' %}class="current"{% endif %}><a href="{{ site.baseurl }}/aktuelles">Aktuelles</a></li>
 							<li {% if current[1] == 'team' %}class="current"{% endif %}><a href="{{ site.baseurl }}/team">Team</a></li>
+                            <li {% if current[1] == 'en' %}class="current"{% endif %}><a href="{{ site.baseurl }}/en" class="icon fa-language"><span class="label">English</span>EN</a></li>
+                            
 						</ul>
 					</nav>
 
