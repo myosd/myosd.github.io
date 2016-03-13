@@ -227,9 +227,19 @@
         background-repeat: no-repeat;
         background-size: contain;
         background-position: center;        
+    }
+    
+    div.bg-project{
+        background-image: url('images/myosd-icon.gif');
+    }
+    
+    div.bg-participate {
         background-image: url('images/mitmachen.gif');
     }
     
+    div.bg-status{
+        background-image: url('images/status.gif');
+    }
 /* Image */
 
 	.image {
