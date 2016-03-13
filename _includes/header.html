@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>MyOSD -- My Ocean Sampling Day</title>
+		<title>MyOSD -- My Ocean Sampling Day 2016</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -32,19 +32,28 @@
 					<h1><a href="{{ site.baseurl }}/index.html" id="logo">Arcana <em>by HTML5 UP test for MyOSD</em></a></h1>
 				-->
 				<!-- Nav -->
+                {% assign current = page.url | downcase | split: '/' %}
+                <h3>page.url--{{ page.url }}--</h3>
+                {% for item in current %}
+                
+                                                <h3>--{{ item }}--</h3>
+                                                {% endfor %}
 					<nav id="nav">
 						<ul>
-							{% assign current = page.url | downcase | split: '/' %}
-							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
+							
+							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">MyOSD</a></li>
+                            <!-- not needed right now
 							<li>
-								<a href="">Dropdown</a>
+								<a href="">Dropdown test</a>
 								<ul>
+                                    
 									<li><a href="#">Lorem dolor</a></li>
 									<li><a href="#">Magna phasellus</a></li>
 									<li><a href="#">Etiam sed tempus</a></li>
 									<li>
 										<a href="">Submenu</a>
 										<ul>
+
 											<li><a href="#">Lorem dolor</a></li>
 											<li><a href="#">Phasellus magna</a></li>
 											<li><a href="#">Magna phasellus</a></li>
@@ -54,13 +63,17 @@
 									</li>
 									<li><a href="#">Veroeros feugiat</a></li>
 								</ul>
+                                -->
 							</li>
-							<li {% if current[1] == 'blog' %}class="current"{% endif %}><a href="{{ site.baseurl }}/blog">Blog</a></li>
-							<li {% if current[1] == 'left-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/left-sidebar.html">Left Sidebar</a></li>
-							<li {% if current[1] == 'right-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/right-sidebar.html">Right Sidebar</a></li>
-							<li {% if current[1] == 'two-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/two-sidebar.html">Two Sidebar</a></li>
-							<li {% if current[1] == 'no-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/no-sidebar.html">No Sidebar</a></li>
+							
+							<li {% if current[1] == 'projekt' %}class="current"{% endif %}><a href="{{ site.baseurl }}/projekt">Projekt</a></li>
+							<li {% if current[1] == 'mitmachen' %}class="current"{% endif %}><a href="{{ site.baseurl }}/mitmachen">Mitmachen</a></li>
+							<li {% if current[1] == 'status' %}class="current"{% endif %}><a href="{{ site.baseurl }}/status">Status</a></li>
+                            <li {% if current[1] == 'aktuelles' %}class="current"{% endif %}><a href="{{ site.baseurl }}/aktuelles">Aktuelles</a></li>
+							<li {% if current[1] == 'team' %}class="current"{% endif %}><a href="{{ site.baseurl }}/team">Team</a></li>
 						</ul>
 					</nav>
 
 			</div>
+
+
