@@ -47,10 +47,6 @@ Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub
 Am besten gleich hier registrieren und ein Sampling Kit reservieren.
 
 Die Sampling Kits bestehen (unter anderem) aus:
-- item
-- item
-- item
-
 
 - MyOSD Log sheet und MyOSD Handbuch
 - Thermometer
