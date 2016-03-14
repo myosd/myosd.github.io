@@ -4,7 +4,11 @@ layout: page
 published: true
 ---
 
-### Sampling ist englisch und heißt soviel wie Probenentnahme. Am Tag der Sommersonnenwende - dem Ocean Sampling Day- nehmen Forscher und Bürger überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können bis zu 1,000 Hobbyforscherinnen und Hobbyforscher an deutschen Küsten und Mündungsflüssen Proben entnehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftler und Bürger Hand in Hand.
+### Sampling ist englisch und heißt soviel wie Probenentnahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day- nehmen Forscher und Bürger überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können bis zu 1,000 Hobbyforscherinnen und Hobbyforscher an deutschen Küsten und Mündungsflüssen Proben entnehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftler und Bürger Hand in Hand.
+
+### Meer wissen- Schritt für Schritt
+
+![Sampling scheme ]({{site.baseurl}}//assets/images/Sampling_scheme_preliminary.jpg)
 
 
 ## Wer kann mitmachen?
@@ -26,9 +30,10 @@ Achte bitte darauf, daß Du die Proben nur an Orten nimmst, an denen Du Dich auc
 ![Hier könnt ihr am MyOSD 2016 eine Probe nehmen. ]({{site.baseurl}}//assets/images/Karte_preliminary.jpg)
 
 
-
-
 ## Wie kann ich mitmachen?
+
+![Registrierung]({{site.baseurl}}//assets/images/Registrierung_preliminary.jpg)
+
 Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 1. Mai 2016 freigeschaltet sein. Du erhälst dann ein Sampling Kit. Das Sampling Kit enthält alles, um eine Probe aus Nord und Ostsee oder einem Mündungsfluss zu entnehmen. 
 
 Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video Tutorial ansehen. Eine Beschreibung zum Herunterladen findest Du auch weiter unten auf dieser Seite. 
@@ -36,17 +41,26 @@ Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus ne
 
 VIDEO TUTORIAL VERLINKEN
 
-![Sampling scheme ]({{site.baseurl}}//assets/images/Sampling_scheme_preliminary.jpg)
-
-
 
 ## Wie bekomme ich mein Kit?
 Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, erfährst Du hier, vielleicht gibt es ja jemanden in Deiner Nähe. Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremengeschickt. 
 Am besten gleich hier registrieren und ein Sampling Kit reservieren.
 
-![Registrierung]({{site.baseurl}}//assets/images/Registrierung_preliminary.jpg)
+Die Sampling Kits bestehen (unter anderem) aus:
 
+• MyOSD Log sheet und MyOSD Handbuch
 
+• Thermometer
+
+• pH-Teststreifen
+
+• Handschuhe
+
+• Spritzen für die Probenentnahme
+
+• Filter
+
+• Aufkleber und Tüte
 
 
 ## Die MyOSD Citizen App
@@ -69,11 +83,12 @@ Wichtige Umweltdaten, wie z.B. Temperatur kannst Du direkt an Deinem Sampling Or
 •	Nun kannst Du das erste Sample erstellen. Um die Daten einzutragen ist keine Internetverbindung notwendig. Nur um ein fertiges Sample abzuschicken ist dies nötig. Dazu bitte auf 'Samples Hochladen' klicken.
 
 
+## Du möchtest noch mehr Umweltdaten nehmen?
+Ein wichtiger Indikator für Stoffeinträge in Flüsse und in die Meere ist die Wasserfarbe. Die Farbe zeigt zum Beispiel mit einer Grünfärbung die Menge der Mikroben im Wasser an, die Photosynthese betreiben und somit wichtigen Sauerstoff produzieren. Oft kann man auch eine Farbänderung erkennen, wenn ein Fluss in einen anderen Fluss oder ins Meer fließt. Die Wasserfarbe kannst du ganz leicht selbst ermitteln- es gibt eine separate App dazu. Diese lädst du einfach kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=nl.maris.citclops.crosswalk&hl=de) oder im App Store für [iOS](https://itunes.apple.com/de/app/eyeonwater-colour/id1021542366?mt=8) herunter. Achtung: die Farbe lässt sich nur bestimmen, wenn der Grund nicht sichtbar ist.
 
-### Du möchtest noch mehr Umweltdaten nehmen?:
-Ein wichtiger Indikator für Stoffeinträge in Flüsse und in die Meere ist die Wasserfarbe. Die Farbe zeigt zum Beispiel mit einer Grünfärbung die Menge der Mikroben im Wasser an, die Photosynthese betreiben und somit wichtigen Sauerstoff produzieren. Oft kann man auch eine Farbänderung erkennen, wenn ein Fluss in einen anderen Fluss oder ins Meer fließt. Die Wasserfarbe kannst du ganz leicht selbst ermitteln. Dazu lädst du einfach die kostenlose App im Google Play Store für [Android](https://play.google.com/store/apps/details?id=nl.maris.citclops.crosswalk&hl=de) oder im App Store für [iOS](https://itunes.apple.com/de/app/eyeonwater-colour/id1021542366?mt=8) herunter.
-Die Messungen kannst du sofort auf der [EyeOnWater] Seite (http://eyeonwater.org/color/welcome.php) sehen. Wenn wir genug Bilder der Wasserfarbe bekommen, können wir sie mit den Ergebnissen von der Mikrobensammlung verbinden.
+Deine Messungen kannst Du sofort auf der [EyeOnWater] Projekt-Seite (http://eyeonwater.org/color/welcome.php) sehen. Mehr Infos gibt es auch bei [Bürger schaffen Wissen] (http://www.buergerschaffenwissen.de/projekt/eyeonwater). Wenn wir genug Bilder der Wasserfarbe bekommen, erstellen wir eine extra Karte für den MyOSD 2016 in Deutschland und können damit noch besser die Zusammensetzung und Aufgaben der Mikroben aus Deiner Probe verstehen.
 
+![EOW]({{site.baseurl}}//assets/images/logo_home@2x.png)
 
 
 ## Downloads
