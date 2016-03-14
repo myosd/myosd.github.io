@@ -1,5 +1,5 @@
 ---
-title: Projekt
+title: My Ocean Sampling Day
 layout: page
 published: true
 ---
