@@ -6,7 +6,9 @@ published: true
 
 
 
-![]({{site.baseurl}}//assets/images/myosd-icon.gif)
+![]({{site.baseurl}}/assets/images/myosd-icon.gif)
+
+<img src="/assets/images/myosd-icon.gif" width="200px"/>
 
 ## Was ist MyOSD? 
 MyOSD ist das Integrierte Citizen Science Projekt des Ocean Sampling Days (OSD). Der OSD ist ein Probennahmenkampaigne bei der auf der ganzen Welt, am selben Tag (21.Juni), Wasserproben genommen werden um die Mikroorganismen darin zu untersuchen. Zusammen mit Teams aus Wissenschaftlern können interresierte Bürger Hand In Hand arbeiten um das Wissen über unsere Ozeane und Meere zu vermehren.  
