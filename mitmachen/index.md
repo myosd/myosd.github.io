@@ -47,6 +47,10 @@ Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub
 Am besten gleich hier registrieren und ein Sampling Kit reservieren.
 
 Die Sampling Kits bestehen (unter anderem) aus:
+- item
+- item
+- item
+
 
 - MyOSD Log sheet und MyOSD Handbuch
 - Thermometer
@@ -62,8 +66,7 @@ Wichtige Umweltdaten, wie z.B. Temperatur kannst Du direkt an Deinem Sampling Or
 
 ### App Installation:
 
-•	Die OSD Citizen App kannst Du kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) und App Store für [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) herunterladen. Sie Dir zur Nutzung bitte auch das Video Tutorial an. 
-
+- Die OSD Citizen App kannst Du kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) und App Store für [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) herunterladen. Sie Dir zur Nutzung bitte auch das Video Tutorial an. 
 - Du kannst ihm Google Play store oder Apple App store natürlich auch direkt nach der "OSD citizen" App suchen.
 - Vor der ersten Nutzung muß die App einmal mit bestehender Internetverbindung geöffnet werden, da noch Grundeinstellungen vorgenommen werden müssen. Dies ist nur beim ersten Start notwendig. Danach kann die App jederzeit auch offline genutzt werden, da alle Daten in der App gespeichert werden. 
 - Bevor das erste Sample erstellt wird, müssen im „Persönlich“ Bereich (links unten) wenige Grunddaten eingegeben werden. Dazu gehören der Vor- und Nachname. Die Information kann jederzeit geändert werden. Zum Speichern bitte immer auf „Save“ klicken (am unteren Bildrand).
