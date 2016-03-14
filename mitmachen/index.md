@@ -48,19 +48,13 @@ Am besten gleich hier registrieren und ein Sampling Kit reservieren.
 
 Die Sampling Kits bestehen (unter anderem) aus:
 
-• MyOSD Log sheet und MyOSD Handbuch
-
-• Thermometer
-
-• pH-Teststreifen
-
-• Handschuhe
-
-• Spritzen für die Probenentnahme
-
-• Filter
-
-• Aufkleber und Tüte
+- MyOSD Log sheet und MyOSD Handbuch
+- Thermometer
+- pH-Teststreifen
+- Handschuhe
+- Spritzen für die Probenentnahme
+- Filter
+- Aufkleber und Tüte
 
 
 ## Die MyOSD Citizen App
@@ -70,17 +64,12 @@ Wichtige Umweltdaten, wie z.B. Temperatur kannst Du direkt an Deinem Sampling Or
 
 •	Die OSD Citizen App kannst Du kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) und App Store für [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) herunterladen. Sie Dir zur Nutzung bitte auch das Video Tutorial an. 
 
-•	Du kannst ihm Google Play store oder Apple App store natürlich auch direkt nach der "OSD citizen" App suchen.
-
-•	Vor der ersten Nutzung muß die App einmal mit bestehender Internetverbindung geöffnet werden, da noch Grundeinstellungen vorgenommen werden müssen. Dies ist nur beim ersten Start notwendig. Danach kann die App jederzeit auch offline genutzt werden, da alle Daten in der App gespeichert werden. 
-
-•	Bevor das erste Sample erstellt wird, müssen im „Persönlich“ Bereich (links unten) wenige Grunddaten eingegeben werden. Dazu gehören der Vor- und Nachname. Die Information kann jederzeit geändert werden. Zum Speichern bitte immer auf „Save“ klicken (am unteren Bildrand).
-
-•	Beachte, daß Dein Name (Vor- und Nachname) auf der myOSD Server Seite angezeigt wird. Wenn Du dies nicht möchtest, benutze einfach einen Nickname. 
-
-•	Nach diesen Schritten ist die App einsatzbereit! 
-
-•	Nun kannst Du das erste Sample erstellen. Um die Daten einzutragen ist keine Internetverbindung notwendig. Nur um ein fertiges Sample abzuschicken ist dies nötig. Dazu bitte auf 'Samples Hochladen' klicken.
+- Du kannst ihm Google Play store oder Apple App store natürlich auch direkt nach der "OSD citizen" App suchen.
+- Vor der ersten Nutzung muß die App einmal mit bestehender Internetverbindung geöffnet werden, da noch Grundeinstellungen vorgenommen werden müssen. Dies ist nur beim ersten Start notwendig. Danach kann die App jederzeit auch offline genutzt werden, da alle Daten in der App gespeichert werden. 
+- Bevor das erste Sample erstellt wird, müssen im „Persönlich“ Bereich (links unten) wenige Grunddaten eingegeben werden. Dazu gehören der Vor- und Nachname. Die Information kann jederzeit geändert werden. Zum Speichern bitte immer auf „Save“ klicken (am unteren Bildrand).
+- Beachte, daß Dein Name (Vor- und Nachname) auf der myOSD Server Seite angezeigt wird. Wenn Du dies nicht möchtest, benutze einfach einen Nickname. 
+- Nach diesen Schritten ist die App einsatzbereit! 
+- Nun kannst Du das erste Sample erstellen. Um die Daten einzutragen ist keine Internetverbindung notwendig. Nur um ein fertiges Sample abzuschicken ist dies nötig. Dazu bitte auf 'Samples Hochladen' klicken.
 
 
 ## Du möchtest noch mehr Umweltdaten nehmen?
