@@ -9,6 +9,7 @@ published: true
 
 ## Prof. Dr. Frank Oliver Glöckner
 Kopf der Bioinformatik und Genomik Gruppe am MPI Bremen und der Jacobs University. Als Projektleiter des Micro B3 Projekts ist er einer der Gruender, Koordinator und groessten Unterstuetzer des OSD und MyOSD Projektes. 
+
 ## Julia Schnetzer
 Von Anfang an beim OSD als Koordinator, OSD Teilnehmer und Kaempfer gegen das Datenchaos dabei, war ihr groesstes Baby letztendlich das MyOSD Projekt. 
 ## Renzo Kottmann
