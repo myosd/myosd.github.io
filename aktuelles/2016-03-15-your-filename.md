@@ -1,4 +1,0 @@
-## MyOSD @ ECSA 
-Vom 19-21 Mai 2016 findet in Berlin die erste Konferenz der European Citizen Science Association (ECSA) statt, die ["Citizen Science - Innovation in Open Science, Society and Policy"](http://ecsa.citizen-science.net/). Das MyOSD Team ist gleich mit mehreren Beiträgen vertreten.
-
-
