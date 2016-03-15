@@ -4,6 +4,7 @@ layout: page
 published: true
 ---
 
+
 ### Prof. Dr. Frank Oliver Glöckner
 Kopf der Bioinformatik und Genomik Gruppe am [Max Planck Institut für Marine Mikrobiologie in Bremen](http://www.mpi-bremen.de) und der [Jacobs University](http://www.jacobs-university.de). Als Projektleiter des [Micro B3 Projektes](https://www.microb3.eu) ist er einer der Gründer, Koordinator und größten Unterstützer des [OSD](http://www.oceansamplingday.org) und MyOSD Projektes. 
 
@@ -17,7 +18,8 @@ Der Quoten-Nerd des Teams und OSD-Mitinitator der ersten Stunde. Er stürzt sich
 Nach dem sie das Citizen Science Projekt [Citclops](http://www.citclops.eu)/[EyeOnWater](http://eyeonwater.org/color/welcome.php) groß gemacht hat ist Julia nun bei uns im Team und hilft uns MyOSD in diesem Jahr noch besser zu machen. Denn Julia ist schlicht unsere Citizen Science Fach-Nerdin.
 
 ### Sandra Nowack
-Ist quasi die Team Mama. Wenn sie mal nicht weiß wo was liegt, oder wen man am besten fragt um etwas zu bekommen, schauen wir alle recht alt aus. Zum Glück wiess Sie immer Bescheid und behält den Überblick über ihre Rasselbande.
+Ist unsere Logistikqueen und Organistaionswunder. Ob Bestellungen, Reiseorganisation, Paeckchenpack-marathon eins ist klar ohne sie sehen wir alle recht alt aus.
+
 
 ### Marina Zure
 Unsere gute Seele im Labor, die weiß wie man mit den Proben umgeht und wie man die DNA aus den Bakterien kitzelt.
