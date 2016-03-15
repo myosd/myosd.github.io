@@ -1,6 +1,6 @@
 ---
 title: Ullamco Laboris minim veniam
-featured: /assets/images/MyOSD-logo_transp_hintergrund.pmg
+featured: /assets/images/MyOSD-logo_transp_Hintergrund.png
 layout: post
 ---
 
