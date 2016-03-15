@@ -9,7 +9,9 @@
                 <div class="row">
 						<div class="8u -2u">
 							<section class="box">
+								{% if page.featured  %}
 								<a href="#" class="image left"><img src="{{ site.baseurl }}{{ page.featured }}" alt="" class="img-first" /></a>
+								{% endif %}
 								{{ content }}
 							</section>
 						</div>
