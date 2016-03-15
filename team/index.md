@@ -25,7 +25,7 @@ Ist unsere Logistikqueen und Organisationswunder. Ob Bestellungen, Reiseorganisa
 Unsere gute Seele im Labor, die weiß wie man mit den Proben umgeht und wie man die DNA aus den Bakterien kitzelt.
 
 ### Antonio Fernandez-Guerra
-Saßt ihr schonmal im Unterricht und habt wirklich nur noch Bahnhof verstanden? So geht's einem wenn man auf Antonios Computer guckt. Aber Gott sei Dank ist unser Ökologieexperte und der Meistersurfer des OSData-Schatzes auch noch talentiert darin, das Ganze auch verständlich zu erklären.
+Saßt ihr schonmal im Unterricht und habt wirklich nur noch Bahnhof verstanden? So geht's einem wenn man auf Antonios Computer guckt. Aber Gott sei Dank ist unser Ökologieexperte und der Meistersurfer des OSData-Schatzes auch noch talentiert darin, das Ganze verständlich zu erklären.
 
 ### Ivaylo Kostadinov
 Der Multitasker, der immer da ist wenn er gebraucht wird. Ob Fotoshooting, Filmdreh, komplexes Datenmangement, oder einfach nur mal einen guten Kaffee auf ihn ist immer Verlass.
