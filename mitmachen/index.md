@@ -5,23 +5,6 @@ published: true
 ---
 
 
-
-
-
-Describe your Changes
-Commit
-
-myosd / myosd.github.io
-Review your changes:
-Additions are highlighted in green. Deletions are crossed out.
-
----
-title: Mitmachen
-layout: page
-published: true
----
-
-
 ### Sampling ist englisch und heißt soviel wie Probenentnahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day- nehmen WissenschaftlerinnenForscher und WissenschaftlerBürger überall auf der Welt Wasserproben genommen. Im Wissenschaftsjahr 2016*17 können im MyOSD Projekt bis zu 1,000 Hobbyforscherinnen und Hobbyforscher an deutschen Küsten und Mündungsflüssen Proben entnehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.
 
 ### Meer wissen- Schritt für Schritt
@@ -103,17 +86,7 @@ Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigen
 
 ## Downloads
 
-•	Beschreibung (How to sample) (deutsch) 
+- Beschreibung (How to sample) (deutsch) 
 
-•	Flyer MyOSD 2016 (deutsch)
-
-•	Info für MyOSD Hubs (englisch)
-
-Prose
-
-    Prose
-    About
-    Developers
-    Language
-    Logout
+- Flyer MyOSD 2016 (deutsch)
 
