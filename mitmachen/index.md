@@ -6,7 +6,23 @@ published: true
 
 
 
-**Sampling ist englisch und heißt soviel wie Probenentnahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day- nehmen Forscher und Bürger überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können bis zu 1,000 Hobbyforscherinnen und Hobbyforscher an deutschen Küsten und Mündungsflüssen Proben entnehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftler und Bürger Hand in Hand.**
+
+
+Describe your Changes
+Commit
+
+myosd / myosd.github.io
+Review your changes:
+Additions are highlighted in green. Deletions are crossed out.
+
+---
+title: Mitmachen
+layout: page
+published: true
+---
+
+
+### Sampling ist englisch und heißt soviel wie Probenentnahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day- nehmen WissenschaftlerinnenForscher und WissenschaftlerBürger überall auf der Welt Wasserproben genommen. Im Wissenschaftsjahr 2016*17 können im MyOSD Projekt bis zu 1,000 Hobbyforscherinnen und Hobbyforscher an deutschen Küsten und Mündungsflüssen Proben entnehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.
 
 ### Meer wissen- Schritt für Schritt
 
@@ -21,10 +37,11 @@ Für Schüler ab der 11. Klasse haben wir auch Unterrichtsmaterial erstellt. Spr
 
 
 ## Wo kann ich mitmachen?
-An allen deutschen Meeren, also in der deutschen Nord- und Ostsee, und ihren Mündungsflüssen- vom Meer bis zur Quelle. Dazu zählen zum Beispiel die Ems, Weser, Elbe, Eider, Peene und Oder, zuführende Flüsse oder Kanäle. Zum Beispiel fließen die Fulda und Werra zur Weser zusammen, die dann in der Nordsee mündet. Die Spree fließt zur Havel, diese zur Elbe. Hier könnt ihr also eine Probe nehmen. 
+An allen deutschen Meeren, also in der deutschen Nord- und Ostsee, und ihren Mündungsflüssen- vom Meer bis zur Quelle. Dazu zählen zum Beispiel die Ems, Weser, Elbe, Eider, Peene und Oder, zuführende Flüsse oder Kanäle. Zum Beispiel fließen die Fulda und Werra zur Weser zusammen, die dann in der Nordsee mündet. Die Spree fließt zur Havel, diese zur Elbe. Hier könnt ihr also eine Probe nehmen. Bei der Registrierung kannst Du sehen, wo sich andere Teilnehmer angemeldet haben. Am besten wäre es, wenn Du eine Stelle findest an der noch keine Probe genommen wird. 
 
 NICHT in Deutschland mündet der Rhein oder die Donau, hier also bitte KEINE PROBE nehmen. 
 Wir können KEINE PROBEN aus stehenden Gewässern, also aus Seen oder Teichen analysieren. 
+
 Bei der Registrierung kannst Du sehen, wo sich andere Teilnehmer angemeldet haben. Am besten wäre es, wenn Du eine Stelle findest an der noch keine Probe genommen wird. 
 
 Achte bitte darauf, daß Du die Proben nur an Orten nimmst, an denen Du Dich auch aufhalten darfst. Der MyOSD ist keine Begründung, ausgewiesene Schutz- oder Ruhezonen, oder fremde Grundstücke zu betreten. „Betreten verboten“ gilt übrigens grundsätzlich auch für Wissenschaftler. Wir respektieren die gesetzlichen Vorgaben.
@@ -36,16 +53,17 @@ Achte bitte darauf, daß Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 ![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
 
-Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 1. Mai 2016 freigeschaltet sein. Du erhälst dann ein Sampling Kit. Das Sampling Kit enthält alles, um eine Probe aus Nord und Ostsee oder einem Mündungsfluss zu entnehmen. 
+Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 1. Mai 2016 freigeschaltet sein. Du erhälst dann ein Sampling Kit. Das Sampling Kit enthält alles, um eine Probe aus Nord und Ostsee oder einem Mündungsfluss zu entnehmen. Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück -je mehr Wasser filtriert wird, desto mehr Mikroorganismen- und werden dann zurück zu uns nach Bremen geschickt. Hier bestimmen wir dann die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video Tutorial ansehen. Eine genaue Beschreibung zurzum NutzungHerunterladen desfindest Sampling Kits kannst Du auch weiter unten auf dieser Seite herunterladen. 
 
-Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video Tutorial ansehen. Eine Beschreibung zum Herunterladen findest Du auch weiter unten auf dieser Seite. 
-Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus nehmen. Vom Boot aus, auf dem Surfbrett, vom Kayak aus, ...Deiner Phantasie sind keine Grenzen gesetzt.
+Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwerten. Dazu gehören im Meer der Salzgehalt, und in Flüssen der pH-Wert. Auch wenn Du keine Mikroorganismen sammeln möchtest, kannst Du am MyOSD mitmachen. Dazu machst Du einfach einzelne Messungen- z.B. der Wasser- und Lufttemperatur, pH-Wert oder Nährstoffe- und trägst diese dann in der OSD Citizen App ein.
+
+Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus nehmen. Vom Boot aus, einemauf dem Surfbrett, vom Kayak aus, ...Deiner Phantasie sind keine Grenzen gesetzt.
 
 VIDEO TUTORIAL VERLINKEN
 
 
 ## Wie bekomme ich mein Kit?
-Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, erfährst Du hier, vielleicht gibt es ja jemanden in Deiner Nähe. Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremengeschickt. 
+Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, erfährst Du hier, vielleicht gibt es ja jemanden in Deiner Nähe. Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschicktBremengeschickt. 
 Am besten gleich hier registrieren und ein Sampling Kit reservieren.
 
 Die Sampling Kits bestehen (unter anderem) aus:
@@ -60,7 +78,7 @@ Die Sampling Kits bestehen (unter anderem) aus:
 
 
 ## Die MyOSD Citizen App
-Wichtige Umweltdaten, wie z.B. Temperatur kannst Du direkt an Deinem Sampling Ort in die OSD Citizen App eintragen. Diese fungiert als elektronischer "Log sheet", also als digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung. Diese werden dann direkt an den OSD Server geschickt und gleich auf der Webseite angezeigt. Die App ist für Android Smartphones und iPhones erhältlich.
+Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die OSD Citizen App eintragen. Diese fungiert als elektronischer "Log sheet", also als digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD Server geschickt und gleich auf der Webseite angezeigt. Die App ist für Android Smartphones und iPhones erhältlich.
 
 ### App Installation:
 
@@ -76,7 +94,9 @@ Wichtige Umweltdaten, wie z.B. Temperatur kannst Du direkt an Deinem Sampling Or
 ## Du möchtest noch mehr Umweltdaten nehmen?
 Ein wichtiger Indikator für Stoffeinträge in Flüsse und in die Meere ist die Wasserfarbe. Die Farbe zeigt zum Beispiel mit einer Grünfärbung die Menge der Mikroben im Wasser an, die Photosynthese betreiben und somit wichtigen Sauerstoff produzieren. Oft kann man auch eine Farbänderung erkennen, wenn ein Fluss in einen anderen Fluss oder ins Meer fließt. Die Wasserfarbe kannst du ganz leicht selbst ermitteln- es gibt eine separate App dazu. Diese lädst du einfach kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=nl.maris.citclops.crosswalk&hl=de) oder im App Store für [iOS](https://itunes.apple.com/de/app/eyeonwater-colour/id1021542366?mt=8) herunter. Achtung: die Farbe lässt sich nur bestimmen, wenn der Grund nicht sichtbar ist.
 
-Deine Messungen kannst Du sofort auf der [EyeOnWater] Projekt-Seite (http://eyeonwater.org/color/welcome.php) sehen. Mehr Infos gibt es auch bei [Bürger schaffen Wissen] (http://www.buergerschaffenwissen.de/projekt/eyeonwater). Wenn wir genug Bilder der Wasserfarbe bekommen, erstellen wir eine extra Karte für den MyOSD 2016 in Deutschland und können damit noch besser die Zusammensetzung und Aufgaben der Mikroben aus Deiner Probe verstehen.
+Deine Messungen kannst Du sofort auf der [EyeOnWater](] Projekt-Seite (http://eyeonwater.org/color/welcome.php) Projekt-Seite sehen. Mehr Infos gibt es auch bei [Bürger schaffen Wissen](] (http://www.buergerschaffenwissen.de/projekt/eyeonwater). Wenn wir genug Bilder der Wasserfarbe bekommen, erstellen wir eine extra Karte für den MyOSD 2016 in Deutschland und können damit noch besser die VerteilungZusammensetzung und die Aufgaben der Mikroben aus Deiner Probe verstehen.
+
+Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigens auch über den 21. Juni hinaus (und auch vorher schon) benutzen. 
 
 ![EOW]({{site.baseurl}}/assets/images/logo_home@2x.png)
 
@@ -88,3 +108,12 @@ Deine Messungen kannst Du sofort auf der [EyeOnWater] Projekt-Seite (http://eyeo
 •	Flyer MyOSD 2016 (deutsch)
 
 •	Info für MyOSD Hubs (englisch)
+
+Prose
+
+    Prose
+    About
+    Developers
+    Language
+    Logout
+
