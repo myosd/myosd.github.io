@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 feature: /assets/images/Buergerschaffenwissen_Logo.png
 ---
 
