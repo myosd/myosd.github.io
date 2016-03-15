@@ -9,23 +9,23 @@ published: true
 Kopf der Bioinformatik und Genomik Gruppe am [Max Planck Institut für Marine Mikrobiologie in Bremen](http://www.mpi-bremen.de) und der [Jacobs University](http://www.jacobs-university.de). Als Projektleiter des [Micro B3 Projektes](https://www.microb3.eu) ist er einer der Gründer, Koordinator und größten Unterstützer des [OSD](http://www.oceansamplingday.org) und MyOSD Projektes. 
 
 ### Julia Schnetzer
-Von Anfang an beim OSD als Koordinator, OSD Teilnehmer und Kämpfer gegen das Datenchaos dabei. Ihr größtes Baby war und ist aber letztendlich das MyOSD Projekt. Unsere Science Slamm Queen ist sie dann nebenbei auch noch. 
+Von Anfang an beim OSD als Koordinator, OSD Teilnehmer und Kämpfer gegen das Datenchaos dabei. Ihr größtes Baby war und ist aber letztendlich das MyOSD Projekt. Unsere Science Slam Queen ist sie dann nebenbei auch noch. 
 
 ### Renzo Kottmann
-Der Quoten-Nerd des Teams und OSD-Mitinitator der ersten Stunde. Er stürzt sich auf alles was mit Computern und OSD/MyOSD zu tun hat, auch wenn er sich dafür nächtelang im Keller einsperrt. Er ist der Highländer im Feldzug gegen das Datenchaos und der Retter des OSD/MyOSD Datenschatzes.  
+Der Quoten-Nerd des Teams und OSD-Mitinitiator der ersten Stunde. Er stürzt sich auf alles was mit Computern und OSD/MyOSD zu tun hat, auch wenn er sich dafür nächtelang im Keller einsperrt. Er ist der Highländer im Feldzug gegen das Datenchaos und der Retter des OSD/MyOSD Datenschatzes.  
 
 ### Julia Busch
-Nach dem sie das Citizen Science Projekt [Citclops](http://www.citclops.eu)/[EyeOnWater](http://eyeonwater.org/color/welcome.php) groß gemacht hat ist Julia nun bei uns im Team und hilft uns MyOSD in diesem Jahr noch besser zu machen. Denn Julia ist schlicht unsere Citizen Science Fach-Nerdin.
+Nach dem sie das Citizen Science Projekt [Citclops](http://www.citclops.eu)/[EyeOnWater](http://eyeonwater.org/color/welcome.php) groß gemacht hat, ist Julia nun bei uns im Team und hilft uns MyOSD in diesem Jahr noch besser zu machen. Denn Julia ist schlicht unsere Citizen Science Fach-Nerdin.
 
 ### Sandra Nowack
-Ist unsere Logistikqueen und Organistaionswunder. Ob Bestellungen, Reiseorganisation, Paeckchenpack-marathon eins ist klar ohne sie sehen wir alle recht alt aus.
+Ist unsere Logistikqueen und Organisationswunder. Ob Bestellungen, Reiseorganisation, Paeckchenpack-Marathon eins ist klar ohne sie sehen wir alle recht alt aus.
 
 
 ### Marina Zure
 Unsere gute Seele im Labor, die weiß wie man mit den Proben umgeht und wie man die DNA aus den Bakterien kitzelt.
 
 ### Antonio Fernandez-Guerra
-Saßt ihr schonmal im Unterricht und habt wirklich nur noch Bahnhof verstanden? So geht's einem wenn man auf Antonios Computer guckt. Aber Gott sei Dank ist unser Ökologieexperte und der Meistersurfer des OSDayta-Schatzes auch noch talentiert darin, das Ganze auch verständlich zu erklären.
+Saßt ihr schonmal im Unterricht und habt wirklich nur noch Bahnhof verstanden? So geht's einem wenn man auf Antonios Computer guckt. Aber Gott sei Dank ist unser Ökologieexperte und der Meistersurfer des OSData-Schatzes auch noch talentiert darin, das Ganze auch verständlich zu erklären.
 
 ### Ivaylo Kostadinov
-Der Multitasker, der immer da ist wenn er gebraucht wird. Ob Fotoshooting, Filmdreh, komplexes Datenmangement, oder einfach nur mal ein guter Kaffee auf ihn ist immer Verlass.
+Der Multitasker, der immer da ist wenn er gebraucht wird. Ob Fotoshooting, Filmdreh, komplexes Datenmangement, oder einfach nur mal einen guten Kaffee auf ihn ist immer Verlass.
