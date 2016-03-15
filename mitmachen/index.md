@@ -8,7 +8,7 @@ published: true
 
 ### Meer wissen- Schritt für Schritt
 
-![Sampling scheme ]({{site.baseurl}}//assets/images/Sampling_scheme_preliminary.jpg)
+![Sampling scheme ]({{site.baseurl}}/assets/images/Sampling_scheme_preliminary.jpg)
 
 
 ## Wer kann mitmachen?
@@ -27,12 +27,12 @@ Bei der Registrierung kannst Du sehen, wo sich andere Teilnehmer angemeldet habe
 
 Achte bitte darauf, daß Du die Proben nur an Orten nimmst, an denen Du Dich auch aufhalten darfst. Der MyOSD ist keine Begründung, ausgewiesene Schutz- oder Ruhezonen, oder fremde Grundstücke zu betreten. „Betreten verboten“ gilt übrigens grundsätzlich auch für Wissenschaftler. Wir respektieren die gesetzlichen Vorgaben.
 
-![Hier könnt ihr am MyOSD 2016 eine Probe nehmen. ]({{site.baseurl}}//assets/images/Karte_preliminary.jpg)
+![Hier könnt ihr am MyOSD 2016 eine Probe nehmen. ]({{site.baseurl}}/assets/images/Karte_preliminary.jpg)
 
 
 ## Wie kann ich mitmachen?
 
-![Registrierung]({{site.baseurl}}//assets/images/Registrierung_preliminary.jpg)
+![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
 
 Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 1. Mai 2016 freigeschaltet sein. Du erhälst dann ein Sampling Kit. Das Sampling Kit enthält alles, um eine Probe aus Nord und Ostsee oder einem Mündungsfluss zu entnehmen. 
 
@@ -76,7 +76,7 @@ Ein wichtiger Indikator für Stoffeinträge in Flüsse und in die Meere ist die 
 
 Deine Messungen kannst Du sofort auf der [EyeOnWater] Projekt-Seite (http://eyeonwater.org/color/welcome.php) sehen. Mehr Infos gibt es auch bei [Bürger schaffen Wissen] (http://www.buergerschaffenwissen.de/projekt/eyeonwater). Wenn wir genug Bilder der Wasserfarbe bekommen, erstellen wir eine extra Karte für den MyOSD 2016 in Deutschland und können damit noch besser die Zusammensetzung und Aufgaben der Mikroben aus Deiner Probe verstehen.
 
-![EOW]({{site.baseurl}}//assets/images/logo_home@2x.png)
+![EOW]({{site.baseurl}}/assets/images/logo_home@2x.png)
 
 
 ## Downloads
