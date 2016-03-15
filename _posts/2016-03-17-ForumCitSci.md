@@ -1,5 +1,6 @@
 ---
 published: false
+feature: /assets/images/Buergerschaffenwissen_Logo.png
 ---
 
 ## Das Forum Citizen Science Deutschland: Eine Strategie für Nachhaltigkeit und Innovation
