@@ -33,16 +33,22 @@
 				-->
 				<!-- Nav -->
                 {% assign current = page.url | downcase | split: '/' %}
-                <!--
-                <h3>page.url--{{ page.url }}--</h3>
+                
+                <!-- 
+                <h3>page.url--{{ page.url }}-- and//{{ navtext }}// {{ current.size }}</h3>
+                {% if current[1]  %}
+                current empty
+                {% else %}
+                dsfls
+                {% endif %}
                 {% for item in current %}
-                    <h3>--{{ item }}--</h3>
+                    <h3>ss--{{ item }}--</h3>
                 {% endfor %}
                 -->
 					<nav id="nav">
 						<ul>
 							
-							<li {% if current[1] == '' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
+							<li {% if page.url == '/' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
                             <!-- not needed right now
 							<li>
 								<a href="">Dropdown test</a>
