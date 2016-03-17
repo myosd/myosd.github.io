@@ -13,11 +13,12 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Basic */
+/* Basic */ 
 
 	body,
 	#skel-layers-wrapper {
-		background: $color-bg url('images/bg01.png');
+    //$color-bg
+		background: $color-wj-dark-blue url('images/bg01.png');
 	}
 
 	body {
@@ -154,6 +155,7 @@
 	}
 	
 	footer {
+    
 		margin: 0 0 3em 0;
 		
 		> :last-child {
