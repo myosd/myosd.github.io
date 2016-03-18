@@ -3,6 +3,7 @@ published: true
 title: Forum Citizen Science
 layout: post
 feature: /assets/images/2016_03_ForumCitSci.jpg
+featured: /assets/images/2016_03_ForumCitSci.jpg
 ---
 
 
