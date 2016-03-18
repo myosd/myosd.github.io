@@ -402,7 +402,7 @@ img.img-first {
 			li {
 				display: inline-block;
 				line-height: 1em;
-				padding-left: 1.5em;
+				padding-left: 0em;
 
 				&:first-child {
 					padding-left: 0;
@@ -836,9 +836,10 @@ img.img-first {
 
 	#footer {
 		padding: 4em 0 8em 0;
-		
+		color: $color-fg-light;
+        
 		a {
-			color: inherit;
+			color: $color-fg;
 			border-bottom-color: transparentize($color-fg, 0.75);
 			
 			&:hover {
