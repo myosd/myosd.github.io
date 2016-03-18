@@ -14,9 +14,15 @@ layout: default
 							<header class="major">
 								<h2>Aktuelle unveroeffentlichte Meldungen</h2>
 							</header>
-                            {% assign upubs = (site.posts | where: "published","false") %}
-                            <h1>Number posts: {{ pubs.size }} </h1>
-							{% for post in upubs %}
+                            
+                            <h1>Number posts: {{ site.posts.size }} </h1>
+                            {% assign postCounter = 0 %}
+							{% for post in site.posts %}
+                            {% assign postCounter = postCounter | plus: 1 %}
+                            <!--
+                            <h1> {{ postCounter}} post published:{{ post.title}}:{{ post.published }} </h1>
+                            -->
+                                {% unless post.published or post.published == true %} 
 								<div class="row">
 									<section class="12u">
 										<div class="box post">
@@ -35,6 +41,7 @@ layout: default
 										</div>
 									</section>
 								</div>
+                                {% endunless %}
 							{% endfor %}
 						</section>
 					</div>
