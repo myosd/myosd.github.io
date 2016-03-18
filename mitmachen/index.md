@@ -36,7 +36,7 @@ Auch wenn Du keine Mikroorganismen sammeln möchtest, kannst Du am MyOSD mitmach
 
 Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus nehmen. Vom Boot, Surfbrett oder Kajak aus, ...Deiner Phantasie sind keine Grenzen gesetzt.
 
-VIDEO TUTORIAL VERLINKEN
+![Video Tutorial]({{site.baseurl}}/assets/images/Video_tutorial_preliminary.jpg)
 
 ## Wie bekomme ich mein Kit?
 Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, ist in einer Liste am Ende der Seite zusammengestellt. Vielleicht gibt es ja jemanden ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. 
