@@ -14,9 +14,9 @@ layout: default
 							<header class="major">
 								<h2>Aktuelle unveroeffentlichte Meldungen</h2>
 							</header>
-                            {% assign pubs = (site.posts | where: "published","false") %}
+                            {% assign upubs = (site.posts | where: "published","false") %}
                             <h1>Number posts: {{ pubs.size }} </h1>
-							{% for post in pubs %}
+							{% for post in upubs %}
 								<div class="row">
 									<section class="12u">
 										<div class="box post">
