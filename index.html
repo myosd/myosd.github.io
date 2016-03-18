@@ -87,13 +87,16 @@ Proben genommen? Welche Ergebnisse haben wir?</a></p>
                 <section class="6u">
                     <div class="box post">
                         {% if post.featured %}
-                        <a href="{{ post.url }}" class="image left">
+                        <a href="{{ site.baseurl }}{{ post.url }}" class="image left">
                             <img src="{{ site.baseurl }}{{ post.featured }}" alt="">
                         </a>
                         {% endif%}
                         <div class="inner">
                             <h3>{{ post.title}}</h3>
                             <p>{{ post.excerpt}}</p>
+                            <footer>
+                                <a href="{{ site.baseurl }}{{ post.url }}" class="button">Weiter lesen</a>
+                            </footer>
                         </div>
                     </div>
                 </section>

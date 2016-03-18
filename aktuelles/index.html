@@ -20,7 +20,7 @@ layout: default
 									<section class="12u">
 										<div class="box post">
                                             {% if post.featured %}
-											<a href="#" class="image left">
+											<a href="{{ site.baseurl }}{{ post.url }}" class="image left">
                                                 <img src="{{ site.baseurl }}{{ post.featured }}" alt="">
                                             </a>
                                             {% endif%}
