@@ -6,7 +6,7 @@ published: true
 
 
 
-![]({{site.baseurl}}/({{site.baseurl}}/assets/images/team-pic.jpg)
+![]({{site.baseurl}}//assets/images/team-pic.jpg)
 
 ### Prof. Dr. Frank Oliver Glöckner
 Kopf der Bioinformatik und Genomik Gruppe am [Max Planck Institut für Marine Mikrobiologie in Bremen](http://www.mpi-bremen.de) und der [Jacobs University](http://www.jacobs-university.de). Als Projektleiter des [Micro B3 Projektes](https://www.microb3.eu) ist er einer der Gründer, Koordinator und größten Unterstützer des [OSD](http://www.oceansamplingday.org) und MyOSD Projektes. 
