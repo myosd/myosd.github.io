@@ -72,7 +72,7 @@
 		color: inherit;
 		font-weight: 600;
 		line-height: 1.75em;
-		margin-bottom: 1em;
+		margin-bottom: 0.5em;
 		
 		a {
 			color: inherit;
@@ -140,6 +140,27 @@
 			
 			h2 {
 				font-size: 2.25em;
+			}
+			
+			p {
+				position: relative;
+				border-top: solid 1px $color-border;
+				padding: 0.2em 0 0 0;
+				margin: 0;
+				top: -1em;
+				font-size: 1.5em;
+				letter-spacing: -0.025em;
+			}
+		}
+        
+        &.page {
+			text-align: center;
+			margin: 0 0 0 0;
+			
+			h2 {
+				font-size: 2em;
+                line-height: -1em;
+                margin: 0 0 0 0;
 			}
 			
 			p {

@@ -81,9 +81,10 @@ Proben genommen? Welche Ergebnisse haben wir?</a></p>
 			<h2>Aktuelles</h2>
         </header>
             <div class="row">
-            {% assign pubs = (site.posts | where: "published","true") %}
-            {% for post in pubs offset: 0 limit: 4 %}
-                {% if post.published == true %}
+            {% assign postCounter = 0 %}
+            {% for post in site.posts %}
+                {% if postCounter < 4 and post.published  %}
+                {% assign postCounter = postCounter | plus: 1 %}
                 <section class="6u">
                     <div class="box post">
                         {% if post.featured %}

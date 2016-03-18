@@ -2,13 +2,10 @@
 published: true
 title: Forum Citizen Science
 layout: post
-feature: /assets/images/2016_03_ForumCitSci.jpg
 featured: /assets/images/2016_03_ForumCitSci.jpg
 ---
 
-
-## Das Forum Citizen Science Deutschland: Eine Strategie für Nachhaltigkeit und Innovation
-
+Das Forum Citizen Science Deutschland: Eine Strategie für Nachhaltigkeit und Innovation
 
 
 Nach intensiver Arbeit wurde am 16. März das Rahmenpapier zur Citizen Science Strategie 2020 für Deutschland der breiten Öffentlichkeit vorgestellt. Erfolgsgeschichten, Nachhaltigkeit und Innovation, verschiedene Formen der Partizipation und Citizen Science in der Wissenschaft wurden von Stakeholder aus Gesellschaft, Wissenschaft und Politik vorgestellt und diskutiert.

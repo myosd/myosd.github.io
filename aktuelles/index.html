@@ -14,8 +14,9 @@ layout: default
 							<header class="major">
 								<h2>Aktuelle Meldungen</h2>
 							</header>
-                            {% assign pubs = (site.posts | where: "published","true") %}
-							{% for post in pubs %}
+                            
+							{% for post in site.posts %}
+                              {% if post.published %}
 								<div class="row">
 									<section class="12u">
 										<div class="box post">
@@ -34,6 +35,7 @@ layout: default
 										</div>
 									</section>
 								</div>
+                                {% endif %}
 							{% endfor %}
 						</section>
 					</div>
