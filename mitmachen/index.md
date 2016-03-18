@@ -13,7 +13,7 @@ published: true
 
 ## Wer kann mitmachen?
 
-Jede und jeder ist willkommen. Egal, ob Einzelpersonen, Vereinsgruppen oder Schulklassen. Im Team könnt Ihr Euch bei der Probennahme und beim Filtrieren unterstützen. Jüngere Kinder sollten am besten in Begleitung eines Erwachsenen sein. 
+Jede und jeder ist willkommen. Egal, ob Einzelpersonen, Familien, Vereinsgruppen oder Schulklassen. Im Team könnt Ihr Euch bei der Probennahme und beim Filtrieren unterstützen. Jüngere Kinder sollten am besten in Begleitung eines Erwachsenen sein. 
 Für Schüler ab der 11. Klasse haben wir Unterrichtsmaterial erstellt. Sprecht uns an (myosd-contact(at)microb3.eu)!
 
 ## Wo kann ich mitmachen?
