@@ -28,6 +28,7 @@ Achte bitte darauf, daß Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 ## Wie kann ich mitmachen?
 ![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
+
 Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 25. April 2016 freigeschaltet sein. Du erhälst dann ein Sampling Kit. Das Sampling Kit enthält alles, um eine Probe aus Nord und Ostsee oder einem Mündungsfluss zu entnehmen. 
 Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Dieser wird dann zurück zu uns nach Bremen geschickt. Hier bestimmen wir dann die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video Tutorial ansehen. Eine genaue Beschreibung zur Nutzung des Sampling Kits kannst Du auch weiter unten auf dieser Seite herunterladen. 
 Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwerten. Dazu gehört die Wassertemperatur, sowie der Salzghalt und der pH-Wert. 
@@ -60,10 +61,11 @@ Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt 
 - Die OSD Citizen App kannst Du kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) und App Store für [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) herunterladen. Sieh Dir zur Nutzung bitte auch das Video Tutorial an. 
 - Du kannst ihm Google Play store oder Apple App store natürlich auch direkt nach der „OSD citizen“ App suchen.
 - Vor der ersten Nutzung muß die App einmal mit bestehender Internetverbindung geöffnet werden, da noch Grundeinstellungen vorgenommen werden müssen. Dies ist nur beim ersten Start notwendig. Danach kann die App jederzeit auch offline genutzt werden, da alle Daten in der App gespeichert werden. 
-1. Bitte klick zuerst auf den “Persönlich“ Knopf unten links.
+1. Bitte klick zuerst auf den “Persönlich“ Knopf unten links.    
 2. Im erscheinenden Feld fülle bitte die Felder für Vor- und Nachnamen aus. Dies sind Pflichtfelder. Du kannst diese Daten jederzeit ändern. Beachte, daß der eingegebene Name auf der myOSD Server Seite angezeigt wird. Wenn Du Deinen eigenen Namen nicht eingeben möchtest, nutze bitte einen Nickname.
 3. Die Eingabe aller weiteren Felder ist freiwillig.
-4. Bitte immer am unteren Bildrand auf „Speichern“ klicken.
+4. Bitte immer am unteren Bildrand auf „Speichern“ klicken. Nach diesen Schritten ist die App einsatzbereit! Nun kannst Du das erste Sample erstellen. Die Daten können offline eingetragen werden. Nur um ein fertiges Sample abzuschicken benötigst Du eine Internetverbindung. Dazu bitte auf ‘Samples Hochladen’ klicken.
+
 Nach diesen Schritten ist die App einsatzbereit! Nun kannst Du das erste Sample erstellen. Die Daten können _offline_ eingetragen werden. Nur um ein fertiges Sample abzuschicken benötigst Du eine Internetverbindung. Dazu bitte auf 'Samples Hochladen' klicken.
 
 
