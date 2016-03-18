@@ -2,7 +2,9 @@
 title: Mitmachen
 layout: page
 published: true
---- 
+---
+
+ 
 
 
 **Sampling ist englisch und heißt soviel wie Probenentnahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day- nehmen WissenschaftlerinnenForscher und WissenschaftlerBürger überall auf der Welt Wasserproben genommen. Im Wissenschaftsjahr 2016*17 können im MyOSD Projekt bis zu 1,000 Hobbyforscherinnen und Hobbyforscher an deutschen Küsten und Mündungsflüssen Proben entnehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**
@@ -12,7 +14,7 @@ published: true
 ![Sampling scheme ]({{site.baseurl}}/assets/images/Sampling_scheme_preliminary.jpg)
 
 
-## Wer kann mitmachen?
+## Wer kann mitmachen? xxx
 
 Jede und jeder ist willkommen. Egal, ob Einzelpersonen, Vereinsgruppen oder Schulklassen. Jüngere Kinder sollten am besten in Begleitung eines Erwachsenen sein. Zu zweit könnt ihr euch gut bei der Probennahme und beim Filtrieren unterstützen.
 
@@ -89,4 +91,3 @@ Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigen
 - Beschreibung (How to sample) (deutsch) 
 
 - Flyer MyOSD 2016 (deutsch)
-
