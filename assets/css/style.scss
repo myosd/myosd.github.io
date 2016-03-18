@@ -337,7 +337,11 @@ img.img-first {
 	
 /* Lists */
 
-	ol {
+    ol { 
+        list-style-type: decimal; 
+        list-style-position: outsite; 
+        padding-left: 1.25em;
+
 		&.default {
 			list-style: decimal;
 			padding-left: 1.25em;
