@@ -2,7 +2,7 @@
 title: Lorem Ipsum Dolor Sit Amet
 featured: /assets/images/pic03.jpg
 layout: post
-published: true
+published: false
 ---
 
 ## Super ueberschrift

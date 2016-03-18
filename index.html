@@ -63,14 +63,26 @@ Proben genommen? Welche Ergebnisse haben wir?</a></p>
 	</section>
 
 
-<!-- Posts -->
+<!-- Gigantic Heading -->
 	<section class="wrapper style1">
+		<div class="container">
+			<header class="major">
+				<h2>Interesse, Fragen oder Anregungen?</h2>
+				<p><a href="mailto:myosd-contact@microb3.eu">Schreib uns</a></p>
+                
+			</header>
+		</div>
+	</section>
+
+<!-- Posts -->
+	<section class="wrapper style2">
 		<div class="container">
         <header class="major">
 			<h2>Aktuelles</h2>
         </header>
             <div class="row">
-            {% for post in site.posts offset: 0 limit: 4 %}
+            {% assign pubs = (site.posts | where: "published","true") %}
+            {% for post in pubs offset: 0 limit: 4 %}
                 {% if post.published == true %}
                 <section class="6u">
                     <div class="box post">

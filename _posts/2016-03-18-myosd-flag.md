@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 title: MyOSD Fahne
 layout: post
+featured: /assets/images/myosd-flag.png
 ---
 
 ## Die neue MyOSD Fahne is eingetroffen

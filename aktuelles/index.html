@@ -14,7 +14,8 @@ layout: default
 							<header class="major">
 								<h2>Aktuelle Meldungen</h2>
 							</header>
-							{% for post in site.posts offset: 0 limit: 10 %}
+                            {% assign pubs = (site.posts | where: "published","true") %}
+							{% for post in pubs %}
 								<div class="row">
 									<section class="12u">
 										<div class="box post">
