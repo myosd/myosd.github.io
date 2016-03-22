@@ -6,8 +6,9 @@ published: true
 
 
 
+
 # Was kostet ein Sampling Kit?
-Nichts. Wir verteilen die Sammpling Kits gratis. Bestellt aber bitte nur ein Kit wenn ihr auch wirklich vorhabt am 21. Juni eine Probe zu nehmen. Jedes Kit ist wichtig, denn wir bekommen mit jeder Probe ein besserer Bild über die Mikroorganismen. Die Kits beinhalten teure Materialien und werden von uns mit Hand hergestellt, daher waer es schade wenn sie ungenutzt bleiben. Die Sampling Kits können über die MyOSD Hubs kostenlos zu uns zurückgeschickt werden.
+Für Dich nichts. Wir verteilen die Sammpling Kits gratis. Bestellt aber bitte nur ein Kit wenn ihr auch wirklich vorhabt am 21. Juni eine Probe zu nehmen. Jedes Kit ist wichtig, denn wir bekommen mit jeder Probe ein besserer Bild über die Mikroorganismen. Die Kits beinhalten teure Materialien und werden von uns mit Hand hergestellt, daher waer es schade wenn sie ungenutzt bleiben. Die Sampling Kits können über die MyOSD Hubs kostenlos zu uns zurückgeschickt werden.
 
 # Kann ich nur am 21. Juni eine Probe nehmen?
 Das Konzept des OSD und MyOSD besteht darin, eine Momentaufnahme der Artenvielfalt und Aufgaben der Kleinstlebewesen unserer Flüsse und Meere zu erhalten. Das geht nur bei einer gemeinsamen Probennahme am 21. Juni. 
