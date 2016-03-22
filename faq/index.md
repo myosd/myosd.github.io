@@ -6,7 +6,7 @@ published: true
 
 
 # Was kostet ein Sampling Kit?
-Für Euch nichts. Wir verteilen die Kits gratis. Bestellt aber bitte nur ein Kit wenn ihr auch wirklich vorhabt am 21. Juni eine Probe zu nehmen. Die Kits beinhalten teure Materialien und werden von uns von Hand hergestellt, daher wäre es schade wenn sie ungenutzt bleiben.
+Für Euch nichts. Wir verteilen die Kits gratis. Bestellt aber bitte nur ein Kit wenn ihr auch wirklich vorhabt am 21. Juni 2016 eine Probe zu nehmen. Die Kits beinhalten teure Materialien und werden von uns von Hand hergestellt, daher wäre es schade wenn sie ungenutzt bleiben.
 
 # Kann ich nur in Deutschland Proben nehmen?
 Ja, leider könnt ihr nur in Deutschland Proben nehmen und zwar aus rechtlichen Gründen. Wenn ihr aus dem Ausland eine Probe mit Biomaterial zu Forschungszwecken entnehmt und ohne Genehmigung nach Deutschland einführt ist das Biopiraterie. Daher können wir nur Proben aus Deutschland oder von MyOSD Hubs aus dm Ausland akzeptieren.
