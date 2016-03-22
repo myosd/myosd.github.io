@@ -5,6 +5,7 @@ published: true
 
 
 
+
 # Was kostet ein Sampling Kit?
 Nichts. Wir verteilen die Sammpling Kits gratis. Bestellt aber bitte nur ein Kit wenn ihr auch wirklich vorhabt am 21. Juni eine Probe zu nehmen. Jedes Kit ist wichtig, denn wir bekommen mit jeder Probe ein besserer Bild über die Mikroorganismen. Die Kits beinhalten teure Materialien und werden von uns mit Hand hergestellt, daher waer es schade wenn sie ungenutzt bleiben. Die Sampling Kits können über die MyOSD Hubs kostenlos zu uns zurückgeschickt werden.
 
@@ -12,7 +13,7 @@ Nichts. Wir verteilen die Sammpling Kits gratis. Bestellt aber bitte nur ein Kit
 Das Konzept des OSD und MyOSD besteht darin, eine Momentaufnahme der Artenvielfalt und Aufgaben der Kleinstlebewesen unserer Flüsse und Meere zu erhalten. Das geht nur bei einer gemeinsamen Probennahme am 21. Juni. 
 
 # Kann ich nur in Deutschland Proben nehmen?
-Ja, leider kannst Du nur in Deutschland Proben nehmen und zwar aus rechtlichen Gruenden. Wenn Du aus dem Ausland eine Probe mit Biomaterial zu Forschungszwecken entnimmst und ohne Genehmigung nach Deutschland einführst ist das Biopiratierie. Daher koennen wir nur Proben aus Deutschland oder von MyOSD Hubs aus dem Ausland akzeptieren, die die rechtliche Erlaubnis zum Ausführen der Proben eingeholt haben.
+Ja, leider kannst Du nur in Deutschland Proben nehmen und zwar aus rechtlichen Gruenden. Wenn Du aus dem Ausland eine Probe mit Biomaterial zu Forschungszwecken entnimmst und ohne Genehmigung nach Deutschland einführst ist das Biopiraterie. Daher koennen wir nur Proben aus Deutschland oder von MyOSD Hubs aus dem Ausland akzeptieren, die die rechtliche Erlaubnis zum Ausführen der Proben eingeholt haben.
 
 # Kann ich auch am Rhein oder der Donau Proben nehmen?
 Nein leider nicht. Der Grund hierfuer ist, dass die Donau ins Schwarze Meer und der Rhein zwar in die Nordsee fließt, aber leider nicht innerhalb der deutschen Grenzen. Da wir aus rechtlichen Gruenden nur Proben innerhalb des deutschen Grenzgebiets nehmen koennen, entfallen diese Flüsse leider.
