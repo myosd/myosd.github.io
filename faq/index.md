@@ -25,3 +25,7 @@ Du kannst auch ohne ein Sampling Kit am 21. Juni wertvolle Daten sammeln. Zu die
 
 # Was passiert mit den Daten, die ich mit der MyOSD App hochlade?
 Die Daten werden in unserer Datenbank gespeichert und durch unseren App Server öffentlich zugänglich gemacht. 
+
+# Wie finde ich die genauen Koordinaten meines Probennahme-Ortes heraus?
+Am einfachsten geht dies mit der OSD Citizen App. Wenn die GPS Funktion auf dem Handy aktiviert ist, werden die Koordinaten automatisch eingetragen.
+Du kannst auch eine externe Kartenanwendung verwenden, wie z.B. Google Maps. Dort kannst Du den Längen- und Breitengrad ermitteln, indem Du den Mauszeiger über Deinem Standort positionierst. Durch einen Rechtsklick erscheint ein Popup Fenster. Durch anschließendes Klicken auf 'Was ist hier?' werden die Koordinaten in einem Suchfeld oben auf der Webseite angezeigt. Die erste Zahl ist der Breitengrad, die zweite Zahl der Längengrad.
