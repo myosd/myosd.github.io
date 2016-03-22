@@ -6,6 +6,7 @@ featured: "/assets/images/myosd-icon.gif"
 ---
 
 
+
 **Im Meer lebt mehr: Gut zwei Drittel unseres blauen Planeten sind von Wasser bedeckt. Und darin tummeln sich rund 80 Prozent aller Lebewesen auf der Erde – auch wenn viele mit bloßem Auge gar nicht zu erkennen sind: die Mikroorganismen.**
 
 ## Was ist My Ocean Sampling Day (MyOSD)? 
@@ -14,6 +15,7 @@ Das Ziel: Ein besseres Verständnis des marinen Ökosystems.
 Zum Wissenschaftsjahr 2016*17 - Meere und Ozeane - setzen wir mit MyOSD den Fokus auf Deutschland. Wir möchten eine Momentaufnahme der Mikroorganismen (Bakterien) an deutschen Meeresküsten und Mündungsflüssen kreieren. 
 
 Küsten sind spannende Ökosysteme: Hier trifft das Meer mit dem Festland zusammen. Nährstoffe, aber auch viel Dreck, Müll und andere Verschmutzungen gelangen dabei direkt, oder über die Flüsse, in die Weltmeere. 
+
 Wir wollen wissen, wie sich die mikrobiellen Gemeinschaften von der Quelle bis zum Meer verändern. Wie wirken sich z.B. Städte oder Industrie auf die Artenvielfalt aus? Beeinflussen die Nährstoffe aus den Flüssen die Artengemeinschaft an den Küsten, oder ist z.B. der Salzgehalt oder die Temperatur der wichtigste Faktor? Was für Aufgaben haben diese Artengemeinschaften im Ökosystem? Wie werden sie durch menschliche Aktivitäten beeinflusst? Das sind nur einige der Fragen, die wir mit MyOSD 2016 beantworten wollen.
 
 ## Wer kann mitmachen?
@@ -30,4 +32,3 @@ Obwohl die Bedeutung von Mikroorganismen für unser Leben seit langem bekannt is
 
 ## Woher kommt der OSD/MyOSD?
 Der Ocean Sampling Day ist aus dem EU-Projekt [Micro B3](https://www.microb3.eu/) (2012-2015) entstanden. Dieses Projekt hatte zum Ziel marine Mikrobiologie in den Bereichen Biodiversität, Biotechnology und Bioinformatik voranzutreiben und war eine Kooperation aus 32 Instituten aus ganz Europa. Der OSD war ein sogenannter Anwendungsfall (use case) um die im Projekt genutzte Infrastruktur zu testen. Die Idee des OSD erfreute sich großer Beliebtheit, so dass in kürzester Zeit schnell über 150 Probennahmeorte in der ganzen Welt wurden. Der erste OSD fand am 21. Juni 2014 statt. Wissenschaftlerinnen und Wissenschaftler aus ganz Europa und Nordamerika, aus Australien und Asien sind dabei. Selbst einige Forschungsstationen in der Antarktis beteiligen sich am internationalen OSD. Auch im ersten Jahr wurden schon Bürger mit dem Citizen Science Projekt MyOSD einbezogen, die Umweltdaten (z.B. Temperatur oder Salzgehalt) messen und per OSD Citizen App an uns schicken konnten. Aufgrund der großen Nachfragen der Bürger, sich auch an der Probennahme für Mikroben beteiligen zu können, wurde MyOSD 2015 um das Sampling Kit erweitert. Citzen Scientists haben damit im letzten Jahr 192 Proben in 19 verschiedenen Ländern gesammelt - eine mehr, als die Wissenschaftlerinnen und Wissenschaftler.
-
