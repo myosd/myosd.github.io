@@ -27,6 +27,7 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 ## Wie kann ich mitmachen?
 ![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
+
 Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 25. April 2016 freigeschaltet. Du erhältst dann Dein Sampling Kit. Das Sampling Kit enthält alles, um eine Probe aus Nord und Ostsee oder einem Mündungsfluss zu entnehmen. 
 Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen müsst ihr dann zu uns nach Bremen schicken. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video Tutorial ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du weiter unten auf dieser Seite herunterladen. 
 Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwerten. Dazu gehört die Wassertemperatur, sowie der Salzgehalt und der pH-Wert. 
