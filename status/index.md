@@ -17,5 +17,5 @@ Was aktuell passiert könnt Ihr auch auf [Twitter](https://twitter.com/Micro_B3)
 
 Aktuelle Videos sind auf unserem [YouTube Kanal](https://www.youtube.com/channel/UCFrDqNblLC2qZoLIOuM0lnQ) zu sehen.
 
-![Bakterium]({{site.baseurl}}/assets/images/Funny_Bacterium_s.png)
+![Bakterium]({{site.baseurl}}/assets/images/Funny_Bacterium_s.PNG)
 
