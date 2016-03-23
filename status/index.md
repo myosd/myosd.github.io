@@ -14,4 +14,4 @@ Wir werden Euch auf jeden Fall per e-mail über den Stand der Arbeiten informier
 
 Was aktuell passiert könnt Ihr auch auf [Twitter](https://twitter.com/Micro_B3) und [Facebook](https://www.facebook.com/microb3osd) verfolgen.
 
-Aktuelel Videos sind auf unserem [YouTube Kanal](https://www.youtube.com/channel/UCFrDqNblLC2qZoLIOuM0lnQ) zu sehen.
+Aktuelle Videos sind auf unserem [YouTube Kanal](https://www.youtube.com/channel/UCFrDqNblLC2qZoLIOuM0lnQ) zu sehen.
