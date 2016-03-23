@@ -63,7 +63,7 @@ Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt 
 - Du kannst ihm Google Play store oder Apple App store natürlich auch direkt nach der „OSD citizen“ App suchen.
 - Vor der ersten Nutzung muss die App einmal mit bestehender Internetverbindung geöffnet werden, da noch Grundeinstellungen vorgenommen werden müssen. Dies ist nur beim ersten Start notwendig. Danach kann die App jederzeit auch offline genutzt werden, da alle Daten in der App gespeichert werden. 
 1. Bitte klick zuerst auf den “Persönlich“ Knopf unten links.    
-2. Im erscheinenden Feld fülle bitte die Felder für Vor- und Nachnamen aus. Dies sind Pflichtfelder. Du kannst diese Daten jederzeit ändern. Beachte, dass der eingegebene Name auf der myOSD Server Seite angezeigt wird. Wenn Du Deinen eigenen Namen nicht eingeben möchtest, nutze bitte einen Nickname.
+2. Im erscheinenden Feld fülle bitte die Felder für Vor- und Nachnamen aus. Dies sind Pflichtfelder. Du kannst diese Daten jederzeit ändern. Beachte, dass der eingegebene Name auf der MyOSD Server Seite angezeigt wird. Wenn Du Deinen eigenen Namen nicht eingeben möchtest, nutze bitte einen Nickname.
 3. Die Eingabe aller weiteren Felder ist freiwillig.
 4. Bitte immer am unteren Bildrand auf „Speichern“ klicken. Nach diesen Schritten ist die App einsatzbereit! Nun kannst Du das erste Sample erstellen. Die Daten können offline eingetragen werden. Nur um ein fertiges Sample abzuschicken benötigst Du eine Internetverbindung. Dazu bitte auf ‘Samples Hochladen’ klicken.
 
