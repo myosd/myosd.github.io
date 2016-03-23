@@ -2,7 +2,6 @@
 title: My Ocean Sampling Day
 layout: page
 published: true
-featured: "/assets/images/myosd-icon.gif"
 ---
 
 
