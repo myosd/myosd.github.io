@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 **Meer wissen - Schritt für Schritt: Sampling ist Englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day - nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können im MyOSD Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**
 
 ![Sampling scheme ]({{site.baseurl}}/assets/images/Sampling_scheme_preliminary.jpg)
@@ -42,7 +43,7 @@ Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus ne
 
 ## Wie bekomme ich mein Kit?
 Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, ist in einer Liste am Ende der Seite zusammengestellt. Vielleicht gibt es ja eines ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. 
-Am besten gleich hier registrieren und ein Sampling Kit reservieren.
+Am besten gleich registrieren und ein Sampling Kit reservieren.
 
 Die Sampling Kits bestehen (unter anderem) aus:
 
@@ -53,7 +54,6 @@ Die Sampling Kits bestehen (unter anderem) aus:
 - Spritzen für die Probenentnahme
 - Filter
 - Aufkleber und Tüte
-
 
 ## Die MyOSD Citizen App
 Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die OSD Citizen App eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD Server geschickt und gleich auf der Webseite angezeigt. Die App ist für Android Smartphones und iPhones erhältlich.
@@ -82,10 +82,10 @@ Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigen
 
 ## Downloads
 Sorry, die folgenden Dokumente sind noch in Arbeit. Wir arbeiten daran, sie Dir sobald wie möglich zur Verfügung zu stellen.
+
 - MyOSD Handbuch zur Probennahme (deutsch) 
 - MyOSD Logsheet (deutsch)
 - App Guide (OSD Citizen App) (deutsch)
 - Liste der Hubs für den MyOSD 2016 (deutsch)
 - Flyer MyOSD 2016 (deutsch)
 - Guidelines for Hubs (english)
-
