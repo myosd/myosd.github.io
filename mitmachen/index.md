@@ -36,7 +36,7 @@ Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwert
 
 Auch wenn Du keine Mikroorganismen sammeln möchtest kannst Du am MyOSD mitmachen. Dazu misst Du einfach einzelne Umweltparameter, z.B. der Wasser- und Lufttemperatur, pH-Wert oder Nährstoffe - und trägst diese dann in die OSD Citizen App ein.
 
-Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus nehmen. Vom Boot, Surfbrett oder Kajak aus, ...Deiner Phantasie sind keine Grenzen gesetzt.
+Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus nehmen. Vom Boot, Surfbrett oder Kajak aus, ... Deiner Phantasie sind keine Grenzen gesetzt.
 
 ![Video Tutorial]({{site.baseurl}}/assets/images/Video_tutorial_preliminary.jpg)
 
