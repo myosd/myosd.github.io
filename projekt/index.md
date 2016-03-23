@@ -9,6 +9,7 @@ featured: "/assets/images/myosd-icon.gif"
 
 
 **Im Meer lebt mehr: Gut zwei Drittel unseres blauen Planeten sind von Wasser bedeckt. Und darin tummeln sich rund 80 Prozent aller Lebewesen auf der Erde – auch wenn viele mit bloßem Auge gar nicht zu erkennen sind: die Mikroorganismen.**
+
 ![MyOSD Logo]({{site.baseurl}}//assets/images/MyOSD-logo_transp_Hintergrund.png)
 
 ## Was ist My Ocean Sampling Day (MyOSD)? 
