@@ -87,5 +87,5 @@ Sorry, die folgenden Dokumente sind noch in Arbeit. Wir arbeiten daran, sie Dir 
 - MyOSD Logsheet (deutsch)
 - App Guide (OSD Citizen App) (deutsch)
 - Liste der Hubs für den MyOSD 2016 (deutsch)
-- Flyer MyOSD 2016 (deutsch)
+- [Flyer & Plakat MyOSD 2016 (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/WAPXUGf1ELlr3u5)
 - Guidelines for Hubs (english)
