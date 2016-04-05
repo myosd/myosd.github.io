@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ![]({{site.baseurl}}//assets/images/OSD_Team_2016.jpg)
 
 ### Prof. Dr. Frank Oliver Glöckner
@@ -16,7 +17,7 @@ Kopf der Bioinformatik und Genomik Gruppe am [Max Planck Institut für Marine Mi
 Von Anfang an beim OSD als Koordinator, OSD Teilnehmer und Kämpfer gegen das Datenchaos dabei. Ihr größtes Baby war und ist aber letztendlich das MyOSD Projekt. Unsere Science Slam Queen ist sie dann nebenbei auch noch. 
 
 ### Renzo Kottmann
-Der Standard-Nerd des Teams und OSD-Mitinitiator der ersten Stunde. Er stürzt sich auf alles was mit Computern und OSD/MyOSD zu tun hat, auch wenn er sich dafür nächtelang im Keller einsperrt. Er ist der Highländer im Feldzug gegen das Datenchaos und der Retter des OSD/MyOSD Datenschatzes.  
+Der Standard-Nerd des Teams und OSD-Mitinitiator der ersten Stunde. Er stürzt sich auf alles was mit Computern und OSD/MyOSD zu tun hat, auch wenn er sich dafür nächtelang im Keller einsperrt. Er ist der Highlander im Feldzug gegen das Datenchaos und der Retter des OSD/MyOSD Datenschatzes.  
 
 ### Julia Busch
 Nach dem sie das Coast & Ocean Citizen Science Projekt [Citclops](http://www.citclops.eu)/[EyeOnWater](http://eyeonwater.org/color/welcome.php) groß gemacht hat, ist Julia nun bei uns im Team und hilft uns MyOSD in diesem Jahr noch besser zu machen. Denn Julia ist schlicht unsere Citizen Science Fach-Nerdin und Mikroben Versteherin - von der Fernerkundung bis zum Mikroskoop.
