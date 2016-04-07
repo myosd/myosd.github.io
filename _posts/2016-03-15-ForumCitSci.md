@@ -2,7 +2,7 @@
 published: true
 title: Forum Citizen Science
 layout: post
-featured: /assets/images/2016_03_ForumCitSci.jpg
+featured: /assets/images/science_cliption.jpg
 ---
 
 Das Forum Citizen Science Deutschland: Eine Strategie für Nachhaltigkeit und Innovation
