@@ -1,7 +1,7 @@
 name: MyOSD
 description: My Ocean Sampling Day
 # paginate: 10
-baseurl: "//www.myosd.org"
+baseurl: "//www.my-osd.org"
 
 sass:
     sass_dir: _sass
