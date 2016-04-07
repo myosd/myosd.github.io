@@ -10,7 +10,7 @@ published: true
 
 **Meer wissen - Schritt für Schritt: Sampling ist Englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day - nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können im MyOSD Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**
 
-![Sampling scheme ]({{site.baseurl}}/assets/images/Sampling_scheme_preliminary.jpg)
+<img src="/assets/images/handy.svg" width="190" height="100" /><img src="/assets/images/box.svg" width="190" height="100" /><img src="/assets/images/spritze.svg" width="190" height="100" /><img src="/assets/images/brief.svg" width="190" height="100" />
 
 ## Wer kann mitmachen?
 
@@ -46,7 +46,7 @@ Toll wäre es wenn Du uns Fotos oder kleine Videos von Deiner Probennahme schick
 
 ![Video Tutorial]({{site.baseurl}}/assets/images/Video_tutorial_preliminary.jpg)
 
-## Wie bekomme ich mein Kit?
+## Wie bekomme ich mein Kit?<img src="/assets/images/box.svg" width="190" height="100" />
 Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, ist in einer Liste am Ende der Seite zusammengestellt. Vielleicht gibt es ja eines ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. 
 Am besten gleich registrieren und ein Sampling Kit reservieren.
 
@@ -60,7 +60,7 @@ Die Sampling Kits bestehen (unter anderem) aus:
 - Filter
 - Aufkleber und Tüte
 
-## Die MyOSD Citizen App
+## Die MyOSD Citizen App<img src="/assets/images/handy.svg" width="190" height="100" />
 Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die OSD Citizen App eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD Server geschickt und gleich auf der Webseite angezeigt. Die App ist für Android Smartphones und iPhones erhältlich.
 
 ### App Installation:
