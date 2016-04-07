@@ -14,7 +14,7 @@ published: true
 ## Was ist My Ocean Sampling Day (MyOSD)? 
 Sampling ist Englisch und heißt so viel wie Probenentnahme. Denn am Tag der Sommersonnenwende – dem Ocean Sampling Day (OSD)– nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben, um die Mikroorganismen darin zu untersuchen. MyOSD ist das integrierte Citizen Science Projekt des Ocean Sampling Days. Zusammen mit Teams aus Wissenschaftlern können interessierte Bürger das Wissen über unsere Ozeane und Meere vermehren. 
 Das Ziel: Ein besseres Verständnis des marinen Ökosystems. 
-Zum Wissenschaftsjahr 2016*17 - Meere und Ozeane - setzen wir mit MyOSD den Fokus auf Deutschland. Wir möchten eine Momentaufnahme der Mikroorganismen (Bakterien) an deutschen Meeresküsten und Mündungsflüssen kreieren. 
+Zum [Wissenschaftsjahr 2016*17 - Meere und Ozeane -] (https://www.wissenschaftsjahr.de/) setzen wir mit MyOSD den Fokus auf Deutschland. Wir möchten eine Momentaufnahme der Mikroorganismen (Bakterien) an deutschen Meeresküsten und Mündungsflüssen kreieren. 
 
 Küsten sind spannende Ökosysteme: Hier trifft das Meer mit dem Festland zusammen. Nährstoffe, aber auch viel Dreck, Müll und andere Verschmutzungen gelangen dabei direkt, oder über die Flüsse, in die Weltmeere. 
 
