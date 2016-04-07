@@ -22,7 +22,8 @@ Küsten sind spannende Ökosysteme: Hier trifft das Meer mit dem Festland zusamm
 Wir wollen wissen, wie sich die mikrobiellen Gemeinschaften von der Quelle bis zum Meer verändern. Wie wirken sich z.B. Städte oder Industrie auf die Artenvielfalt aus? Beeinflussen die Nährstoffe aus den Flüssen die Artengemeinschaft an den Küsten, oder ist z.B. der Salzgehalt oder die Temperatur der wichtigste Faktor? Was für Aufgaben haben diese Artengemeinschaften im Ökosystem? Wie werden sie durch menschliche Aktivitäten beeinflusst? Das sind nur einige der Fragen, die wir mit MyOSD 2016 beantworten wollen.
 
 ## Wer kann mitmachen?
-Mitmachen können alle die Zugang zur Nord- und Ostsee oder deren Mündungsflüssen haben. Du kannst uns unterstützen indem Du Mikroorganismen mittels des MyOSD Sampling Kits sammelst und dabei wichtige Umweltdaten wie Wassertemperatur, Salzgehalt und pH-Wert bestimmst. ![]({{site.baseurl}}/assets/images/WJ16_OSD_Stoerer)
+Mitmachen können alle die Zugang zur Nord- und Ostsee oder deren Mündungsflüssen haben. Du kannst uns unterstützen indem Du Mikroorganismen mittels des MyOSD Sampling Kits sammelst und dabei wichtige Umweltdaten wie Wassertemperatur, Salzgehalt und pH-Wert bestimmst. 
+![]({{site.baseurl}}/assets/images/WJ16_OSD_Stoerer.gif)
 
 ## Wie kann ich Meer entdecken?
 Mit Hilfe des MyOSD Sampling Kits werden Wasserproben genommen. Die Proben werden dann nach Bremen geschickt und dort weiter verarbeitet, um die Bakterienarten darin zu bestimmen. Die resultierenden Ergebnisse werden für jeden frei verfügbar (open-access) veröffentlicht. Wir sind sicher, dass dieser umfangreiche Datensatz noch für viele andere wissenschaftliche Untersuchungen genutzt werden wird. 
