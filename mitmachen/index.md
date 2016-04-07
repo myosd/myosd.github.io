@@ -10,7 +10,13 @@ published: true
 
 **Meer wissen - Schritt für Schritt: Sampling ist Englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day - nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können im MyOSD Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**
 
-<img src="/assets/images/handy.svg" width="190" height="100" /><img src="/assets/images/box.svg" width="190" height="100" /><img src="/assets/images/spritze.svg" width="190" height="100" /><img src="/assets/images/brief.svg" width="190" height="100" />
+<div class="block">
+  <img src="/assets/images/handy.svg" width="190" height="100" />
+  <img src="/assets/images/box.svg" width="190" height="100" />
+  <img src="/assets/images/spritze.svg" width="190" height="100" />
+  <img src="/assets/images/brief.svg" width="190" height="100" />
+</div>
+
 
 ## Wer kann mitmachen?
 
