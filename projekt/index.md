@@ -36,7 +36,10 @@ Mit Hilfe des MyOSD Sampling Kits werden Wasserproben genommen. Die Proben werde
 Für die unkomplizierte Datenerfassung und -übermittlung sorgt die OSD Citizen App für [Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) und [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8). 
 Auch wenn Du keine Mikroorganismen sammeln möchtest kannst du beim MyOSD mitmachen: Messe Umweltparameter wie Wassertemperatur oder Nährstoffe und übertrage die Messdaten in unsere App oder in das Formular auf unserer Webseite.
 
+
+<div class="block">
 <img src="/assets/images/handy.svg" width="190" height="100" /><img src="/assets/images/box.svg" width="190" height="100" /><img src="/assets/images/spritze.svg" width="190" height="100" /><img src="/assets/images/brief.svg" width="190" height="100" />
+</div>
 
 ## Warum erforschen wir die mikrobielle Artenvielfalt?
 Wenn Menschen das Wort Mikroben, speziell Bakterien oder Viren hören, assoziieren sie diese meist mit Krankheiten. Dafür ist aber nur ein ganz kleiner Teil dieser Kleinstlebewesen verantwortlich. Die meisten Mikroorganismen sind im Gegenteil lebensnotwendig für uns. Speziell Mikroben im Meer haben wichtige Aufgaben. Photosynthetische Algen und Bakterien bilden z.B. die Basis der marinen Nahrungskette. Mit dieser Photosynthese produzieren sie die Hälfte des Sauerstoffs in unserer Atmosphäre. Spezielle Bakterien können auch chemische Stoffe ohne Hilfe des Sonnenlichts verarbeiten und ermöglichen so erst das Leben in der Tiefsee. Mit dem Abbau von Erdöl können uns Mikroorganismen bei Umweltkatastrophen helfen wie z.B. dem Horizon Oilspill. Das sind nur einige Beispiele für die Vielfalt der Kleinstlebewesen und deren Wichtigkeit für das Ökosystem Ozean, sowie für unser Leben an Land.
