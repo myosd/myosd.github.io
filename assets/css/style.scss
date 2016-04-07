@@ -583,7 +583,10 @@ img.img-first {
                 /* blocked divs */
             div.block img {
                 display: inline-block;
+             
                 text-align: center;
+                margin-left: auto;
+                margin-right: auto;
             }
         }
 
