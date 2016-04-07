@@ -1,9 +1,12 @@
 ---
 published: true
+title: Science Cliption und MyOSD
+layout: post
+featured: /assets/images/science_cliption.jpg
 ---
 
 
-## Ein schöner Artikel bei Science Cliption ueber Citizen Science und MyOSD
+## Ein schöner Artikel bei Science Cliption über Citizen Science und MyOSD
 
 Das Blog Science Cliption -Wissenschaft klip & clar- versucht Forschung für Jedermann/frau verständlich darzustellen. Hierbei ist der Fokus meist auf den Forschungsstandort Bremen gesetzt. Nun haben sie sich der Citizen Science Bewegung gewidmet und schreiben über die Bürger schaffen Wissen Platform und auch unseren MyOSD.
 http://www.science-cliption.de/2016/04/citizen-science-alle-koennen-forschen/
