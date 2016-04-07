@@ -7,21 +7,22 @@ published: true
 
 
 
+
 **Im Meer lebt mehr: Gut zwei Drittel unseres blauen Planeten sind von Wasser bedeckt. Und darin tummeln sich rund 80 Prozent aller Lebewesen auf der Erde – auch wenn viele mit bloßem Auge gar nicht zu erkennen sind: die Mikroorganismen.**
 
 ![MyOSD Logo]({{site.baseurl}}//assets/images/MyOSD-logo_transp_Hintergrund.png)
 
 ## Was ist My Ocean Sampling Day (MyOSD)? 
-Sampling ist Englisch und heißt so viel wie Probenentnahme. Denn am Tag der Sommersonnenwende – dem Ocean Sampling Day (OSD)– nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben, um die Mikroorganismen darin zu untersuchen. MyOSD ist das integrierte Citizen Science Projekt des Ocean Sampling Days. Zusammen mit Teams aus Wissenschaftlern können interessierte Bürger das Wissen über unsere Ozeane und Meere vermehren. 
+Sampling ist Englisch und heißt so viel wie Probenentnahme. Denn am Tag der Sommersonnenwende – [dem Ocean Sampling Day (OSD)](https://www.microb3.eu/osd)– nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben, um die Mikroorganismen darin zu untersuchen. MyOSD ist das integrierte Citizen Science Projekt des Ocean Sampling Days. Zusammen mit Teams aus Wissenschaftlern können interessierte Bürger das Wissen über unsere Ozeane und Meere vermehren. 
 Das Ziel: Ein besseres Verständnis des marinen Ökosystems. 
-Zum [Wissenschaftsjahr 2016*17 - Meere und Ozeane -] (https://www.wissenschaftsjahr.de/) setzen wir mit MyOSD den Fokus auf Deutschland. Wir möchten eine Momentaufnahme der Mikroorganismen (Bakterien) an deutschen Meeresküsten und Mündungsflüssen kreieren. 
+Zum [Wissenschaftsjahr 2016*17 - Meere und Ozeane -](https://www.wissenschaftsjahr.de/) setzen wir mit MyOSD den Fokus auf Deutschland. Wir möchten eine Momentaufnahme der Mikroorganismen (Bakterien) an deutschen Meeresküsten und Mündungsflüssen kreieren. 
 
 Küsten sind spannende Ökosysteme: Hier trifft das Meer mit dem Festland zusammen. Nährstoffe, aber auch viel Dreck, Müll und andere Verschmutzungen gelangen dabei direkt, oder über die Flüsse, in die Weltmeere. 
 
 Wir wollen wissen, wie sich die mikrobiellen Gemeinschaften von der Quelle bis zum Meer verändern. Wie wirken sich z.B. Städte oder Industrie auf die Artenvielfalt aus? Beeinflussen die Nährstoffe aus den Flüssen die Artengemeinschaft an den Küsten, oder ist z.B. der Salzgehalt oder die Temperatur der wichtigste Faktor? Was für Aufgaben haben diese Artengemeinschaften im Ökosystem? Wie werden sie durch menschliche Aktivitäten beeinflusst? Das sind nur einige der Fragen, die wir mit MyOSD 2016 beantworten wollen.
 
 ## Wer kann mitmachen?
-Mitmachen können alle die Zugang zur Nord- und Ostsee oder deren Mündungsflüssen haben. Du kannst uns unterstützen indem Du Mikroorganismen mittels des MyOSD Sampling Kits sammelst und dabei wichtige Umweltdaten wie Wassertemperatur, Salzgehalt und pH-Wert bestimmst. 
+Mitmachen können alle die Zugang zur Nord- und Ostsee oder deren Mündungsflüssen haben. Du kannst uns unterstützen indem Du Mikroorganismen mittels des MyOSD Sampling Kits sammelst und dabei wichtige Umweltdaten wie Wassertemperatur, Salzgehalt und pH-Wert bestimmst. ![]({{site.baseurl}}/assets/images/WJ16_OSD_Stoerer)
 
 ## Wie kann ich Meer entdecken?
 Mit Hilfe des MyOSD Sampling Kits werden Wasserproben genommen. Die Proben werden dann nach Bremen geschickt und dort weiter verarbeitet, um die Bakterienarten darin zu bestimmen. Die resultierenden Ergebnisse werden für jeden frei verfügbar (open-access) veröffentlicht. Wir sind sicher, dass dieser umfangreiche Datensatz noch für viele andere wissenschaftliche Untersuchungen genutzt werden wird. 
