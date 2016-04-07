@@ -581,12 +581,11 @@ img.img-first {
                 margin-right: auto;
             }
                 /* blocked divs */
-            div.block img {
-                display: inline-block;
-             
+            div.block {
                 text-align: center;
-                margin-left: auto;
-                margin-right: auto;
+                img {
+                    display: inline-block;
+                }
             }
         }
 
