@@ -15,6 +15,7 @@ published: true
 Auf dieser Seite werden wir euch über den Stand der Arbeiten informieren.
 
 Was aktuell passiert könnt Ihr auch auf [Twitter](https://twitter.com/Micro_B3) und [Facebook](https://www.facebook.com/microb3osd) verfolgen.
+
 #myosd #oceansamplingday #citizenscience
 
 Aktuelle Videos sind auf unserem [YouTube Kanal](https://www.youtube.com/channel/UCFrDqNblLC2qZoLIOuM0lnQ) zu sehen.
