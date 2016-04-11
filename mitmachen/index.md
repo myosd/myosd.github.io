@@ -77,9 +77,9 @@ Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt 
 1. Bitte klick zuerst auf den “Persönlich“ Knopf unten links.    
 2. Im erscheinenden Feld fülle bitte die Felder für Vor- und Nachnamen aus. Dies sind Pflichtfelder. Du kannst diese Daten jederzeit ändern. Beachte, dass der eingegebene Name auf der MyOSD Server Seite angezeigt wird. Wenn Du Deinen eigenen Namen nicht eingeben möchtest, nutze bitte einen Nicknamen.
 3. Die Eingabe aller weiteren Felder ist freiwillig.
-4. Bitte immer am unteren Bildrand auf „Speichern“ klicken. Nach diesen Schritten ist die App einsatzbereit! Nun kannst Du das erste Sample erstellen. Die Daten können offline eingetragen werden. Nur um ein fertiges Sample abzuschicken benötigst Du eine Internetverbindung. Dazu bitte auf ‘Samples Hochladen’ klicken.
+4. Bitte immer am unteren Bildrand auf „Speichern“ klicken. 
 
-Nach diesen Schritten ist die App einsatzbereit! Nun kannst Du das erste Sample erstellen. Die Daten können _offline_ eingetragen werden. Nur um ein fertiges Sample abzuschicken benötigst Du eine Internetverbindung. Dazu bitte auf 'Samples Hochladen' klicken.
+Nach diesen Schritten ist die App einsatzbereit! Nun kannst Du die erste Probe erstellen. Die Daten können _offline_ eingetragen werden. Nur um eine fertige Probe abzuschicken benötigst Du eine Internetverbindung. Dazu bitte auf 'Probe Hochladen' klicken.
 
 Wenn Du mehr über die OSD Citizen App wissen willst schau Dir doch unser Videotutorial an. Dieses ist allerdings schon etwas älter (2014) und nur in Englisch verfügbar.  
 <div class="block">
