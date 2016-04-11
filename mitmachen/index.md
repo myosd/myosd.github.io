@@ -69,9 +69,6 @@ Die Sampling Kits bestehen (unter anderem) aus:
 
 ## Die MyOSD Citizen App<img src="/assets/images/handy.svg" width="190" height="100" />
 Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die OSD Citizen App eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD Server geschickt und gleich auf der Webseite angezeigt. Die App ist für Android Smartphones und iPhones erhältlich.
-<div class="block">
-<iframe width="280" height="158" src="https://www.youtube.com/embed/1lhDdPbzuTs" frameborder="0" allowfullscreen></iframe>
-</div>
 
 ### App Installation:
 - Die OSD Citizen App kannst Du kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) und App Store für [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) herunterladen. Sieh Dir zur Nutzung bitte auch das Video Tutorial an. 
@@ -84,6 +81,10 @@ Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt 
 
 Nach diesen Schritten ist die App einsatzbereit! Nun kannst Du das erste Sample erstellen. Die Daten können _offline_ eingetragen werden. Nur um ein fertiges Sample abzuschicken benötigst Du eine Internetverbindung. Dazu bitte auf 'Samples Hochladen' klicken.
 
+Wenn Du mehr über die OSD Citizen App wissen willst schau Dir doch unser Videotutorial an. Dieses ist allerdings schon etwas älter (2014) und nur in Englisch verfügbar.  
+<div class="block">
+<iframe width="280" height="158" src="https://www.youtube.com/embed/1lhDdPbzuTs" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Du möchtest noch mehr Umweltdaten sammeln?
 Ein wichtiger Indikator für Stoffeinträge in Flüsse und Meere ist die Wasserfarbe. Die Farbe zeigt zum Beispiel mit einer Grünfärbung die Menge der Mikroben im Wasser an, die Photosynthese betreiben und somit wichtigen Sauerstoff produzieren. Oft kann man auch eine Farbänderung erkennen, wenn ein Fluss in einen anderen Fluss oder ins Meer fließt. Die Wasserfarbe kannst du ganz leicht selbst ermitteln- es gibt eine separate App dazu. Diese lädst du einfach kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=nl.maris.citclops.crosswalk&hl=de) oder im App Store für [iOS](https://itunes.apple.com/de/app/eyeonwater-colour/id1021542366?mt=8) herunter. Achtung: die Farbe lässt sich nur bestimmen, wenn der Untergrund (Fluss- oder Meeresboden) nicht sichtbar ist.
