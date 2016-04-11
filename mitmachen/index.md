@@ -8,6 +8,7 @@ published: true
 
 
 
+
 **Meer wissen - Schritt für Schritt: Sampling ist Englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day - nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können im MyOSD Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**
 
 <div class="block">
@@ -68,6 +69,8 @@ Die Sampling Kits bestehen (unter anderem) aus:
 
 ## Die MyOSD Citizen App<img src="/assets/images/handy.svg" width="190" height="100" />
 Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die OSD Citizen App eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD Server geschickt und gleich auf der Webseite angezeigt. Die App ist für Android Smartphones und iPhones erhältlich.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1lhDdPbzuTs" frameborder="0" allowfullscreen></iframe>
 
 ### App Installation:
 - Die OSD Citizen App kannst Du kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) und App Store für [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) herunterladen. Sieh Dir zur Nutzung bitte auch das Video Tutorial an. 
