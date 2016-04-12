@@ -9,6 +9,7 @@ published: true
 
 
 
+
 **Meer wissen - Schritt für Schritt: Sampling ist Englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day - nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können im MyOSD Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**
 
 <div class="block">
@@ -41,7 +42,7 @@ Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Re
 ![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
 
 Du erhältst dann Dein Sampling Kit. Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem Mündungsfluss zu entnehmen. 
-Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen müsst ihr dann zu uns nach Bremen schicken. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video Tutorial ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du weiter unten auf dieser Seite herunterladen. 
+Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video Tutorial ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du weiter unten auf dieser Seite herunterladen. 
 Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwerten. Dazu gehört die Wassertemperatur, sowie der Salzgehalt und der pH-Wert. 
 
 Auch wenn Du keine Mikroorganismen sammeln möchtest kannst Du am MyOSD mitmachen. Dazu misst Du einfach einzelne Umweltparameter, z.B. der Wasser- und Lufttemperatur, pH-Wert oder Nährstoffe - und trägst diese dann in die OSD Citizen App ein.
