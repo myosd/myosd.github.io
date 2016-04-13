@@ -11,7 +11,12 @@ published: true
 
 
 
+
 **Nach der Probennahme am 21. Juni nehmen wir die Proben in Bremen in Empfang. Die Auswertung wird einige Monate in Anspruch nehmen - Wissenschaft braucht manchmal einfach etwas Zeit. Nach der Aufarbeitung und Analyse der Proben könnt Ihr dann sehen, welche Mikroorganismen in Eurer Wasserprobe waren. Vielleicht habt ihr ja sogar eine neue Lebensform entdeckt!**
+
+Was ihr sofort sehen könnt sind die Daten und Bilder die mit der OSD Citizen App erfasst wurden. Diese werden direkt an den OSD Server geschickt und gleich auf unserer [Webseite](https://mb3is.megx.net/osd-app/samples) angezeigt.
+
+**Screenshot OSD App Page**
 
 Auf dieser Seite werden wir euch über den Stand der Arbeiten informieren.
 
