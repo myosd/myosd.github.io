@@ -18,9 +18,9 @@ Was ihr sofort sehen könnt sind die Daten und Bilder die mit der OSD Citizen Ap
 
 **Screenshot OSD App Page**
 
-Auf dieser Seite werden wir euch über den Stand der Arbeiten informieren.
+Schaut einfach von Zeit zu Zeit wieder vorbei. Auf dieser Seite werden wir Euch über den Stand der Arbeiten informieren.
 
-Was aktuell passiert könnt Ihr auch auf [Twitter](https://twitter.com/Micro_B3) und [Facebook](https://www.facebook.com/microb3osd) verfolgen. Official Hashtags: **#myosd #oceansamplingday #citizenscience**
+Was aktuell passiert könnt Ihr auch auf [Twitter](https://twitter.com/Micro_B3) und [Facebook](https://www.facebook.com/microb3osd) verfolgen. Offizielle Hashtags: **#myosd #oceansamplingday #citizenscience**
 
 Aktuelle Videos sind auf unserem [YouTube Kanal](https://www.youtube.com/channel/UCFrDqNblLC2qZoLIOuM0lnQ) zu sehen.
 
