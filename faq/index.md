@@ -17,7 +17,7 @@ Das Konzept des OSD und MyOSD besteht darin, eine Momentaufnahme der Artenvielfa
 Ja, leider kannst Du nur in Deutschland Proben nehmen und zwar aus rechtlichen Gründen. Wenn Du aus dem Ausland eine Probe mit Biomaterial zu Forschungszwecken entnimmst und ohne Genehmigung nach Deutschland einführst ist das Biopiraterie. Daher können wir nur Proben aus Deutschland, oder von MyOSD Hubs aus dem Ausland akzeptieren, die die rechtliche Erlaubnis zum Ausführen der Proben eingeholt haben.
 
 # Kann ich auch am Rhein oder der Donau Proben nehmen?
-Nein leider nicht. Der Grund dafür ist, dass die Donau ins Schwarze Meer fließt und der Rhein zwar in die Nordsee entwässert, aber leider nicht innerhalb der deutschen Grenzen. Da wir aus rechtlichen Gründen nur Proben innerhalb des deutschen Grenzgebiets nehmen können, entfallen diese Flüsse leider.
+Nein leider nicht. Der Grund dafür ist, dass die Donau ins Schwarze Meer fließt und der Rhein zwar in die Nordsee entwässert, aber leider nicht innerhalb der deutschen Grenzen. Da wir gern die mikrobiellen Gemeinschaften von der Quelle bis zum Meer verfolgen wollen und wir aus rechtlichen Gründen im Schwarzen Meer und in der niederländischen Nordsee keine Proben nehmen dürfen, fallen diese zwei Flüsse leider weg.
 
 # Was passiert mit den Proben, die ich nach Bremen schicke?
 Bei uns im Labor wird die DNA (Erbsubstanz) aus den Proben extrahiert. Das heißt, dass wir die Erbinformationen der Mikroorganismen sichtbar machen und damit genau sagen können, welche Arten in der Probe waren. Diese Informationen werden wir auf einer Karte öffentlich zugänglich darstellen. Was gerade mit den Proben passiert, kannst Du ab Juni auf unserer Webseite verfolgen.
