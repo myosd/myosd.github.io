@@ -10,7 +10,7 @@ published: true
 
 **Im Meer lebt mehr: Gut zwei Drittel unseres blauen Planeten sind von Wasser bedeckt. Und darin tummeln sich rund 80 Prozent aller Lebewesen auf der Erde – auch wenn viele mit bloßem Auge gar nicht zu erkennen sind: die Mikroorganismen.**
 
-<img src="/assets/images/MyOSD-logo_transp_Hintergrund.png" width="450" height="298" />
+<img src="/assets/images/MyOSD-logo_transp_Hintergrund.png" width="300" height="200" />
 
 ## Was ist My Ocean Sampling Day (MyOSD)? 
 Sampling ist Englisch und heißt so viel wie Probenentnahme. Denn am Tag der Sommersonnenwende – [dem Ocean Sampling Day (OSD)](https://www.microb3.eu/osd)– nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben, um die Mikroorganismen darin zu untersuchen. MyOSD ist das integrierte Citizen Science Projekt des Ocean Sampling Days. Zusammen mit Teams aus Wissenschaftlern können interessierte Bürger das Wissen über unsere Ozeane und Meere vermehren. 
