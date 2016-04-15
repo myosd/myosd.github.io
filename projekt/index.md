@@ -17,7 +17,7 @@ Sampling ist Englisch und heißt so viel wie Probenentnahme. Denn am Tag der Som
 Das Ziel: Ein besseres Verständnis des marinen Ökosystems. 
 Zum [Wissenschaftsjahr 2016*17 - Meere und Ozeane -](https://www.wissenschaftsjahr.de/) setzen wir mit MyOSD den Fokus auf Deutschland. Wir möchten eine Momentaufnahme der Mikroorganismen (Bakterien) an deutschen Meeresküsten und Mündungsflüssen kreieren.
 
-<img src="/assets/images/WJ2016_BMBF_4C.png" width="220" height="130" />
+<img src="/assets/images/WJ2016_BMBF_4C.png" width="220" height="156" />
 
 
 Küsten sind spannende Ökosysteme: Hier trifft das Meer mit dem Festland zusammen. Nährstoffe, aber auch viel Dreck, Müll und andere Verschmutzungen gelangen dabei direkt, oder über die Flüsse, in die Weltmeere. 
