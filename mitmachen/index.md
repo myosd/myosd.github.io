@@ -55,7 +55,7 @@ Toll wäre es wenn Du uns Fotos oder kleine Videos von Deiner Probennahme schick
 Über Tweeds freuen wir uns natürlich auch hashtags: #myosd #oceansamplingday #citizenscience
 
 <div class="block">
-<iframe width="280" height="158" src="https://www.youtube.com/embed/b6Wc9A6D6d8" frameborder="0" allowfullscreen></iframe>
+<iframe width="392" height="220" src="https://www.youtube.com/embed/b6Wc9A6D6d8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Wie bekomme ich mein Kit?<img src="/assets/images/box.svg" width="190" height="100" />
