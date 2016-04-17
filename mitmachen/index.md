@@ -54,7 +54,9 @@ Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus ne
 Toll wäre es wenn Du uns Fotos oder kleine Videos von Deiner Probennahme schickst. Entweder über die OSD Citizen App oder Du lädst sie einfach in unsere [Cloud](https://owncloud.mpi-bremen.de/index.php/s/EYdCgvoNS4WUbNK).
 Über Tweeds freuen wir uns natürlich auch hashtags: #myosd #oceansamplingday #citizenscience
 
-![Video Tutorial]({{site.baseurl}}/assets/images/Video_tutorial_preliminary.jpg)
+<div class="block">
+<iframe width="280" height="158" src="https://www.youtube.com/embed/b6Wc9A6D6d8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Wie bekomme ich mein Kit?<img src="/assets/images/box.svg" width="190" height="100" />
 Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, ist in einer Liste am Ende der Seite zusammengestellt. Vielleicht gibt es ja eines ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. 
