@@ -78,7 +78,7 @@ Die Sampling Kits bestehen (unter anderem) aus:
 Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die OSD Citizen App eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD Server geschickt und gleich auf unserer [Webseite](https://mb3is.megx.net/osd-app/samples) angezeigt. Die App ist für Android Smartphones und iPhones erhältlich.
 
 <div class="block">
-<img src="/assets/images/app_samples_page.png" width="368" height="294">
+<a href="https://mb3is.megx.net/osd-app/samples"><img src="/assets/images/app_samples_page.png" width="368" height="294"></a>
 </div>
 
 ### App Installation:
