@@ -1,6 +1,6 @@
 ---
 published: true
-title: Die üblichen Verdächtigen:
+title: Die üblichen Verdächtigen
 layout: post
 featured: /assets/images//Schema_Diatomeenfinal_deutsch.jpg
 ---
