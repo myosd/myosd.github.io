@@ -55,6 +55,7 @@ Toll wäre es wenn Du uns Fotos oder kleine Videos von Deiner Probennahme schick
 Über Tweeds freuen wir uns natürlich auch, hashtags: #myosd #oceansamplingday #citizenscience
 
 Willst Du genau wissen was auf Dich zu kommt? Schau Dir unser Sampling Tutorial an:
+
 <div class="block">
 <iframe width="392" height="220" src="https://www.youtube.com/embed/b6Wc9A6D6d8" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -90,6 +91,7 @@ Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt 
 Nach diesen Schritten ist die App einsatzbereit! Nun kannst Du die erste Probe erstellen. Die Daten können _offline_ eingetragen werden. Nur um eine fertige Probe abzuschicken benötigst Du eine Internetverbindung. Dazu bitte auf 'Probe Hochladen' klicken.
 
 Wenn Du mehr über die OSD Citizen App wissen willst schau Dir doch unser Videotutorial an. Dieses ist allerdings schon etwas älter (2014) und nur in Englisch verfügbar.
+
 <div class="block">
 <iframe width="392" height="220" src="https://www.youtube.com/embed/1lhDdPbzuTs" frameborder="0" allowfullscreen></iframe>
 </div>
