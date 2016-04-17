@@ -91,8 +91,9 @@ Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt 
 Nach diesen Schritten ist die App einsatzbereit! Nun kannst Du die erste Probe erstellen. Die Daten können _offline_ eingetragen werden. Nur um eine fertige Probe abzuschicken benötigst Du eine Internetverbindung. Dazu bitte auf 'Probe Hochladen' klicken.
 
 Wenn Du mehr über die OSD Citizen App wissen willst schau Dir doch unser Videotutorial an. Dieses ist allerdings schon etwas älter (2014) und nur in Englisch verfügbar.  
+
 <div class="block">
-<iframe width="280" height="158" src="https://www.youtube.com/embed/1lhDdPbzuTs" frameborder="0" allowfullscreen></iframe>
+<iframe width="392" height="220" src="https://www.youtube.com/embed/1lhDdPbzuTs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Du möchtest noch mehr Umweltdaten sammeln?
