@@ -52,7 +52,9 @@ Auch wenn Du keine Mikroorganismen sammeln möchtest kannst Du am MyOSD mitmache
 Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus nehmen. Vom Boot, Surfbrett oder Kajak aus, ... Deiner Phantasie sind keine Grenzen gesetzt.
 
 Toll wäre es wenn Du uns Fotos oder kleine Videos von Deiner Probennahme schickst. Entweder über die OSD Citizen App oder Du lädst sie einfach in unsere [Cloud](https://owncloud.mpi-bremen.de/index.php/s/EYdCgvoNS4WUbNK).
-Über Tweeds freuen wir uns natürlich auch hashtags: #myosd #oceansamplingday #citizenscience
+Über Tweeds freuen wir uns natürlich auch, hashtags: #myosd #oceansamplingday #citizenscience
+
+Willst Du genau wissen was auf Dich zu kommt? Schau Dir unser Sampling Tutorial an:
 
 <div class="block">
 <iframe width="392" height="220" src="https://www.youtube.com/embed/b6Wc9A6D6d8" frameborder="0" allowfullscreen></iframe>
