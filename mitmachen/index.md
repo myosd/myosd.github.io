@@ -111,9 +111,9 @@ Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigen
 ## Downloads
 Sorry, die folgenden Dokumente sind noch in Arbeit. Wir arbeiten daran, sie Dir sobald wie möglich zur Verfügung zu stellen.
 
-- MyOSD Handbuch zur Probennahme (deutsch) 
-- MyOSD Logsheet (deutsch)
-- App Guide (OSD Citizen App) (deutsch)
+- [MyOSD Handbuch zur Probennahme (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) 
+- [MyOSD Logsheet (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/RjR5ki8PpJS2XFY)
+- [App Guide (OSD Citizen App) (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA)
 - Liste der Hubs für den MyOSD 2016 (deutsch)
 - [Flyer & Plakat MyOSD 2016 (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/WAPXUGf1ELlr3u5)
 - Guidelines for Hubs (english)
