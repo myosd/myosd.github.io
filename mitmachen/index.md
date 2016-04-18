@@ -44,7 +44,7 @@ Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Re
 ![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
 
 Du erhältst dann Dein Sampling Kit. Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem Mündungsfluss zu entnehmen. 
-Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video Tutorial ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du weiter unten auf dieser Seite herunterladen. 
+Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video-Tutorial ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du weiter unten auf dieser Seite herunterladen. 
 Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwerten. Dazu gehört die Wassertemperatur, sowie der Salzgehalt und der pH-Wert. 
 
 Auch wenn Du keine Mikroorganismen sammeln möchtest kannst Du am MyOSD mitmachen. Dazu misst Du einfach einzelne Umweltparameter, z.B. der Wasser- und Lufttemperatur, pH-Wert oder Nährstoffe - und trägst diese dann in die OSD Citizen App ein.
@@ -54,7 +54,7 @@ Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus ne
 Toll wäre es wenn Du uns Fotos oder kleine Videos von Deiner Probennahme schickst. Entweder über die OSD Citizen App oder Du lädst sie einfach in unsere [Cloud](https://owncloud.mpi-bremen.de/index.php/s/EYdCgvoNS4WUbNK).
 Über Tweeds freuen wir uns natürlich auch, hashtags: #myosd #oceansamplingday #citizenscience
 
-Willst Du genau wissen was auf Dich zu kommt? Schau Dir unser Sampling Tutorial an:
+Willst Du genau wissen was auf Dich zukommt? Schau Dir unser Sampling-Tutorial an:
 
 <div class="block">
 <iframe width="392" height="220" src="https://www.youtube.com/embed/b6Wc9A6D6d8" frameborder="0" allowfullscreen></iframe>
@@ -86,7 +86,7 @@ Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt 
 - Du kannst ihm Google Play store oder Apple App store natürlich auch direkt nach der „OSD citizen“ App suchen.
 - Vor der ersten Nutzung muss die App einmal mit bestehender Internetverbindung geöffnet werden, da noch Grundeinstellungen vorgenommen werden müssen. Dies ist nur beim ersten Start notwendig. Danach kann die App jederzeit auch offline genutzt werden, da alle Daten in der App gespeichert werden. 
 1. Bitte klick zuerst auf den “Persönlich“ Knopf unten links.    
-2. Im erscheinenden Feld fülle bitte die Felder für Vor- und Nachnamen aus. Dies sind Pflichtfelder. Du kannst diese Daten jederzeit ändern. Beachte, dass der eingegebene Name auf der MyOSD Server Seite angezeigt wird. Wenn Du Deinen eigenen Namen nicht eingeben möchtest, nutze bitte einen Nicknamen.
+2. Im erscheinenden Feld fülle bitte die Felder für Vor- und Nachnamen aus. Dies sind Pflichtfelder. Du kannst diese Daten jederzeit ändern. Beachte, dass der eingegebene Name auf der MyOSD-Server Seite angezeigt wird. Wenn Du Deinen eigenen Namen nicht eingeben möchtest, nutze bitte einen Nicknamen.
 3. Die Eingabe aller weiteren Felder ist freiwillig.
 4. Bitte immer am unteren Bildrand auf „Speichern“ klicken. 
 
@@ -109,7 +109,7 @@ Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigen
 
 
 ## Downloads
-Sorry, die folgenden Dokumente sind noch in Arbeit. Wir arbeiten daran, sie Dir sobald wie möglich zur Verfügung zu stellen.
+Sorry, einige der folgenden Dokumente sind noch in Arbeit. Wir arbeiten daran, sie Dir sobald wie möglich zur Verfügung zu stellen.
 
 - [MyOSD Handbuch zur Probennahme (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) 
 - [MyOSD Logsheet (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/RjR5ki8PpJS2XFY)
