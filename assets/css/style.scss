@@ -519,7 +519,7 @@ img.img-first {
         display: inline-block;
         padding: 0 1.5em;
         line-height: 2.75em;
-        min-width: 9em;
+        min-width: 7em;
         text-align: center;
         text-decoration: none;
         font-weight: 600;
@@ -768,17 +768,18 @@ img.img-first {
         header {
             position: absolute;
             bottom: 0;
-            left: 0;
-            width: 100%;
+            left: 25%;
+            width: 50%;
             background: #212121;
             background: rgba(27,27,27,0.75);
             color: #fff;
-            padding: 1.5em 0;
+            padding: 1.5em 1.5em 1.5em 1.5em;
             
-            h2 {
+            h2, h3{
                 display: inline-block;
                 margin: 0;
                 font-size: 1.25em;
+                text-align:center;
                 vertical-align: middle;
                 
                 em {
@@ -795,8 +796,9 @@ img.img-first {
             }
             
             .button {
+                padding: 0.5 0.5em;
                 vertical-align: middle;
-                margin-left: 1em;
+                margin-left: 0em;
             }
         }
     }
@@ -861,7 +863,7 @@ img.img-first {
         color: $color-fg-light;
         
         a {
-            color: $color-fg;
+            color: $color-accent-bg;
             border-bottom-color: transparentize($color-fg, 0.75);
             
             &:hover {
