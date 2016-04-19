@@ -5,16 +5,28 @@ published: true
 ---
 
 
+<div class="row">
+    <div class="4u">
+    <aside style="float:left; padding-right: 1em; padding-left: 1em;margin-right: 1em; margin-bottom: 0.5 em;border: 1px solid #005377;">
+        <h1>Inhalt</h1>
+         <ul>
+            <li><a href="#wer-kann-mitmachen">Wer kann mitmachen?</a></li>
+            <li><a href="#wo-kann-ich-mitmachen">Wo kann ich mitmachen?</a></li>
+            <li><a href="#wie-kann-ich-mitmachen"> Wie kann ich mitmachen?</a></li>
+            <li><a href="#wie-bekomme-ich-mein-kit">Wie bekomme ich mein Kit?</a></li>
+            <li><a href="#die-myosd-citizen-app">Die MyOSD Citizen App</a></li>
+            <li><a href="#du-mchtest-noch-mehr-umweltdaten-sammeln">Kann ich mehr Umweltdaten sammeln?</a></li>
+            <li><a href="#downloads">Downloads</a></li>
+        </ul>
+    </aside>
+    </div>
 
+<div class="8u">
+{{ "**Meer wissen - Schritt für Schritt: Sampling ist Englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day - nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können im MyOSD Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**" | markdownify }}
+</div>
+</div>
 
-
-
-
-
-
-**Meer wissen - Schritt für Schritt: Sampling ist Englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende - dem Ocean Sampling Day - nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können im MyOSD Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**
-
-<div class="block">
+<div class="block" style="margin-top: 1em">
   <img src="/assets/images/handy.svg" width="190" height="100" />
   <img src="/assets/images/box.svg" width="190" height="100" />
   <img src="/assets/images/spritze.svg" width="190" height="100" />
@@ -39,6 +51,7 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 
 ## Wie kann ich mitmachen?
+
 Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 25. April 2016 freigeschaltet.
 
 ![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
@@ -60,7 +73,10 @@ Willst Du genau wissen was auf Dich zukommt? Schau Dir unser Sampling-Tutorial a
 <iframe width="392" height="220" src="https://www.youtube.com/embed/b6Wc9A6D6d8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Wie bekomme ich mein Kit?<img src="/assets/images/box.svg" width="190" height="100" />
+## Wie bekomme ich mein Kit?
+
+<img src="/assets/images/box.svg" width="190" height="100" />
+
 Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, ist in einer Liste am Ende der Seite zusammengestellt. Vielleicht gibt es ja eines ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. 
 Am besten gleich registrieren und ein Sampling Kit reservieren.
 
@@ -74,7 +90,10 @@ Die Sampling Kits bestehen (unter anderem) aus:
 - Filter
 - Aufkleber und Tüte
 
-## Die MyOSD Citizen App<img src="/assets/images/handy.svg" width="190" height="100" />
+## Die MyOSD Citizen App
+
+<img src="/assets/images/handy.svg" width="190" height="100" />
+
 Wichtige Umweltdaten, wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die OSD Citizen App eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD Server geschickt und gleich auf unserer [Webseite](https://mb3is.megx.net/osd-app/samples) angezeigt. Die App ist für Android Smartphones und iPhones erhältlich.
 
 <div class="block">
