@@ -27,8 +27,8 @@ published: true
 </div>
 
 <div class="block" style="margin-top: 1em">
-  <img src="/assets/images/handy.svg" width="190" height="100" />
   <img src="/assets/images/box.svg" width="190" height="100" />
+  <img src="/assets/images/handy.svg" width="190" height="100" />
   <img src="/assets/images/spritze.svg" width="190" height="100" />
   <img src="/assets/images/brief.svg" width="190" height="100" />
 </div>
