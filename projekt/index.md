@@ -20,7 +20,7 @@ Zum [Wissenschaftsjahr 2016*17 - Meere und Ozeane](https://www.wissenschaftsjahr
 <img src="/assets/images/WJ2016_BMBF_4C.png" width="220" height="156" />
 
 
-Küsten sind spannende Ökosysteme: Hier trifft das Meer mit dem Festland zusammen. Nährstoffe, aber auch viel Dreck, Müll und andere Verschmutzungen gelangen dabei direkt – oder über die Flüsse – in die Weltmeere. 
+Küsten sind spannende Ökosysteme: Hier trifft das Meer mit dem Festland zusammen. Nährstoffe, aber auch viel Dreck, Müll und andere Verschmutzungen gelangen dabei direkt oder über die Flüsse in die Weltmeere. 
 Wir wollen wissen, wie sich die mikrobiellen Gemeinschaften von der Quelle bis zum Meer verändern. Wie wirken sich z.B. Städte oder Industrie auf die Artenvielfalt aus? Beeinflussen die Nährstoffe aus den Flüssen die Artengemeinschaft an den Küsten oder ist z.B. der Salzgehalt oder die Temperatur der wichtigste Faktor? Was für Aufgaben haben diese Artengemeinschaften im Ökosystem? Wie werden sie durch menschliche Aktivitäten beeinflusst? Das sind nur einige der Fragen, die wir mit MyOSD 2016 beantworten wollen.
 
 ## Wer kann mitmachen? 
