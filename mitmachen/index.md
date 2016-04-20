@@ -15,7 +15,7 @@ published: true
             <li><a href="#wie-kann-ich-mitmachen"> Wie kann ich mitmachen?</a></li>
             <li><a href="#wie-bekomme-ich-mein-kit">Wie bekomme ich mein Kit?</a></li>
             <li><a href="#die-myosd-citizen-app">Die MyOSD Citizen App</a></li>
-            <li><a href="#du-mchtest-noch-mehr-umweltdaten-sammeln">Kann ich mehr Umweltdaten sammeln?</a></li>
+            <li><a href="#du-mchtest-noch-mehr-umweltdaten-sammeln">Kann ich mehr Umweltdaten sammeln? Die EyeOnWater-Colour App</a></li>
             <li><a href="#downloads">Downloads</a></li>
         </ul>
     </aside>
@@ -135,4 +135,4 @@ Sorry, einige der folgenden Dokumente sind noch in Arbeit. Wir arbeiten daran, s
 - [App Guide (OSD Citizen App) (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA)
 - Liste der Hubs für den MyOSD 2016 (deutsch)
 - [Flyer & Plakat MyOSD 2016 (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/WAPXUGf1ELlr3u5)
-- Guidelines for Hubs (english)
+- [MyOSD hub guidelines for Germany (english)](https://owncloud.mpi-bremen.de/index.php/s/sZsf0aZqqJLCcfY)
