@@ -7,7 +7,7 @@ published: true
 
 <div class="row">
     <div class="4u">
-    <aside style="float:left; padding-right: 1em; padding-left: 1em;margin-right: 1em; margin-bottom: 0.5em;border: 1px solid #005377;">
+    <aside style="float:left; padding-right: 1em; padding-left: 1em;margin-right: 1em; margin-bottom: 0.5 em;border: 1px solid #005377;">
         <h1>Inhalt</h1>
          <ul>
             <li><a href="#wer-kann-mitmachen">Wer kann mitmachen?</a></li>
