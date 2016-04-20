@@ -37,7 +37,7 @@ published: true
 ## Wer kann mitmachen?
 
 Jede und jeder ist willkommen. Egal, ob Einzelpersonen, Familien, Vereinsgruppen oder Schulklassen. Im Team könnt Ihr Euch bei der Probennahme und beim Filtrieren unterstützen. Kinder unter 16 sollten am besten in Begleitung eines Erwachsenen sein. 
-Für Schüler ab der 11. Klasse haben wir Unterrichtsmaterial erstellt. Hier findet ihr unsere [Teilnahmebedingungen](teilnahme-bedingungen). Noch Fragen? Sprecht uns an: myosd-contact@microb3.eu!
+Für Schüler ab der 11. Klasse haben wir Unterrichtsmaterial erstellt. Hier findet ihr unsere [Teilnahmebedingungen](/teilnahme-bedingungen). Noch Fragen? Sprecht uns an: myosd-contact@microb3.eu!
 
 ## Wo kann ich mitmachen?
 An der deutschen Nord- und Ostsee oder einem Mündungsfluss. Dazu zählen z.B. die Ems, Weser, Elbe, Eider, Peene und Oder und deren zuführende Flüsse und Kanäle. Proben können gleichsam im Meer oder an diesen Flüssen genommen werden, von der Quelle bis zur Mündung. Bei der Registrierung kannst Du sehen, wo sich andere Teilnehmer angemeldet haben. Am besten wäre es, wenn Du eine Stelle findest an der noch keine Probe genommen wird. Je früher Du Dich registrierst, desto mehr Auswahl hast Du.
