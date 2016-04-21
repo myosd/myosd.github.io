@@ -8,13 +8,13 @@ published: true
 
 Veranstalter der Aktion „My Ocean Sampling Day 2016 Deutschland“ (nachfolgend MyOSD 2016 genannt) ist die Jacobs University Bremen gGmbH, die im Rahmen des Wissenschaftsjahres 2016*17 – Meere und Ozeane (zukünftig WJ 2016*17 genannt), einer gemeinsamen Initiative des Bundesministeriums für Bildung und Forschung (BMBF) und der Wissenschaft im Dialog gGmbH (WiD), durchgeführt wird. 
 
-Die Teilnahme an der MyOSD 2016 Verlosung richtet sich nach den folgenden Bestimmungen. Eine Teilnahme am Gewinnspiel kann ausschließlich nach Registrierung unter www.my-osd.org erfolgen.
+Die Teilnahme an der MyOSD 2016 Verlosung richtet sich nach den folgenden Bestimmungen. Eine Teilnahme am Gewinnspiel kann ausschließlich nach Registrierung unter [www.my-osd.org](www.my-osd.org) erfolgen.
 
-§ 1 Allgemeines
+### § 1 Allgemeines
 
 Bei MyOSD 2016 werden Wasserproben aus der deutschen Nord- und Ostsee sowie deren Mündungsflüssen genommen. Jeder registrierte Teilnehmer und Teilnehmerin bekommt ein MyOSD 2016 Sampling Kit mit dem er/sie Wasserproben nehmen kann. Die maximale Anzahl der ausgegeben Sampling Kits ist 1.000. Ziel der Aktion ist es die mikrobielle Vielfalt in den deutschen Mündungsflüssen und Meeren zu bestimmen. 
 
-§ 2 Teilnahmeberechtigung
+### § 2 Teilnahmeberechtigung
 
 (1) Teilnahmeberechtigt sind Personen ab dem 12. Lebensjahr mit Einwilligung der Eltern, oder eines Erziehungsberechtigten, sowie Personen über 18 Jahre. Die Teilnahme über die Einschaltung Dritter, zum Beispiel Gewinnspielagenturen oder eine vollautomatische Gewinnspieleintragung, ist ausgeschlossen.
 
@@ -22,7 +22,7 @@ Bei MyOSD 2016 werden Wasserproben aus der deutschen Nord- und Ostsee sowie dere
 
 (3) Ein Anspruch auf Teilnahme besteht nicht.
 
-§ 3 Teilnahme
+### § 3 Teilnahme
 
 (1) Um sich an MyOSD 2016 zu beteiligen, nehmen die Teilnehmenden im Zeitraum vom 19-21. Juni eine Wasserprobe an der deutschen Nord- oder Ostsee oder deren Mündungsflüssen in Deutschland, ausschließlich unter Verwendung des MyOSD 2016 Sampling Kits. Pro Teilnehmer sollte nur ein Kit zum Einsatz kommen.
 
