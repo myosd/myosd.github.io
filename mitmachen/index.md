@@ -39,7 +39,7 @@ published: true
 Jede und jeder ist willkommen. Egal, ob Einzelpersonen, Familien, Vereinsgruppen oder Schulklassen. Im Team könnt Ihr Euch bei der Probennahme und beim Filtrieren unterstützen. Kinder unter 16 sollten am besten in Begleitung eines Erwachsenen sein. 
 Für Schüler ab der 11. Klasse haben wir Unterrichtsmaterial erstellt. Du willst es genau wissen? Hier findest Du unsere [Teilnahmebedingungen](/teilnahme-bedingungen). Noch Fragen? <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp; Schreibt uns!</a>
 
-Unter allen Beiträgen die die Teilnahmebedingungen erfüllen und nicht von der Teilnahme ausgeschlossen wurden, werden zwei Apple iPad 4 Mini sowie 10 [senseBoxen:home](http://www.sensebox.de/de/products/) verlost. 
+Unter allen Beiträgen die die [Teilnahmebedingungen](/teilnahme-bedingungen) erfüllen und nicht von der Teilnahme ausgeschlossen wurden, werden zwei Apple iPad 4 Mini sowie 10 x [senseBoxe:home](http://www.sensebox.de/de/products/) verlost. 
 
 ## Wo kann ich mitmachen?
 An der deutschen Nord- und Ostsee oder einem Mündungsfluss. Dazu zählen z.B. die Ems, Weser, Elbe, Eider, Peene und Oder und deren zuführende Flüsse und Kanäle. Proben können gleichsam im Meer oder an diesen Flüssen genommen werden, von der Quelle bis zur Mündung. Bei der Registrierung kannst Du sehen, wo sich andere Teilnehmerinnen und Teilnehmer angemeldet haben. Am besten wäre es, wenn Du eine Stelle findest, an der noch keine Probe genommen wird. Je früher Du Dich registrierst, desto mehr Auswahl hast Du!
