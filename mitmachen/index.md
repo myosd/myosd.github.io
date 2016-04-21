@@ -38,6 +38,7 @@ published: true
 
 Jede und jeder ist willkommen. Egal, ob Einzelpersonen, Familien, Vereinsgruppen oder Schulklassen. Im Team könnt Ihr Euch bei der Probennahme und beim Filtrieren unterstützen. Kinder unter 16 sollten am besten in Begleitung eines Erwachsenen sein. 
 Für Schüler ab der 11. Klasse haben wir Unterrichtsmaterial erstellt. Du willst es genau wissen? Hier findest Du unsere [Teilnahmebedingungen](/teilnahme-bedingungen). Noch Fragen? <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp; Schreibt uns!</a>
+Unter allen Beiträgen die die Teilnahmebedingungen erfüllen und nicht von der Teilnahme ausgeschlossen wurden, werden zwei Apple iPad 4 Mini sowie 10 [senseBoxen:home](http://www.sensebox.de/de/products/) verlost. 
 
 ## Wo kann ich mitmachen?
 An der deutschen Nord- und Ostsee oder einem Mündungsfluss. Dazu zählen z.B. die Ems, Weser, Elbe, Eider, Peene und Oder und deren zuführende Flüsse und Kanäle. Proben können gleichsam im Meer oder an diesen Flüssen genommen werden, von der Quelle bis zur Mündung. Bei der Registrierung kannst Du sehen, wo sich andere Teilnehmerinnen und Teilnehmer angemeldet haben. Am besten wäre es, wenn Du eine Stelle findest, an der noch keine Probe genommen wird. Je früher Du Dich registrierst, desto mehr Auswahl hast Du!
@@ -56,7 +57,8 @@ Alle, die mitmachen möchten, müssen sich auf unserer Webseite registrieren. Di
 
 ![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
 
-Du erhältst dann Dein Sampling Kit. Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem Mündungsfluss zu entnehmen. 
+Du erhältst dann ein Sampling Kit.
+Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem Mündungsfluss zu entnehmen. 
 Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video-Tutorial ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du im MyOSD Handbuch nachlesen, das Du weiter unten auf dieser Seite herunterladen kannst. 
 Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwerten. Dazu gehört die Wassertemperatur sowie der Salzgehalt und der pH-Wert. 
 
@@ -77,7 +79,7 @@ Willst Du genau wissen, was auf Dich zukommt? Schau Dir unser Sampling-Tutorial 
 
 <img src="/assets/images/box.svg" width="190" height="100" />
 
-Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, ist in einer Liste am Ende der Seite zusammengestellt. Vielleicht gibt es ja eins ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. 
+Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, ist in einer Liste am Ende der Seite zusammengestellt. Vielleicht gibt es ja eins ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. Die letzte Registrierung für den Postversand ist am 14. Juni 2016. 
 Am besten gleich registrieren und ein Sampling Kit reservieren!
 
 Die Sampling Kits bestehen (unter anderem) aus:
