@@ -42,7 +42,7 @@ Bei MyOSD 2016 werden Wasserproben aus der deutschen Nord- und Ostsee sowie dere
 
 (9) Die Teilnahme ist bis auf etwaige Verbindungskosten für das Internet kostenlos.
 
-§ 4 Zustimmung zur Veröffentlichung der eingereichten Beiträge
+### § 4 Zustimmung zur Veröffentlichung der eingereichten Beiträge
 
 (1) Eine Teilnahme an der Aktion ist nur möglich, wenn der Teilnehmende den Teilnahmebedingungen zustimmt und zu diesem Zweck in die Erhebung, Speicherung und Nutzung seiner persönlichen Daten durch den Veranstalter einwilligt. Diese datenschutzrechtliche Einwilligung kann jederzeit ohne Angabe von Gründen widerrufen werden. Mit dem Widerruf scheidet der Teilnehmende aus der Aktion aus, der Beitrag und die sonstigen personenbezogenen Daten des Teilnehmenden werden gelöscht.
 
@@ -52,19 +52,19 @@ Bei MyOSD 2016 werden Wasserproben aus der deutschen Nord- und Ostsee sowie dere
 
 (4) Die von den Teilnehmenden erhobenen Daten und Bilder/Videos werden zu Forschungs- und Kommunikationszwecken durch die Jacobs University Bremen gGmbH und im Rahmen des Wissenschaftsjahres 2016*17 – Meere und Ozeane weiter verwendet.
 
-§ 5 Nutzungsrechte
+### § 5 Nutzungsrechte
 
 Mit der Einsendung seines Beitrages, bestehend aus Proben und Daten/Bildern, versichert der Teilnehmende, dass dieser frei von Rechten Dritter ist und räumt dem Veranstalter sämtliche zur Durchführung der Aktion erforderlichen Rechte an den Proben sowie die erforderlichen Nutzungsrechte an seinem Beitrag ein.
 
-§ 6 Datenschutz
+### § 6 Datenschutz
 
 Personenbezogene Daten des Teilnehmenden, die im Rahmen von MyOSD 2016 generiert werden, werden ausschließlich zur Durchführung, sowie der einmaligen Weitergabe an das Wissenschaftsjahr 2016*17 – Meere und Ozeane für Kommunikations-Analyse und Evaluation, verwendet. 
 
-§ 7 Forschung
+### § 7 Forschung
 
 Der Teilnehmende erklärt sich bis auf Widerruf bereit seine Probe, Daten und Bilder/Videos für die Erforschung der mikrobiellen Biodiversität und Funktion in aquatischen und marinen Ökosystemen bereitzustellen. Alle erhobenen Daten werden nach wissenschaftlicher Qualitätskontrolle öffentlich zur Verfügung gestellt. Die Ergebnisse der Studie sind für eine oder mehrere Veröffentlichungen in wissenschaftlichen Fachjournalen vorgesehen.
 
-§ 8 Verlosung
+### § 8 Verlosung
 
 Unter allen Beiträgen die die Teilnahmebedingungen erfüllen (§1-3) und nicht von der Teilnahme ausgeschlossen wurden, werden 2x Apple iPad 4 Mini sowie 10x [senseBoxe:home](http://www.sensebox.de/de/products/) verlost.
 Mitarbeiter von MyOSD 2016, des Redaktionsbüro Wissenschaftsjahr 2016*17 – Meere und Ozeane, des Büro Wissenschaftskommunikation/DLR PT sowie der Projektgruppe Wissenschaftsjahr 2016*17 – Meere und Ozeane im Bundesministerium für Bildung und Forschung sind von der Verlosung ausgeschlossen.
@@ -73,11 +73,11 @@ Berücksichtig werden nur Proben die bis spätestens 04.07.2016 am Max Planck In
 Die Gewinner werden unter der von ihnen bei der Registrierung angegebenen Emailadresse benachrichtigt. Die MyOSD Nummern der Gewinner werden auf der Webseite [www.my-osd.org/status](www.my-osd.org/status) verkündet. Die Gewinne werden mit der Post zugeschickt. 
 Der Rechtsweg ist ausgeschlossen.
 
-§ 9 Änderung der Teilnahmebedingungen / vorzeitige Beendigung von MyOSD 2016
+### § 9 Änderung der Teilnahmebedingungen / vorzeitige Beendigung von MyOSD 2016
 
 Der Veranstalter behält sich das Recht vor, die Teilnahmebedingungen auch unangekündigt zu ändern oder die Aktion MyOSD 2016 mit sofortiger Wirkung vorzeitig zu beenden. Im Falle einer vorzeitigen Beendigung der Aktion werden die bis dorthin erhobenen Daten entsprechend den oben genannten Bedingungen verwendet.
 
-§ 10 Veranstalter der Aktion und Kontakt
+### § 10 Veranstalter der Aktion und Kontakt
 
 Prof. Dr. Frank Oliver Glöckner
 
