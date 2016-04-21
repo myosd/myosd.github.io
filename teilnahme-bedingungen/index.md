@@ -1,5 +1,5 @@
 ---
-title: Teilnahme Bedingungen
+title: Teilnahmebedingungen
 layout: page
 published: true
 ---
