@@ -38,6 +38,7 @@ published: true
 
 Jede und jeder ist willkommen. Egal, ob Einzelpersonen, Familien, Vereinsgruppen oder Schulklassen. Im Team könnt Ihr Euch bei der Probennahme und beim Filtrieren unterstützen. Kinder unter 16 sollten am besten in Begleitung eines Erwachsenen sein. 
 Für Schüler ab der 11. Klasse haben wir Unterrichtsmaterial erstellt. Du willst es genau wissen? Hier findest Du unsere [Teilnahmebedingungen](/teilnahme-bedingungen). Noch Fragen? <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp; Schreibt uns!</a>
+
 Unter allen Beiträgen die die Teilnahmebedingungen erfüllen und nicht von der Teilnahme ausgeschlossen wurden, werden zwei Apple iPad 4 Mini sowie 10 [senseBoxen:home](http://www.sensebox.de/de/products/) verlost. 
 
 ## Wo kann ich mitmachen?
@@ -138,3 +139,4 @@ Sorry, einige der folgenden Dokumente sind noch in Arbeit. Wir arbeiten daran, s
 - Liste der Hubs für den MyOSD 2016 (deutsch)
 - [Flyer & Plakat MyOSD 2016 (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/WAPXUGf1ELlr3u5)
 - [MyOSD hub guidelines for Germany (english)](https://owncloud.mpi-bremen.de/index.php/s/sZsf0aZqqJLCcfY)
+- [MyOSD Hub Liste für verteilte Sampling Kits (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/A8JPMQ1Kth9lQNT)
