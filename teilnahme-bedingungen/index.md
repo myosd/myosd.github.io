@@ -9,7 +9,6 @@ published: true
 Veranstalter der Aktion „My Ocean Sampling Day 2016 Deutschland“ (nachfolgend MyOSD 2016 genannt) ist die Jacobs University Bremen gGmbH, die im Rahmen des Wissenschaftsjahres 2016*17 – Meere und Ozeane (zukünftig WJ 2016*17 genannt), einer gemeinsamen Initiative des Bundesministeriums für Bildung und Forschung (BMBF) und der Wissenschaft im Dialog gGmbH (WiD), durchgeführt wird. 
 
 Die Teilnahme an der MyOSD 2016 Verlosung richtet sich nach den folgenden Bestimmungen. Eine Teilnahme am Gewinnspiel kann ausschließlich nach Registrierung unter [www.my-osd.org](www.my-osd.org) erfolgen.
-
 ### § 1 Allgemeines
 
 Bei MyOSD 2016 werden Wasserproben aus der deutschen Nord- und Ostsee sowie deren Mündungsflüssen genommen. Jeder registrierte Teilnehmer und Teilnehmerin bekommt ein MyOSD 2016 Sampling Kit mit dem er/sie Wasserproben nehmen kann. Die maximale Anzahl der ausgegeben Sampling Kits ist 1.000. Ziel der Aktion ist es die mikrobielle Vielfalt in den deutschen Mündungsflüssen und Meeren zu bestimmen. 
