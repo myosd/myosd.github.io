@@ -48,7 +48,7 @@ Bei MyOSD 2016 werden Wasserproben aus der deutschen Nord- und Ostsee sowie dere
 
 (2) Die Veröffentlichung eingereichter Beiträge können die Teilnehmenden jederzeit für die Zukunft widerrufen. Sie können sich hierzu per E-Mail an myosd-contact@microb3.eu wenden. Die Probe inklusive aller eingereichten Daten und Bilder/Videos, wird nach Zugang des Widerrufs unverzüglich von der Webseite entfernt.
 
-(3) Umweltdaten, Bilder und Videos sind während des Wissenschaftsjahres 2016*17 auf der Internetseite www.my-osd.org und https://mb3is.megx.net/osd-app/samples gespeichert und abrufbar.
+(3) Umweltdaten, Bilder und Videos sind während des Wissenschaftsjahres 2016*17 auf der Internetseite [www.my-osd.org](www.my-osd.org) und [https://mb3is.megx.net/osd-app/samples](https://mb3is.megx.net/osd-app/samples) gespeichert und abrufbar.
 
 (4) Die von den Teilnehmenden erhobenen Daten und Bilder/Videos werden zu Forschungs- und Kommunikationszwecken durch die Jacobs University Bremen gGmbH und im Rahmen des Wissenschaftsjahres 2016*17 – Meere und Ozeane weiter verwendet.
 
@@ -66,11 +66,11 @@ Der Teilnehmende erklärt sich bis auf Widerruf bereit seine Probe, Daten und Bi
 
 § 8 Verlosung
 
-Unter allen Beiträgen die die Teilnahmebedingungen erfüllen (§1-3) und nicht von der Teilnahme ausgeschlossen wurden, werden zwei Apple iPad 4 Mini sowie 10 senseBoxen:home http://www.sensebox.de/de/products/ verlost.
+Unter allen Beiträgen die die Teilnahmebedingungen erfüllen (§1-3) und nicht von der Teilnahme ausgeschlossen wurden, werden 2x Apple iPad 4 Mini sowie 10x [senseBoxe:home](http://www.sensebox.de/de/products/) verlost.
 Mitarbeiter von MyOSD 2016, des Redaktionsbüro Wissenschaftsjahr 2016*17 – Meere und Ozeane, des Büro Wissenschaftskommunikation/DLR PT sowie der Projektgruppe Wissenschaftsjahr 2016*17 – Meere und Ozeane im Bundesministerium für Bildung und Forschung sind von der Verlosung ausgeschlossen.
 
 Berücksichtig werden nur Proben die bis spätestens 04.07.2016 am Max Planck Institut für Marine Mikrobiologie in Bremen eingegangen sind. Die Gewinner werden bis zum 29. September 2016 durch Auslosung ermittelt.
-Die Gewinner werden unter der von ihnen bei der Registrierung angegebenen Emailadresse benachrichtigt. Die MyOSD Nummern der Gewinner werden auf der Webseite www.my-osd.org/status verkündet. Die Gewinne werden mit der Post zugeschickt. 
+Die Gewinner werden unter der von ihnen bei der Registrierung angegebenen Emailadresse benachrichtigt. Die MyOSD Nummern der Gewinner werden auf der Webseite [www.my-osd.org/status](www.my-osd.org/status) verkündet. Die Gewinne werden mit der Post zugeschickt. 
 Der Rechtsweg ist ausgeschlossen.
 
 § 9 Änderung der Teilnahmebedingungen / vorzeitige Beendigung von MyOSD 2016
@@ -84,4 +84,6 @@ Prof. Dr. Frank Oliver Glöckner
 Jacobs University Bremen gGmbH
 
 Campusring 1, 28759 Bremen
+
+Bremen, 21.04.2016
 
