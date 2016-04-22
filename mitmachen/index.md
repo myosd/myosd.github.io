@@ -5,22 +5,6 @@ published: true
 ---
 
 
-<div class="row">
-    <div class="4u">
-    <aside style="float:right; padding-right: 1em; padding-left: 1em;margin-right: 1em; margin-bottom: 0.5 em;border: 1px solid #005377;">
-        <h1>Inhalt</h1>
-         <ul>
-            <li><a href="#wer-kann-mitmachen">Wer kann mitmachen?</a></li>
-            <li><a href="#wo-kann-ich-mitmachen">Wo kann ich mitmachen?</a></li>
-            <li><a href="#wie-kann-ich-mitmachen"> Wie kann ich mitmachen?</a></li>
-            <li><a href="#wie-bekomme-ich-mein-kit">Wie bekomme ich mein Kit?</a></li>
-            <li><a href="#die-myosd-citizen-app">Die MyOSD Citizen App</a></li>
-            <li><a href="#du-mchtest-noch-mehr-umweltdaten-sammeln">Kann ich mehr Umweltdaten sammeln? Die EyeOnWater-Colour App</a></li>
-            <li><a href="#downloads">Downloads</a></li>
-        </ul>
-    </aside>
-    </div>
-
 <div class="8u">
 {{ "**Meer wissen – Schritt für Schritt: Sampling ist englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende – dem Ocean Sampling Day – nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können im MyOSD-Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**" | markdownify }}
 </div>
