@@ -139,4 +139,4 @@ Sorry, einige der folgenden Dokumente sind noch in Arbeit. Wir arbeiten daran, s
 - Liste der Hubs für den MyOSD 2016 (deutsch)
 - [Flyer & Plakat MyOSD 2016 (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/WAPXUGf1ELlr3u5)
 - [MyOSD hub guidelines for Germany (english)](https://owncloud.mpi-bremen.de/index.php/s/sZsf0aZqqJLCcfY)
-- [MyOSD-Hub Liste für verteilte Sampling Kits (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/A8JPMQ1Kth9lQNT)
+- [MyOSD-Hub Liste für verteilte Sampling Kits (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/JLzlBeZUXi1g7tI)
