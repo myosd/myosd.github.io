@@ -66,7 +66,7 @@ Der Teilnehmende erklärt sich bis auf Widerruf bereit seine Probe, Daten und Bi
 
 ### § 8 Verlosung
 
-Unter allen Beiträgen die die Teilnahmebedingungen erfüllen (§1-3) und nicht von der Teilnahme ausgeschlossen wurden, werden 2x Apple iPad 4 Mini sowie 10x [senseBoxe:home](http://www.sensebox.de/de/products/) verlost.
+Unter allen Beiträgen die die Teilnahmebedingungen erfüllen (§1-3) und nicht von der Teilnahme ausgeschlossen wurden, werden 2x ein Apple iPad 4 Mini sowie 10x eine [senseBoxe:home](http://www.sensebox.de/de/products/) verlost.
 Mitarbeiter von MyOSD 2016, des Redaktionsbüro Wissenschaftsjahr 2016\*17 – Meere und Ozeane, des Büro Wissenschaftskommunikation/DLR PT sowie der Projektgruppe Wissenschaftsjahr 2016\*17 – Meere und Ozeane im Bundesministerium für Bildung und Forschung sind von der Verlosung ausgeschlossen.
 
 Berücksichtig werden nur Proben die bis spätestens 04.07.2016 am Max Planck Institut für Marine Mikrobiologie in Bremen eingegangen sind. Die Gewinner werden bis zum 29. September 2016 durch Auslosung ermittelt.
@@ -86,4 +86,3 @@ Jacobs University Bremen gGmbH
 Campusring 1, 28759 Bremen
 
 Bremen, 21.04.2016
-
