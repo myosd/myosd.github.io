@@ -26,7 +26,7 @@ Unter allen Teilnehmern die uns vollständige Proben mit entsprechenden Orts- un
 An der deutschen Nord- und Ostsee oder einem Mündungsfluss. Dazu zählen z.B. die Ems, Weser, Elbe, Eider, Peene und Oder und deren zuführende Flüsse und Kanäle. Proben können gleichsam im Meer oder an diesen Flüssen genommen werden, von der Quelle bis zur Mündung. Bei der Registrierung kannst Du sehen, wo sich andere Teilnehmerinnen und Teilnehmer angemeldet haben. Am besten wäre es, wenn Du eine Stelle findest, an der noch keine Probe genommen wird. Je früher Du Dich registrierst, desto mehr Auswahl hast Du!
 
 NICHT in Deutschland mündet der Rhein und die Donau, hier also bitte KEINE PROBE nehmen. 
-Wir können leider KEINE PROBEN aus stehenden Gewässern, also aus Seen oder Teichen, analysieren. 
+Wir können leider KEINE PROBEN aus stehenden Gewässern, also aus Seen, Pfützen oder Teichen, analysieren. 
 
 Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auch aufhalten darfst. Der MyOSD ist keine Begründung, ausgewiesene Schutz- und Ruhezonen oder fremde Grundstücke zu betreten. „Betreten verboten“ gilt übrigens grundsätzlich auch für Wissenschaftlerinnen und Wissenschaftler. Wir respektieren die gesetzlichen Vorgaben.
 
@@ -35,21 +35,19 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 ## Wie kann ich mitmachen?
 
-Alle, die mitmachen möchten, müssen sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 25. April 2016 freigeschaltet.
-
-![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
+Alle, die mitmachen möchten, müssen sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 26. April 2016 freigeschaltet.
 
 Du erhältst dann ein Sampling Kit.
 Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem Mündungsfluss zu entnehmen. 
-Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen Video-Tutorial ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du im MyOSD Handbuch nachlesen, das Du weiter unten auf dieser Seite herunterladen kannst. 
+Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen [Video-Tutorial](https://youtu.be/b6Wc9A6D6d8) ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du im [MyOSD Handbuch](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) nachlesen. 
 Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwerten. Dazu gehört die Wassertemperatur sowie der Salzgehalt und der pH-Wert. 
 
-Auch wenn Du keine Mikroorganismen sammeln möchtest, kannst Du am MyOSD mitmachen. Dazu misst Du einfach einzelne Umweltparameter – z.B. die Wasser- und Lufttemperatur, den pH-Wert oder die Nährstoffe – und trägst diese dann in die OSD Citizen App ein.
+Auch wenn Du keine Mikroorganismen sammeln möchtest, kannst Du am MyOSD mitmachen. Dazu misst Du einfach einzelne Umweltparameter – z.B. die Wasser- und Lufttemperatur, den pH-Wert oder die Nährstoffe – und trägst diese dann in die [OSD Citizen App](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA) ein.
 
 Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus nehmen. Vom Boot, Surfbrett oder Kajak aus ... Deiner Fantasie sind keine Grenzen gesetzt!
 
-Toll wäre es, wenn Du uns Fotos oder kleine Videos von Deiner Probennahme schickst. Entweder über die OSD Citizen App oder Du lädst sie einfach in unsere [Cloud](https://owncloud.mpi-bremen.de/index.php/s/EYdCgvoNS4WUbNK).
-Über Tweeds freuen wir uns natürlich auch, hashtags: #myosd #oceansamplingday #citizenscience
+Toll wäre es, wenn Du uns Fotos und/oder kleine Videos von Deiner Probennahme schickst. Entweder über die OSD Citizen App oder Du lädst sie einfach in unsere [Cloud](https://owncloud.mpi-bremen.de/index.php/s/EYdCgvoNS4WUbNK).
+Über Tweeds freuen wir uns natürlich auch, **hashtags: #myosd #oceansamplingday #citizenscience**
 
 Willst Du genau wissen, was auf Dich zukommt? Schau Dir unser Sampling-Tutorial an:
 
@@ -78,14 +76,14 @@ Die Sampling Kits bestehen (unter anderem) aus:
 
 <img src="/assets/images/handy.svg" width="190" height="100" />
 
-Wichtige Umweltdaten wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die OSD Citizen App eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD-Server geschickt und gleich auf unserer [Webseite](https://mb3is.megx.net/osd-app/samples) angezeigt. Die App ist für Android-Smartphones und iPhones erhältlich.
+Wichtige Umweltdaten wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die [OSD Citizen App](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA) eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD-Server geschickt und gleich auf unserer [Webseite](https://mb3is.megx.net/osd-app/samples) angezeigt. Die App ist für Android-Smartphones und iPhones erhältlich.
 
 <div class="block">
 <a href="https://mb3is.megx.net/osd-app/samples"><img src="/assets/images/app_samples_page.png" width="368" height="294"></a>
 </div>
 
 ### App Installation:
-- Die OSD Citizen App kannst Du kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) und App Store für [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) herunterladen. Sieh Dir zur Nutzung bitte auch das Video-Tutorial an. 
+- Die OSD Citizen App kannst Du kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) und App Store für [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) herunterladen. 
 - Du kannst ihm Google Play Store oder Apple App Store natürlich auch direkt nach der „OSD Citizen“ App suchen.
 - Vor der ersten Nutzung muss die App einmal mit bestehender Internetverbindung geöffnet werden, da noch Grundeinstellungen vorgenommen werden müssen. Dies ist nur beim ersten Start notwendig. Danach kann die App jederzeit auch offline genutzt werden, da alle Daten in der App gespeichert werden. 
 1. Bitte klick zuerst auf den “Persönliche Daten“-Button unten links.    
