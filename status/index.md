@@ -16,7 +16,7 @@ Schaut einfach von Zeit zu Zeit wieder vorbei. Auf dieser Seite werden wir Euch 
 Was aktuell passiert, könnt Ihr auch auf [Twitter](https://twitter.com/Micro_B3) und [Facebook](https://www.facebook.com/microb3osd) verfolgen. Offizielle Hashtags: **#myosd #oceansamplingday #citizenscience**
 
 <div class="block">
-<iframe width="520" height="393" src="https://www.youtube.com/embed/5vpKlkzusE8" frameborder="0" allowfullscreen></iframe>
+<iframe width="520" height="293" src="https://www.youtube.com/embed/5vpKlkzusE8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Mehr Videos sind auf unserem [YouTube Kanal](https://www.youtube.com/channel/UCFrDqNblLC2qZoLIOuM0lnQ) zu sehen.
