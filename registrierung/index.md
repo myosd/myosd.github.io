@@ -10,11 +10,11 @@ published: true
   <img src="/assets/images/spritze.svg" width="190" height="100" />
   <img src="/assets/images/brief.svg" width="190" height="100" />
 </div>
-<p>
+<p></p>
 <div align="center">
 <b>Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren</b>.
-<p>
+<p></p>
 Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benützen für die Registrierung einfach ein anderes System.
-<p>
+<p></p>
 </div>
 <img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="Bakterien und ihre DNA" />
