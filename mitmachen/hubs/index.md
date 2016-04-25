@@ -20,15 +20,10 @@ Hier kannst Du Dir Dein MyOSD Sampling Kit abholen. Mach bitte vorher einen Term
 
 [Sina Löschke](https://www.awi.de/ueber-uns/organisation/mitarbeiter/sina-loeschke.html)
 
-An der Neuen Schleuse 32
-
+An der Neuen Schleuse 32, 
 27568 Bremerhaven
 
-+49(471)4831-2008
-
-Sina.Loeschke(at)awi.de
-
- 
+Tel: +49 471 4831 2008
 
 [Biologische Anstalt Helgoland](https://www.awi.de/ueber-uns/standorte/helgoland.html)
 Dr. Antje Wichels
