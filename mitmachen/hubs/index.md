@@ -8,7 +8,6 @@ Wir haben einige MyOSD Sampling Kits bei wissenschaftlichen Instituten hinterleg
 
 Hier kannst Du Dir Dein MyOSD Sampling Kit abholen. Mach bitte vorher einen Termin mit den Wissenschaftlern, damit Du sie auch im Institut antriffst:
 
-
 [**Jacobs University**](http://www.jacobs-university.de) und [**Max-Planck-Institut für Marine Mikrobiologie**](http://www.mpi-bremen.de)
 
 [Das MyOSD 2016 Team](/team)
@@ -63,3 +62,7 @@ Tel: 04421 9475 180
 mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdeburg-Brandenburg-Berlin-Mitte-Berlin-Spandau-Berlin-Tegel-Potsdam-Genthin.
 
 [Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)
+
+
+**Mehr werden folgen...**
+
