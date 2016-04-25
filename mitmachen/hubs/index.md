@@ -23,9 +23,10 @@ An der Neuen Schleuse 32,
 
 Tel: 0471 4831 2008
 
-[Biologische Anstalt Helgoland](https://www.awi.de/ueber-uns/standorte/helgoland.html)
+[**Biologische Anstalt Helgoland**](https://www.awi.de/ueber-uns/standorte/helgoland.html)
 
 [Dr. Antje Wichels](https://www.awi.de/ueber-uns/organisation/mitarbeiter/antje-wichels.html)
+
 27483 Helgoland
 
 Tel: 04725 819 3257
