@@ -10,9 +10,8 @@ published: true
   <img src="/assets/images/spritze.svg" width="190" height="100" />
   <img src="/assets/images/brief.svg" width="190" height="100" />
 </div>
-
-<div align="center">
 <p>
+<div align="center">
 <b>Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren</b>.
 <p>
 Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benützen für die Registrierung einfach ein anderes System.
