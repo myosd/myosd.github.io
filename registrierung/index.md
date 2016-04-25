@@ -15,4 +15,6 @@ published: true
 
 Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benützen für die Registrierung einfach ein anderes System.
 
+<img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="Bakterien und ihre DNA" />
+
 ![Registrierung]({{site.baseurl}}/assets/images/Hier_geht_es_zur_Registrierung.jpg)
