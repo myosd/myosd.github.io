@@ -15,4 +15,4 @@ published: true
 
 Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benützen für die Registrierung einfach ein anderes System.
 
-![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
+![Registrierung]({{site.baseurl}}/assets/images/Hier_geht_es_zur_Registrierung.jpg)
