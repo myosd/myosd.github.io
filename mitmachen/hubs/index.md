@@ -14,8 +14,6 @@ Hier kannst Du Dir Dein MyOSD Sampling Kit abholen. Mach bitte vorher einen Term
 [Das MyOSD 2016 Team](/team)
 <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp; Schreibt uns!</a>
   
-
-
 [**Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung (AWI)**](https://www.awi.de)
 
 [Sina Löschke](https://www.awi.de/ueber-uns/organisation/mitarbeiter/sina-loeschke.html)
@@ -23,32 +21,23 @@ Hier kannst Du Dir Dein MyOSD Sampling Kit abholen. Mach bitte vorher einen Term
 An der Neuen Schleuse 32, 
 27568 Bremerhaven
 
-Tel: +49 471 4831 2008
+Tel: 0471 4831 2008
 
 [Biologische Anstalt Helgoland](https://www.awi.de/ueber-uns/standorte/helgoland.html)
-Dr. Antje Wichels
+
+[Dr. Antje Wichels](https://www.awi.de/ueber-uns/organisation/mitarbeiter/antje-wichels.html)
 27483 Helgoland
 
-Tel:     +49 4725 819 3257
+Tel: 04725 819 3257
 
-<a href="mailto:antje.wichels@awi.de"><i class="fa fa-envelope fa-fw"></i>&nbsp; antje.wichels(at)awi.de</a>
-
-
-[**GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel**                        
-
-Schulkooperationen GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel](http://www.geomar.de/go/schule)
+[**GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel** Schulkooperationen GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel](http://www.geomar.de/go/schule)
 
 [Dr. Joachim Dengg]( http://www.geomar.de/de/mitarbeiter/d/jdengg/)
 
-Wischhofstr. 1-3
-
+Wischhofstr. 1-3,
 24148 Kiel
 
-Tel.: +49 431 600-4006
-
-Jdengg(at)geomar.de
-
- 
+Tel: 0431 600 4006
 
 [**Institut für Chemie und Biologie des Meeres (ICBM), Carl von Ossietzky Universität Oldenburg**](http://icbm.de)
 
@@ -56,38 +45,29 @@ Jdengg(at)geomar.de
 
 Standort Wilhelmshaven: ICBM-Terramare "Villa"
 
-Schleusenstr. 1
-
+Schleusenstr. 1, 
 26382 Wilhelmshaven
 
-+49-(0)4421-944-174
-
-oliver.zielinski(at)uni-oldenburg.de          
-
- 
-
+Tel: 04421 944 174
+     
 Standort Oldenburg: ICBM Oldenburg
 
-Carl von Ossietzky Strasse 911
-
+Carl von Ossietzky Strasse 911,
 26133 Oldenburg
 
- 
 [**Senckenberg am Meer**]( http://www.senckenberg.de/root/index.php?page_id=154)
 
 Deutsches Zentrum für Marine Biodiversitätsforschung
 
 [Dr. Michael J. Raupach](http://www.senckenberg.de/root/index.php?page_id=14157&preview=true)
 
-mraupach(at)senckenberg.de
+Südstrand 44, 26382 Wilhelmshaven
 
-Südstrand 44
-
-26382 Wilhelmshaven
-
-+49 (0)4421 9475 - 180
+Tel: 04421 9475 180
                       
 
 [**MS Wissenschaft**]( https://ms-wissenschaft.de/)
 
-mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdeburg-Brandenburg-Berlin-Mitte-Berlin-Spandau-Berlin-Tegel-Potsdam-Genthin.[Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)
+mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdeburg-Brandenburg-Berlin-Mitte-Berlin-Spandau-Berlin-Tegel-Potsdam-Genthin.
+
+[Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)
