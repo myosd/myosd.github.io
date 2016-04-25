@@ -64,5 +64,5 @@ mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdebur
 [Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)
 
 
-**Mehr werden folgen...**
+**Mehr werden folgen..., schau einfach wieder vorbei**
 
