@@ -1,12 +1,10 @@
 ---
-title: Hubs
+title: MyOSD Hubs in Deutschland
 layout: page
 published: true
 ---
 
-##MyOSD-Hubs in Deutschland
-
-Wir haben einige MyOSD Sampling Kits bei wissenschaftlichen Instituten hinterlegt. Dort kannst Du Dir dein Sampling Kit abholen, Dich mit den zuständigen Wissenschaftlerinnen und Wissenschaftlern über ihre Forschung und den Ocean Sampling Day unterhalten und Institutsluft schnuppern. Einige Hubs bieten auch Veranstaltungen und Institutsführungen an. Erkundige Dich einfach direkt bei ihnen und schau auch auf ihren Webseiten vorbei.
+Wir haben einige MyOSD Sampling Kits bei wissenschaftlichen Instituten hinterlegt. Dort kannst Du Dir Dein Sampling Kit abholen, Dich mit den zuständigen Wissenschaftlerinnen und Wissenschaftlern über ihre Forschung und den Ocean Sampling Day unterhalten und Institutsluft schnuppern. Einige Hubs bieten auch Veranstaltungen und Institutsführungen an. Erkundige Dich einfach direkt bei ihnen und schau auch auf ihren Webseiten vorbei.
 
 Hier kannst Du Dir Dein MyOSD Sampling Kit abholen. Mach bitte vorher einen Termin mit den Wissenschaftlern, damit Du sie auch im Institut antriffst:
 
@@ -100,4 +98,3 @@ Südstrand 44
 [**MS Wissenschaft**]( https://ms-wissenschaft.de/)
 
 mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdeburg-Brandenburg-Berlin-Mitte-Berlin-Spandau-Berlin-Tegel-Potsdam-Genthin.[Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)
-
