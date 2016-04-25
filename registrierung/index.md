@@ -12,6 +12,7 @@ published: true
 </div>
 
 <div align="center">
+<p>
 <b>Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren</b>.
 <p>
 Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benützen für die Registrierung einfach ein anderes System.
