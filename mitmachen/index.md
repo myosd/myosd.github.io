@@ -59,8 +59,8 @@ Willst Du genau wissen, was auf Dich zukommt? Schau Dir unser Sampling-Tutorial 
 
 <img src="/assets/images/box.svg" width="190" height="100" />
 
-Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, ist in einer Liste am Ende der Seite zusammengestellt. Vielleicht gibt es ja eins ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. Die letzte Registrierung für den Postversand ist am 14. Juni 2016. 
-Am besten gleich registrieren und ein Sampling Kit reservieren!
+Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, [siehst Du in dieser Liste](/hubs). Vielleicht gibt es ja eins ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. Die letzte Registrierung für den Postversand ist am 14. Juni 2016. 
+Am besten gleich [registrieren](/registrierung) und ein Sampling Kit reservieren!
 
 Die Sampling Kits bestehen (unter anderem) aus:
 
@@ -114,7 +114,7 @@ Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigen
 - [MyOSD Handbuch zur Probennahme (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) 
 - [MyOSD Log sheet (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/RjR5ki8PpJS2XFY)
 - [App Guide (OSD Citizen App) (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA)
-- Liste der Hubs für den MyOSD 2016 (deutsch), ist noch in Arbeit.
+- [Liste der Hubs für den MyOSD 2016 (deutsch)](/hubs), diese wird ständig erweitert.
 - [Flyer & Plakat MyOSD 2016 (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/WAPXUGf1ELlr3u5)
 - [MyOSD hub guidelines for Germany (english)](https://owncloud.mpi-bremen.de/index.php/s/sZsf0aZqqJLCcfY)
 - [MyOSD-Hub Liste für verteilte Sampling Kits (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/JLzlBeZUXi1g7tI)
