@@ -14,16 +14,7 @@ Hier kannst Du Dir Dein MyOSD Sampling Kit abholen. Mach bitte vorher einen Term
 [Das MyOSD 2016 Team](/team)
 <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp; Schreibt uns!</a>
   
-[**Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung (AWI)**](https://www.awi.de)
-
-[Sina Löschke](https://www.awi.de/ueber-uns/organisation/mitarbeiter/sina-loeschke.html)
-
-An der Neuen Schleuse 32, 
-27568 Bremerhaven
-
-Tel: 0471 4831 2008
-
-[**Biologische Anstalt Helgoland**](https://www.awi.de/ueber-uns/standorte/helgoland.html)
+[**Biologische Anstalt Helgoland, Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung (AWI)**](https://www.awi.de/ueber-uns/standorte/helgoland.html)
 
 [Dr. Antje Wichels](https://www.awi.de/ueber-uns/organisation/mitarbeiter/antje-wichels.html)
 
