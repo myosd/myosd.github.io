@@ -25,7 +25,7 @@ Tel: 04725 819 3257
 
 [Dr. Joachim Dengg]( http://www.geomar.de/de/mitarbeiter/d/jdengg/)
 
-Wischhofstr. 1-3,
+Wischhofstr. 1-3,          
 24148 Kiel
 
 Tel: 0431 600 4006
@@ -65,4 +65,3 @@ Mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdebur
 
 
 **Mehr werden folgen..., schau einfach wieder vorbei**
-
