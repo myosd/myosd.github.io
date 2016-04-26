@@ -12,7 +12,7 @@ published: true
 </div>
 <p></p>
 <div align="center">
-<b>Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benützen für die Registrierung einfach ein anderes System.</b>
+<b>Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benutzen für die Registrierung einfach ein anderes System.</b>
 <p></p>
 </div>
 
