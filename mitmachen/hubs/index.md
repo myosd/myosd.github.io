@@ -39,7 +39,7 @@ Tel: 04421 9475 180
 [Dr. Sven Hille](http://www.io-warnemuende.de/kurzportrait/items/37.html)          
 Seestrasse 15,          
 18119 Warnemünde          
-Tel: 0381-51973 413
+Tel: 0381 51973 413
 
 [**MS Wissenschaft**]( https://ms-wissenschaft.de/)          
 Mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdeburg-Brandenburg-Berlin-Mitte-Berlin-Wannsee-Berlin-Tegel-Potsdam-Genthin: [Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)          
