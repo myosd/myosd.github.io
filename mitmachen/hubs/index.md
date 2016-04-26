@@ -42,8 +42,9 @@ Südstrand 44,
 Tel: 04421 9475 180                      
 
 [**MS Wissenschaft**]( https://ms-wissenschaft.de/)          
-Mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdeburg-Brandenburg-Berlin-Mitte-Berlin-Spandau-Berlin-Tegel-Potsdam-Genthin: [Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)          
+Mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdeburg-Brandenburg-Berlin-Mitte-Berlin-Wannsee-Berlin-Tegel-Potsdam-Genthin: [Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)          
 Auf der MS Wissenschaft kannst Du Dir Dein Sampling Kit bei einem der Lotsen abholen.
+Tel: 0172 1765 936
 
 
 **Mehr werden folgen..., schau einfach wieder vorbei**
