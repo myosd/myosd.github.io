@@ -8,7 +8,7 @@ Wir haben einige MyOSD Sampling Kits bei wissenschaftlichen Instituten hinterleg
 
 Hier kannst Du Dir Dein MyOSD Sampling Kit abholen. Mach bitte vorher einen Termin mit den Wissenschaftlern, damit Du sie auch im Institut antriffst:
 
-[**Jacobs University**](http://www.jacobs-university.de) und [**Max-Planck-Institut für Marine Mikrobiologie**](http://www.mpi-bremen.de)          
+[**Jacobs University**](http://www.jacobs-university.de) und [**Max-Planck-Institut für Marine Mikrobiologie**](http://www.mpi-bremen.de) in Bremen          
 [Das MyOSD 2016 Team](/team)
 <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp; Schreibt uns!</a>
   
