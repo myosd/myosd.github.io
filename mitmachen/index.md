@@ -35,7 +35,7 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 ## Wie kann ich mitmachen?
 
-**[Jeder, der mitmachen möchte, muß sich auf unserer Webseite registrieren.](/registrierung)** Die Registrierung wird ab dem 26. April 2016 freigeschaltet.
+**[Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren.](/registrierung)**
 
 Du erhältst dann ein Sampling Kit.
 Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem Mündungsfluss zu entnehmen. 
