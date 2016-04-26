@@ -17,12 +17,6 @@ Hier kannst Du Dir Dein MyOSD Sampling Kit abholen. Mach bitte vorher einen Term
 27483 Helgoland          
 Tel: 04725 819 3257
 
-[**GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel** Schulkooperationen GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel](http://www.geomar.de/go/schule)          
-[Dr. Joachim Dengg]( http://www.geomar.de/de/mitarbeiter/d/jdengg/)          
-Wischhofstr. 1-3,          
-24148 Kiel          
-Tel: 0431 600 4006
-
 [**Institut für Chemie und Biologie des Meeres (ICBM), Carl von Ossietzky Universität Oldenburg**](http://icbm.de)          
 [Prof. Dr. Oliver Zielinski](http://www.icbm.de/marine-sensorsysteme/)          
 Standort Wilhelmshaven: ICBM-Terramare "Villa"          
