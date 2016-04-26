@@ -33,7 +33,13 @@ Deutsches Zentrum für Marine Biodiversitätsforschung
 [Dr. Michael J. Raupach](http://www.senckenberg.de/root/index.php?page_id=14157&preview=true)          
 Südstrand 44,          
 26382 Wilhelmshaven          
-Tel: 04421 9475 180                      
+Tel: 04421 9475 180 
+
+[**Leibniz-Institut für Ostseeforschung Warnemünde**]( www.io-warnemuende.de)          
+[Dr. Sven Hille](http://www.io-warnemuende.de/kurzportrait/items/37.html)          
+Seestrasse 15,          
+18119 Warnemünde          
+Tel: 0381-51973 413
 
 [**MS Wissenschaft**]( https://ms-wissenschaft.de/)          
 Mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdeburg-Brandenburg-Berlin-Mitte-Berlin-Wannsee-Berlin-Tegel-Potsdam-Genthin: [Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)          
