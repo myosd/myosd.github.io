@@ -27,7 +27,7 @@ Wir wollen wissen, wie sich die mikrobiellen Gemeinschaften von der Quelle bis z
 Mitmachen können alle, die Zugang zur Nord- und Ostsee oder deren Mündungsflüssen haben. Du kannst uns unterstützen, indem Du Mikroorganismen mittels des MyOSD Sampling Kits sammelst und dabei wichtige Umweltdaten wie Wassertemperatur, Salzgehalt und pH-Wert bestimmst. 
 
 <div class="block">
-    <a href="/mitmachen"><img src="/assets/images/WJ16_OSD_Stoerer.gif" width="150" height="150" alt="Mach mit" </a>
+    <a href="/mitmachen"><img src="/assets/images/WJ16_OSD_Stoerer.gif" width="150" height="150" alt="Mach mit"/></a>
     <img src="/assets/images/WJ16_OSD_Karte_weiss.gif" width="300" height="250" />
 </div>
 
