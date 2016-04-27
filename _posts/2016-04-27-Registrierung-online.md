@@ -1,8 +1,8 @@
 ---
+published: true
 title: Endlich!!!
 layout: post
-published: true
-featured: /assets/images//registrierung.jpg
+featured: /assets/images/registrierung.jpg
 ---
 MyOSD Webseite und Registrierung für MyOSD Deutschland ist jetzt offiziell online
 
