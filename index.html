@@ -12,7 +12,7 @@ published: true
 		</header>
 	</section>
 
-<!-- Highlights -->
+<!-- Highlights --> 
 	<section class="wrapper style1">
 		<div class="container">
 			<div class="row double">
@@ -80,6 +80,11 @@ Proben genommen? Welche Ergebnisse haben wir?</a></p>
             {% assign postCounter = 0 %}
             {% for post in site.posts %}
                 {% if postCounter < 4 and post.published  %}
+                    
+                    {% if postCounter == 2 and post.published  %}
+                        </div>
+                        <div class="row">
+                    {% endif%}
                 {% assign postCounter = postCounter | plus: 1 %}
                 <section class="6u">
                     <div class="box post">
@@ -89,8 +94,8 @@ Proben genommen? Welche Ergebnisse haben wir?</a></p>
                         </a>
                         {% endif%}
                         <div class="inner">
-                            <h3>{{ post.title}}</h3>
-                            <p>{{ post.excerpt}}</p>
+                            <h3>{{ post.title }}</h3>
+                            <p>{{ post.excerpt }}</p>
                             <footer>
                                 <a href="{{ site.baseurl }}{{ post.url }}" class="button">Weiter lesen</a>
                             </footer>
