@@ -24,9 +24,12 @@ Schleusenstr. 1,
 26382 Wilhelmshaven          
 Tel: 04421 944 174
      
+[Dr. Ferdinand Esser](https://www.uni-oldenburg.de/index/personen/?username=FEsser1&iframe=ja)
 Standort Oldenburg: ICBM Oldenburg          
-Carl von Ossietzky Strasse 911,          
-26133 Oldenburg
+Carl von Ossietzky Strasse 9-11,
+W15-0-031
+26129 Oldenburg
+Tel: 0441 798 3171
 
 [**Senckenberg am Meer**]( http://www.senckenberg.de/root/index.php?page_id=154)          
 Deutsches Zentrum für Marine Biodiversitätsforschung          
