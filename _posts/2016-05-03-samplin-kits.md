@@ -1,6 +1,6 @@
 ---
 published: true
-title: Frisch Gepackte Sampling Kits
+title: Frisch gepackte Sampling Kits
 layout: post
 excerpt_separator: "<!--stop-->"
 featured: /assets/images/Kits_packing11.jpg
