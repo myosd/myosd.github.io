@@ -1,6 +1,6 @@
 ---
 title: Danke
-layout: post
+layout: page
 ---
 
 
