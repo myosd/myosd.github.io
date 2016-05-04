@@ -49,5 +49,9 @@ Mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdebur
 Auf der MS Wissenschaft kannst Du Dir Dein Sampling Kit bei einem der Lotsen abholen.          
 Tel: 0172 1765 936
 
+Sampling Kits gibt es bald auch im:          
+[Nationalpark-Zentrum Multimar Wattforum](http://www.multimar-wattforum.de/)                    
+Dithmarscher Str. 6a          
+25832 Tönning
 
 **Mehr werden folgen..., schau einfach wieder vorbei**
