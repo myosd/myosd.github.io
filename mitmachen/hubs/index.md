@@ -50,7 +50,7 @@ Auf der MS Wissenschaft kannst Du Dir Dein Sampling Kit bei einem der Lotsen abh
 Tel: 0172 1765 936
 
 Sampling Kits gibt es bald auch im:          
-[Nationalpark-Zentrum Multimar Wattforum](http://www.multimar-wattforum.de/)                    
+[**Nationalpark-Zentrum Multimar Wattforum**](http://www.multimar-wattforum.de/)                    
 Dithmarscher Str. 6a          
 25832 Tönning
 
