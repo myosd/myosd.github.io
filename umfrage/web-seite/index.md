@@ -1,6 +1,6 @@
 ---
 title: Web Seiten Umfrage
-layot: post
+layout: post
 ---
 
 
