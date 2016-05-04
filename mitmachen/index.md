@@ -42,7 +42,7 @@ Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem M
 Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen [Video-Tutorial](https://youtu.be/b6Wc9A6D6d8) ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du im [MyOSD Handbuch](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) nachlesen. 
 Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwerten. Dazu gehört die Wassertemperatur sowie der Salzgehalt und der pH-Wert. 
 
-Auch wenn Du keine Mikroorganismen sammeln möchtest, kannst Du am MyOSD mitmachen. Dazu misst Du einfach einzelne Umweltparameter – z.B. die Wasser- und Lufttemperatur, den pH-Wert oder die Nährstoffe – und trägst diese dann in die [OSD Citizen App](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA) ein.
+Auch wenn Du keine Mikroorganismen sammeln möchtest, kannst Du am MyOSD mitmachen. Dazu misst Du einfach einzelne Umweltparameter – z.B. die Wasser- und Lufttemperatur, den pH-Wert oder die Nährstoffe – und trägst diese dann in die [OSD Citizen App](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA) ein. Nutze auch die [EyeOnWater-Colour App](http://eyeonwater.org/color/welcome.php)für die Messung der Wasserfarbe.
 
 Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus nehmen. Vom Boot, Surfbrett oder Kajak aus ... Deiner Fantasie sind keine Grenzen gesetzt!
 
