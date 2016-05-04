@@ -28,7 +28,7 @@ An der deutschen Nord- und Ostsee oder einem Mündungsfluss. Dazu zählen z.B. d
 NICHT in Deutschland mündet der Rhein und die Donau, hier also bitte KEINE PROBE nehmen. 
 Wir können leider KEINE PROBEN aus stehenden Gewässern, also aus Seen, Pfützen oder Teichen, analysieren. 
 
-Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auch aufhalten darfst. Der MyOSD ist keine Begründung, ausgewiesene Schutz- und Ruhezonen oder fremde Grundstücke zu betreten. „Betreten verboten“ gilt übrigens grundsätzlich auch für Wissenschaftlerinnen und Wissenschaftler. Wir respektieren die gesetzlichen Vorgaben.
+Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auch aufhalten darfst. Der MyOSD ist keine Begründung, ausgewiesene Kern- und Befahrensverbotszonen von Nationalparks oder fremde Grundstücke zu betreten. „Betreten verboten“ gilt übrigens grundsätzlich auch für Wissenschaftlerinnen und Wissenschaftler. Wir respektieren die gesetzlichen Vorgaben.
 
 ![Hier könnt ihr am MyOSD 2016 eine Probe nehmen. ]({{site.baseurl}}/assets/images/Karte_preliminary.jpg)
 
