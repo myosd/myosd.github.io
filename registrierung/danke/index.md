@@ -7,7 +7,7 @@ Danke für Deine Registrieung!
 
 Unser Dank geht auch an: ....
 
-Bitte hilf uns unsere Webseite zu verbessern indem Du an der kurzen Umfrage teilnimmst. 
+Bitte hilf uns unsere Webseite zu verbessern indem Du an unserer kurzen Umfrage teilnimmst. 
 
 Liebes MyOSD Team, bitte bei der Gestaltung dieser Seite Helfen :)
 
