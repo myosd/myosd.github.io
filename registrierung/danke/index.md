@@ -1,9 +1,7 @@
 ---
-title: Danke
+title: Danke für Deine Registrierung!
 layout: page
 ---
-
-Danke für Deine Registrieung!
 
 Unser Dank geht auch an: ....
 
