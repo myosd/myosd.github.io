@@ -1,10 +1,8 @@
 ---
-title: Web Seiten Umfrage
+title: Danke für Deine Registrierung!
 layout: page
 ---
-#Danke für Deine Registrierung!
-
-Unser Dank geht auch an:
+# Unser Dank geht auch an:
 
 <img src="/assets/images/millipore.png" width="117" height="108" /><img src="/assets/images/qiagen.png">
 
