@@ -1,5 +1,5 @@
 ---
-title: "Danke für Deine Registrierung!"
+title: Umfrage
 layout: page
 published: true
 ---
