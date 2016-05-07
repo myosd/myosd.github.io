@@ -18,7 +18,7 @@ published: true
 <img src="/assets/images/awi_logo.png"/>
 <img src="/assets/images/oldenburg.jpg"/>
 <img src="/assets/images/Logo_ICBM.png"/>
-<img src="/assets/images/senckenberg.jpg"/>
+<img src="/assets/images/senckenberg.png"/>
 <img src="/assets/images/iow.jpg"/>
 <img src="/assets/images/np_wattenmeer.png"/>
 <img src="/assets/images/Logo_Nationalpark_Niedersächsisches_Wattenmeer.svg.png"/>
