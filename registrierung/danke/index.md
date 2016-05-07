@@ -12,7 +12,7 @@ published: true
 # Unser Dank geht auch an:
 
 <div class="block">
-<img src="/assets/images/millipore.png" width="117" height="108" />
+<img src="/assets/images/millipore.png" width="117" height="108">
 <img src="/assets/images/qiagen.png">
 <img src="/assets/images/ms_wissenschaft.jpg">
 <img src="/assets/images/awi_logo.svg" height="108">
