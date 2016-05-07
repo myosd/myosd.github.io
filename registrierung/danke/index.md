@@ -16,8 +16,8 @@ published: true
 <img src="/assets/images/qiagen.png"/>
 <img src="/assets/images/ms_wissenschaft.jpg"/>
 <img src="/assets/images/awi_logo.svg" height="108"/>
-<img src="/assets/images/oldenburg.jpg">
-<img src="/assets/images/Logo_ICBM.jpg" height="108"/>
+<img src="/assets/images/oldenburg.jpg"/>
+<img src="/assets/images/Logo_ICBM.jpg"/>
 <img src="/assets/images/senckenberg.jpg"/>
 <img src="/assets/images/iow.jpg"/>
 <img src="/assets/images/np_wattenmeer.png"/>
