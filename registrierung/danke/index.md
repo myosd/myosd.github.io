@@ -15,7 +15,7 @@ published: true
 <img src="/assets/images/millipore.png"/>
 <img src="/assets/images/qiagen.png"/>
 <img src="/assets/images/ms_wissenschaft.jpg"/>
-<img src="/assets/images/awi_logo.svg" height="108"/>
+<img src="/assets/images/awi_logo.png"/>
 <img src="/assets/images/oldenburg.jpg"/>
 <img src="/assets/images/Logo_ICBM.jpg"/>
 <img src="/assets/images/senckenberg.jpg"/>
@@ -25,6 +25,6 @@ published: true
 <img src="/assets/images/Logo_Nationalpark_Vorpommersche_Boddenlandschaft.svg.png"/>
 <img src="/assets/images/Logo_Nationalpark_Jasmund.svg.png"/>
 <img src="/assets/images/Logo_Biosphärenreservat_Mittelelbe.svg.png"/>
-<img src="/assets/images/salzwasserunion_logo.jpg"/>
-<img src="/assets/images/VDST_Logo.svg"/>
+<img src="/assets/images/sau-logo.png"/>
+<img src="/assets/images/vdst.png"/>
 </div>
