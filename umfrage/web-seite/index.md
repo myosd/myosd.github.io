@@ -11,5 +11,19 @@ published: true
 
 # Unser Dank geht an:
 <div class="block">
-<img src="/assets/images/millipore.png" width="117" height="108" /><img src="/assets/images/qiagen.png"><img src="/assets/images/ms_wissenschaft.jpg"><img src="/assets/images/awi_logo.svg"  height="108"><img src="/assets/images/oldenburg.jpg"><img src="/assets/images/Logo_ICBM.jpg" height="108"><img src="/assets/images/senckenberg.jpg"><img src="/assets/images/iow.jpg"><img src="/assets/images/np_wattenmeer.png"><img src="/assets/images/Logo_Nationalpark_Niedersächsisches_Wattenmeer.svg.png"><img src="/assets/images/Logo_Nationalpark_Vorpommersche_Boddenlandschaft.svg.png"><img src="/assets/images/Logo_Nationalpark_Jasmund.svg.png"><img src="/assets/images/Logo_Biosphärenreservat_Mittelelbe.svg.png"><img src="/assets/images/salzwasserunion_logo.jpg"><img src="/assets/images/VDST_Logo.svg">
+<img src="/assets/images/millipore.png"/>
+<img src="/assets/images/qiagen.png"/>
+<img src="/assets/images/ms_wissenschaft.jpg"/>
+<img src="/assets/images/awi_logo.png"/>
+<img src="/assets/images/oldenburg.jpg"/>
+<img src="/assets/images/Logo_ICBM.png"/>
+<img src="/assets/images/senckenberg.png"/>
+<img src="/assets/images/iow.jpg"/>
+<img src="/assets/images/sau-logo.png"/>
+<img src="/assets/images/vdst.png"/>
+<img src="/assets/images/Logo_Nationalpark_Schleswig-Holsteinisches_Wattenmeer.svg.png"/>
+<img src="/assets/images/Logo_Nationalpark_Niedersächsisches_Wattenmeer.svg.png"/>
+<img src="/assets/images/Logo_Nationalpark_Vorpommersche_Boddenlandschaft.svg.png"/>
+<img src="/assets/images/Logo_Nationalpark_Jasmund.svg.png"/>
+<img src="/assets/images/Logo_Biosphärenreservat_Mittelelbe.svg.png"/>
 </div>
