@@ -20,11 +20,11 @@ published: true
 <img src="/assets/images/Logo_ICBM.png"/>
 <img src="/assets/images/senckenberg.png"/>
 <img src="/assets/images/iow.jpg"/>
+<img src="/assets/images/sau-logo.png"/>
+<img src="/assets/images/vdst.png"/>
 <img src="/assets/images/Logo_Nationalpark_Schleswig-Holsteinisches_Wattenmeer.svg.png"/>
 <img src="/assets/images/Logo_Nationalpark_Niedersächsisches_Wattenmeer.svg.png"/>
 <img src="/assets/images/Logo_Nationalpark_Vorpommersche_Boddenlandschaft.svg.png"/>
 <img src="/assets/images/Logo_Nationalpark_Jasmund.svg.png"/>
 <img src="/assets/images/Logo_Biosphärenreservat_Mittelelbe.svg.png"/>
-<img src="/assets/images/sau-logo.png"/>
-<img src="/assets/images/vdst.png"/>
 </div>
