@@ -36,6 +36,7 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 ## Wie kann ich mitmachen?
 
 **[Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren.](/registrierung)**
+<a href="/mitmachen"><img src="/assets/images/WJ16_OSD_Stoerer.gif" width="150" height="150" alt="Mach mit"/></a>
 
 Du erhältst dann ein Sampling Kit.
 Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem Mündungsfluss zu entnehmen. 
