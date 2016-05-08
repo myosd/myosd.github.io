@@ -35,7 +35,8 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 ## Wie kann ich mitmachen?
 
-<a href="/registrierung"><img src="/assets/images/WJ16_OSD_Stoerer.gif" width="150" height="150" alt="Mach mit"/></a>
+<a href="/registrierung"><img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="MyOSD 2016 Registrierung" /></a>
+
 **[Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren.](/registrierung)** 
 
 Du erhältst dann ein Sampling Kit.
