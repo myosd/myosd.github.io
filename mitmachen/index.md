@@ -35,8 +35,8 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 ## Wie kann ich mitmachen?
 
-**[Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren.](/registrierung)** <a href="/mitmachen"><img src="/assets/images/WJ16_OSD_Stoerer.gif" width="150" height="150" alt="Mach mit"/></a>
-
+<a href="/mitmachen"><img src="/assets/images/WJ16_OSD_Stoerer.gif" width="150" height="150" alt="Mach mit"/></a>
+**[Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren.](/registrierung)** 
 Du erhältst dann ein Sampling Kit.
 Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem Mündungsfluss zu entnehmen. 
 Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen [Video-Tutorial](https://youtu.be/b6Wc9A6D6d8) ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du im [MyOSD Handbuch](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) nachlesen. 
