@@ -16,7 +16,7 @@ Bei MyOSD 2016 werden Wasserproben aus der deutschen Nord- und Ostsee sowie dere
 
 ### § 2 Teilnahmeberechtigung
 
-(1) Teilnahmeberechtigt sind Personen ab dem 12. Lebensjahr mit Einwilligung der Eltern oder eines Erziehungsberechtigten sowie Personen über 18 Jahre. Die Teilnahme über die Einschaltung Dritter, zum Beispiel Gewinnspielagenturen oder eine vollautomatische Gewinnspieleintragung, ist ausgeschlossen.
+(1) Teilnahmeberechtigt sind Personen ab dem 12. Lebensjahr mit Einwilligung der Eltern oder eines Erziehungsberechtigten sowie Personen über 18 Jahre. Die Teilnahme erfolgt auf eigenes Risiko. Eltern oder Erziehungsbereichtigte haften für die ihnen anvertrauten Kinder. Die Teilnahme über die Einschaltung Dritter, zum Beispiel Gewinnspielagenturen oder eine vollautomatische Gewinnspieleintragung, ist ausgeschlossen.
 
 (2) Der Veranstalter behält sich darüber hinaus das Recht vor, Teilnehmende von MyOSD 2016 auszuschließen, die gegen die Teilnahmebedingungen verstoßen.
 
