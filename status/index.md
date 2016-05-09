@@ -13,7 +13,7 @@ Was Ihr sofort sehen könnt, sind die Daten und Bilder, die mit der OSD Citizen 
 
 Schaut einfach von Zeit zu Zeit wieder vorbei. Auf dieser Seite werden wir Euch über den Stand der Arbeiten informieren.
 
-Was aktuell passiert, könnt Ihr auch auf [Twitter](https://twitter.com/Micro_B3) und [Facebook](https://www.facebook.com/microb3osd) verfolgen. Offizielle Hashtags: **#myosd #oceansamplingday #citizenscience #MeereundOzeane**
+Was aktuell passiert, könnt Ihr auch auf [Twitter](https://twitter.com/Micro_B3) und [Facebook](https://www.facebook.com/microb3osd) verfolgen. Offizielle Hashtags: **#myosd #oceansamplingday #citizenscience #meereundozeane**
 
 <div class="block">
 <iframe width="520" height="293" src="https://www.youtube.com/embed/5vpKlkzusE8" frameborder="0" allowfullscreen></iframe>
