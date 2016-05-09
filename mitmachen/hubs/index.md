@@ -38,7 +38,7 @@ Südstrand 44,
 26382 Wilhelmshaven          
 Tel: 04421 9475 180 
 
-[**Leibniz-Institut für Ostseeforschung Warnemünde**]( www.io-warnemuende.de)          
+[**Leibniz-Institut für Ostseeforschung Warnemünde**](http://www.io-warnemuende.de)          
 [Dr. Sven Hille](http://www.io-warnemuende.de/kurzportrait/items/37.html)          
 Seestrasse 15,          
 18119 Warnemünde          
