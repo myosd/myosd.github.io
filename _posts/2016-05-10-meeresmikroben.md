@@ -9,6 +9,6 @@ featured: /assets/images/mikroben_unter_lupe.jpg
 Was fällt dir ein, wenn du das Wort Mikroben hörst? Etwas, das für
 das normale Auge unsichtbar ist und uns krank macht? Das ist sicher
 richtig. Aber nur, weil einige Mikroben Krankheiten verursachen, sind
-nicht alle schlecht. Lese den ganzen Artikel hier.
+nicht alle schlecht. Lese den ganzen Artikel [hier](http://www.my-osd.org/assets/images/MyOSD_Meeresmikroben_unter_der%20Lupe.pdf).
 
-<img src="/assets/images/MyOSD_Meeresmikroben_unter_der Lupe.pdf">
+
