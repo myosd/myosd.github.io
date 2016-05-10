@@ -25,8 +25,8 @@ Unter allen Teilnehmern, die uns vollständige Proben mit entsprechenden Orts- u
 ## Wo kann ich mitmachen?
 An der deutschen Nord- und Ostsee oder einem Mündungsfluss. Dazu zählen z.B. die Ems, Weser, Elbe, Eider, Peene und Oder und deren zuführende Flüsse und Kanäle. Proben können gleichsam im Meer oder an diesen Flüssen genommen werden, von der Quelle bis zur Mündung. Bei der Registrierung kannst Du sehen, wo sich andere Teilnehmerinnen und Teilnehmer angemeldet haben. Am besten wäre es, wenn Du eine Stelle findest, an der noch keine Probe genommen wird. Je früher Du Dich registrierst, desto mehr Auswahl hast Du!
 
-NICHT in Deutschland mündet der Rhein und die Donau, hier also bitte KEINE PROBE nehmen. 
-Wir können leider KEINE PROBEN aus stehenden Gewässern, also aus Seen, Pfützen oder Teichen, analysieren. 
+**NICHT** in Deutschland mündet der Rhein und die Donau, hier also bitte **KEINE PROBEN** nehmen. 
+Wir können leider **KEINE PROBEN** aus stehenden Gewässern, also aus Seen, Pfützen oder Teichen, analysieren. 
 
 Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auch aufhalten darfst. Der MyOSD ist keine Begründung, ausgewiesene Kern- und Befahrensverbotszonen von Nationalparks oder fremde Grundstücke zu betreten. „Betreten verboten“ gilt übrigens grundsätzlich auch für Wissenschaftlerinnen und Wissenschaftler. Wir respektieren die gesetzlichen Vorgaben.
 
@@ -37,16 +37,16 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 **Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren. Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benutzen für die Registrierung einfach ein anderes System.** 
 
-<!-- 
-<a href="https://myosd.megx.net/2016/registration.html"><img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="MyOSD 2016 Registrierung" /></a>
--->
+
+<a href="http://blast2.mpi-bremen.de/megx.net/myosd/2016/registration.html"><img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="MyOSD 2016 Registrierung" /></a>
+
 
 Du erhältst dann ein Sampling Kit.
 Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem Mündungsfluss zu entnehmen. 
 Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen [Video-Tutorial](https://youtu.be/b6Wc9A6D6d8) ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du im [MyOSD Handbuch](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) nachlesen. 
 Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwerten. Dazu gehört die Wassertemperatur sowie der Salzgehalt und der pH-Wert. 
 
-Auch wenn Du keine Mikroorganismen sammeln möchtest, kannst Du am MyOSD mitmachen. Dazu misst Du einfach einzelne Umweltparameter – z.B. die Wasser- und Lufttemperatur, den pH-Wert oder die Nährstoffe – und trägst diese dann in die [OSD Citizen App](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA) ein. Nutze auch die [EyeOnWater-Colour App](http://eyeonwater.org/color/welcome.php) für die Messung der Wasserfarbe.
+Auch wenn Du keine Mikroorganismen sammeln möchtest, kannst Du am MyOSD mitmachen. Dazu misst Du einfach einzelne Umweltparameter – z.B. die Wasser- und Lufttemperatur, den pH-Wert oder die Nährstoffe – und trägst diese dann in die [OSD Citizen App](#die-myosd-citizen-app) ein. Nutze auch die [EyeOnWater-Colour App](http://eyeonwater.org/color/welcome.php) für die Messung der Wasserfarbe.
 
 Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus nehmen. Vom Boot, Surfbrett oder Kajak aus ... Deiner Fantasie sind keine Grenzen gesetzt!
 
@@ -80,7 +80,9 @@ Die Sampling Kits bestehen (unter anderem) aus:
 
 <img src="/assets/images/handy.svg" width="190" height="100" />
 
-Wichtige Umweltdaten wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die [OSD Citizen App](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA) eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD-Server geschickt und gleich auf unserer [Webseite](https://mb3is.megx.net/osd-app/samples) angezeigt. Die App ist für Android-Smartphones und iPhones erhältlich.
+Wichtige Umweltdaten wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die [OSD Citizen App fuer Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) oder [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD-Server geschickt und gleich auf unserer [Webseite](https://mb3is.megx.net/osd-app/samples) angezeigt. Die App ist für Android-Smartphones und iPhones erhältlich und wir haben auch ein [kleines Handbuch zur Benutzung der OSD Citizen App](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA/download
+).
+
 
 <div class="block">
 <a href="https://mb3is.megx.net/osd-app/samples"><img src="/assets/images/app_samples_page.png" width="368" height="294"></a>
