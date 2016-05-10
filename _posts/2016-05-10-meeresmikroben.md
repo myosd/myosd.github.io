@@ -3,7 +3,7 @@ published: true
 title: Meeresmikroben unter der Lupe
 layout: post
 excerpt_separator: "<!--stop-->"
-featured: /assets/images/mikroben_unter_lupe.jpg
+featured: /assets/images/mikroben_unter_lupe.png
 ---
 
 Was fällt dir ein, wenn du das Wort Mikroben hörst? Etwas, das für
