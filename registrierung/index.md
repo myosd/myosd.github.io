@@ -22,7 +22,7 @@ published: true
 
 # Es tut uns Leid
 
-<b>Derzeit ist keine MyOSD Registrierung möglich, da das System gerade überarbeitet wird. Versuch es bitte Ab Freitag nochmal.</b>
+<b>Derzeit ist keine MyOSD Registrierung möglich, da das System gerade überarbeitet wird. Versuch es bitte ab Samstag den 14. Mai nochmal.</b>
 
 <img src="http://destinyblog.de/wp-content/uploads/2015/07/wpid-warnschilder_mit_text_wartungsarbeiten_33.jpg">
 
