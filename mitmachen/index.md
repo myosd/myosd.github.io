@@ -53,7 +53,7 @@ Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus ne
 Toll wäre es, wenn Du uns Fotos und/oder kleine Videos von Deiner Probennahme schickst. Entweder über die OSD Citizen App oder Du lädst sie einfach in unsere [Cloud](https://owncloud.mpi-bremen.de/index.php/s/EYdCgvoNS4WUbNK).
 Über **Tweeds** freuen wir uns natürlich auch, **hashtags: #myosd #oceansamplingday #citizenscience**
 
-Willst Du genau wissen, was auf Dich zukommt? Schau Dir unser Sampling-Tutorial an:
+Willst Du genau wissen, was auf Dich zukommt? Schau Dir unser [MyOSD Handbuch](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) und das Sampling-Tutorial an:
 
 <div class="block">
 <iframe width="392" height="220" src="https://www.youtube.com/embed/b6Wc9A6D6d8" frameborder="0" allowfullscreen></iframe>
