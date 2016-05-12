@@ -11,6 +11,7 @@ published: true
 Hier seht ihr den Status der Registrierungen - Stand 12.05.2016
 </div>
 
+
 <div align="center">
 <iframe width="60%" height="400" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/587826" ></iframe>
 </div>
