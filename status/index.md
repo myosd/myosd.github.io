@@ -9,6 +9,8 @@ published: true
 
 Was Ihr sofort sehen könnt, sind die Daten und Bilder, die mit der OSD Citizen App erfasst wurden. Diese werden direkt an den OSD-Server geschickt und live auf unserer [Webseite](https://mb3is.megx.net/osd-app/samples) angezeigt.
 
+<iframe width="100%" height="400" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/587826" ></iframe>
+
 [![Citizen App samples]({{site.baseurl}}/assets/images/app_samples_page.png)](http://mb3is.megx.net/osd-app/samples)
 
 Schaut einfach von Zeit zu Zeit wieder vorbei. Auf dieser Seite werden wir Euch über den Stand der Arbeiten informieren.
