@@ -7,8 +7,6 @@ published: true
 
 **Nach der Probennahme am 21. Juni nehmen wir die Proben in Bremen in Empfang. Die Auswertung wird einige Monate in Anspruch nehmen – Wissenschaft braucht manchmal einfach etwas Zeit. Nach der Aufarbeitung und Analyse der Proben könnt Ihr dann sehen, welche Mikroorganismen in Eurer Wasserprobe waren. Vielleicht habt Ihr ja sogar eine neue Lebensform entdeckt!**
 
-Hier seht ihr den Status der Registrierungen - Stand 12.05.2016
-
 
 <div align="center">
 <iframe width="60%" height="400" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/587826" ></iframe>
