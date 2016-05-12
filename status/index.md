@@ -9,7 +9,9 @@ published: true
 
 Hier seht ihr den Status der Registrierungen - Stand 12.05.2016
 
-<iframe width="80%" height="400" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/587826" ></iframe>
+<div align="center">
+<iframe width="60%" height="400" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/587826" ></iframe>
+</div>
 
 Was Ihr sofort sehen könnt, sind die Daten und Bilder, die mit der OSD Citizen App erfasst wurden. Diese werden direkt an den OSD-Server geschickt und live auf unserer [Webseite](https://mb3is.megx.net/osd-app/samples) angezeigt.
 
