@@ -44,6 +44,13 @@ Seestrasse 15,
 18119 Warnemünde          
 Tel: 0381 51973 413
 
+[**GEOMAR Helmholtz Zentrum für Ozeanforschung Kiel**](http://www.geomar.de/)          
+[Prof. Dr. Ute Hentschel Humeida](http://www.geomar.de/de/mitarbeiter/fb3/mi/uhentschel/)          
+FB3- Marine Mikrobiologie          
+Düsternbrooker Weg 20          
+24145 Kiel          
+Tel: 0431-600-4480
+
 [**MS Wissenschaft**]( https://ms-wissenschaft.de/)          
 Mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdeburg-Brandenburg-Berlin-Mitte-Berlin-Wannsee-Berlin-Tegel-Potsdam-Genthin: [Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)          
 Auf der MS Wissenschaft kannst Du Dir Dein Sampling Kit bei einem der Lotsen abholen.          
