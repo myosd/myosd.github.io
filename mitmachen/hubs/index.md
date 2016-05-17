@@ -57,8 +57,7 @@ Auf der MS Wissenschaft kannst Du Dir Dein Sampling Kit bei einem der Lotsen abh
 Tel: 0172-1765 936
         
 [**Nationalpark-Zentrum Multimar Wattforum**](http://www.multimar-wattforum.de/)                    
-<a href="mailto:lisa.kattenhorn@web.de"><i class="fa fa-envelope fa-fw"></i>&nbsp; Lisa Kattenhorn</a>
-Lisa Kattenhorn lisa.kattenhorn@web.de
+<a href="mailto:lisa.kattenhorn@web.de"><i class="fa fa-envelope fa-fw"></i>&nbsp; Lisa Kattenhorn</a>          
 Dithmarscher Str. 6a          
 25832 Tönning          
 Tel: 0177-3308866
