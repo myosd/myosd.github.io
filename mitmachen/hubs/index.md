@@ -54,11 +54,13 @@ Tel: 0431-600-4480
 [**MS Wissenschaft**]( https://ms-wissenschaft.de/)          
 Mobiler Hub: Kiel-Rendsburg-Hamburg-Geesthacht-Wittenberge-Tangermünde-Magdeburg-Brandenburg-Berlin-Mitte-Berlin-Wannsee-Berlin-Tegel-Potsdam-Genthin: [Tourplan](https://ms-wissenschaft.de/ausstellung/tour-2016/)          
 Auf der MS Wissenschaft kannst Du Dir Dein Sampling Kit bei einem der Lotsen abholen.          
-Tel: 0172 1765 936
-
-Sampling Kits gibt es bald auch im:          
+Tel: 0172-1765 936
+        
 [**Nationalpark-Zentrum Multimar Wattforum**](http://www.multimar-wattforum.de/)                    
+<a href="mailto:lisa.kattenhorn@web.de"><i class="fa fa-envelope fa-fw"></i>&nbsp; Lisa Kattenhorn</a>
+Lisa Kattenhorn lisa.kattenhorn@web.de
 Dithmarscher Str. 6a          
-25832 Tönning
+25832 Tönning          
+Tel: 0177-3308866
 
 **Mehr werden folgen..., schau einfach wieder vorbei**
