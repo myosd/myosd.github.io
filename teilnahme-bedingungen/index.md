@@ -86,3 +86,5 @@ Jacobs University Bremen gGmbH
 Campusring 1, 28759 Bremen
 
 Bremen, 21.04.2016
+
+[Teilnahmebedingungen als PDF](assets/images/Teilnahmebedingungen.pdf)
