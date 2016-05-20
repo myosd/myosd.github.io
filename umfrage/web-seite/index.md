@@ -27,7 +27,7 @@ published: true
 <img src="/assets/images/Logo_Biosphärenreservat_Mittelelbe.svg.png"/>
 <img src="/assets/images/LOGO-SWSchutzstationen_180.png"/>
 <img src="/assets/images/Logo_Jordsand.png"/>
-<img src="/assets/images/Logo_Multimer.jpg"/>
+<img src="/assets/images/Logo_Multimar.jpg"/>
 <img src="/assets/images/sau-logo.png"/>
 <img src="/assets/images/vdst.png"/>
 </div>
