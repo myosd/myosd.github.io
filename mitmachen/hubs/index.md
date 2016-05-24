@@ -60,6 +60,13 @@ Tel: 0172-1765 936
 <a href="mailto:lisa.kattenhorn@web.de"><i class="fa fa-envelope fa-fw"></i>&nbsp; Lisa Kattenhorn</a>          
 Dithmarscher Str. 6a          
 25832 Tönning          
-Tel: 0177-3308866
+Mobil: 0177-3308866
+
+[**Deutsches Meeresmuseum Stralsund**](http://www.deutsches-meeresmuseum.de/)                    
+<a href="mailto:dorit.liebers@meeresmuseum.de"><i class="fa fa-envelope fa-fw"></i>&nbsp; Dr. Dorit Liebers-Helbig</a>          
+Katharinenberg 14 - 20          
+18439 Stralsund          
+Tel: 03831-2650325 
+Mobil: 0173-9688312
 
 **Mehr werden folgen..., schau einfach wieder vorbei**
