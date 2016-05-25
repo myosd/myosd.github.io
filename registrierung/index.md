@@ -17,7 +17,7 @@ published: true
 <p></p>
 </div>
 
-<a href="http://blast2.mpi-bremen.de/megx.net/myosd/2016/registration.html"><img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="MyOSD 2016 Registrierung" /></a>
+<a href="http://www.megx.net/myosd/2016/registration.html"><img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="MyOSD 2016 Registrierung" /></a>
 
 <!--
 # Es tut uns Leid
