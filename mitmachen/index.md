@@ -80,7 +80,7 @@ Die Sampling Kits bestehen (unter anderem) aus:
 
 <img src="/assets/images/handy.svg" width="190" height="100" />
 
-Wichtige Umweltdaten wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die [OSD Citizen App fuer Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) oder [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD-Server geschickt und gleich auf unserer [Webseite](https://mb3is.megx.net/osd-app/samples) angezeigt. Die App ist für Android-Smartphones und iPhones erhältlich und wir haben auch ein [kleines Handbuch zur Benutzung der OSD Citizen App](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA/download
+Wichtige Umweltdaten wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die [OSD Citizen App fuer Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) oder [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD-Server geschickt und gleich auf unserer Webseite angezeigt. Die App ist für Android-Smartphones und iPhones erhältlich und wir haben auch ein [kleines Handbuch zur Benutzung der OSD Citizen App](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA/download
 ).
 
 
