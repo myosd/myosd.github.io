@@ -9,8 +9,6 @@ featured: /assets/images/veranstaltungen.jpg
 Hier sind wir live mit Vorträgen zu MyOSD. Kommt vorbei, erfahrt mehr über MyOSD, stellt Fragen und lernt uns persönlich kennen. 
 Wir freuen uns!
 
-03.06.2016 Science Slam, Flensburg [Phänomenta](http://www.phaenomenta-flensburg.de/zusatzangebote/science-slam/)
-
 07.06.2016 Schüler-Workshop MyOSD,Berlin [MS-Wissenschaft](https://ms-wissenschaft.de/schulen/workshops/)
 
 07.06.2016 Auftaktveranstaltung zum [Wissenschaftsjahr 2016*2017 Meere und Ozeane](https://www.wissenschaftsjahr.de/), Berlin
