@@ -108,11 +108,10 @@ Wenn Du mehr über die OSD Citizen App wissen willst, schau Dir doch unser Video
 ## Du möchtest noch mehr Umweltdaten sammeln?
 Ein wichtiger Indikator für Stoffeinträge in Flüsse und Meere ist die Wasserfarbe. Die Farbe zeigt zum Beispiel mit einer Grünfärbung die Menge der Mikroben im Wasser an, die Fotosynthese betreiben und somit wichtigen Sauerstoff produzieren. Oft kann man auch eine Farbänderung erkennen, wenn ein Fluss in einen anderen Fluss oder ins Meer fließt. Die Wasserfarbe kannst Du ganz leicht selbst ermitteln – es gibt eine separate App dafür. Diese lädst du einfach kostenlos im Google Play Store für [Android](https://play.google.com/store/apps/details?id=nl.maris.citclops.crosswalk&hl=de) oder im App Store für [iOS](https://itunes.apple.com/de/app/eyeonwater-colour/id1021542366?mt=8) herunter. Achtung: die Farbe lässt sich nur bestimmen, wenn der Untergrund (Fluss- oder Meeresboden) nicht sichtbar ist.
 
-Deine Messungen kannst Du sofort auf der [EyeOnWater](http://eyeonwater.org/color/welcome.php) Projekt-Seite sehen. Mehr Infos gibt es auch bei [EU FP7 Projekt Citclops](http://www.citclops.eu) und [Bürger schaffen Wissen](http://www.buergerschaffenwissen.de/projekt/eyeonwater). Wenn wir genug Bilder der Wasserfarbe bekommen, erstellen wir eine Extra-Karte für den MyOSD 2016 in Deutschland und können damit noch besser die Verteilung und die Aufgaben der Mikroben aus Deiner Probe verstehen.
+Deine Messungen kannst Du sofort auf der [EyeOnWater](http://eyeonwater.org/color/welcome.php) Projekt-Seite sehen. Mehr Infos gibt es auch bei [EU FP7 Projekt Citclops](http://www.citclops.eu) und [Bürger schaffen Wissen](http://www.buergerschaffenwissen.de/projekt/eyeonwater). Wenn wir viele Bilder der Wasserfarbe bekommen, können wir damit noch besser die Verteilung und die Aufgaben der Mikroben aus Deiner Probe verstehen.
 
 Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigens auch über den 21. Juni hinaus (und auch vorher schon) benutzen. 
 
-![EOW]({{site.baseurl}}/assets/images/logo_home@2x.png)
 <div class="block">
 <a href="http://www.eyeonwater.org/color"><img src="/assets/images/EOW.png" height="250"></a>
 </div>
