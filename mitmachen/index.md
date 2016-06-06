@@ -113,7 +113,9 @@ Deine Messungen kannst Du sofort auf der [EyeOnWater](http://eyeonwater.org/colo
 Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigens auch über den 21. Juni hinaus (und auch vorher schon) benutzen. 
 
 ![EOW]({{site.baseurl}}/assets/images/logo_home@2x.png)
-
+<div class="block">
+<a href="http://www.eyeonwater.org/color"><img src="/assets/images/EOW.png" height="250"></a>
+</div>
 
 ## Downloads
 
