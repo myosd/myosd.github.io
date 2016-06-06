@@ -20,13 +20,13 @@ Ja, Du kannst nur in Deutschland Proben nehmen und zwar aus rechtlichen Gründen
 Nein leider nicht. Der Grund dafür ist, dass die Donau ins Schwarze Meer fließt und der Rhein zwar in die Nordsee entwässert, aber leider nicht innerhalb der deutschen Grenzen. Da wir gern die mikrobiellen Gemeinschaften von der Quelle bis zum Meer verfolgen wollen und wir aus rechtlichen Gründen im Schwarzen Meer und in der niederländischen Nordsee keine Proben nehmen dürfen, fallen diese zwei Flüsse leider weg. [Hier gibt's noch mehr Informationen dazu.](/faq/rhein-donau/)
 
 # Wie weit sollten Probennahme-Stellen voneinander entfernt sein?
-Unser Ziel ist ein möglichst guter Überblick über die Mikroben in unseren Meeren und Ziel-Flussgebieten. Daher sollte ein möglichst großer Abstand zwischen den einzelnen Probennahme-Stellen liegen, mindestens jedoch 100 m. Der Abstand kann auch geringer sein, wenn an zwei Stellen Unterschiede zu erwarten sind. Zum Beispiel weil ein Bach in einen Fluss oder ins Meer fließt, oder wenn zwei Stellen räumlich getrennt sind, beispielsweise durch eine Kaimauer.
+Unser Ziel ist es, einen möglichst guten Überblick über die Mikroben in unseren Meeren und Ziel-Flussgebieten zu erhalten. Daher sollte ein möglichst großer Abstand zwischen den einzelnen Probennahme-Stellen liegen, mindestens jedoch 100 m. Der Abstand kann auch geringer sein, wenn an zwei Stellen Unterschiede zu erwarten sind. Dies kann z.B. der Fall sein, wenn ein Bach oder Fluss in einen Fluss oder ins Meer fließt, oder wenn zwei Stellen räumlich voneinander getrennt sind, z.B. durch eine Kaimauer.
 
 # Was passiert mit den Proben, die ich nach Bremen schicke?
 Bei uns im Labor wird die DNA (Erbsubstanz) aus den Proben extrahiert. Das heißt, dass wir die Erbinformationen der Mikroorganismen sichtbar machen und damit genau sagen können, welche Arten in der Probe waren. Diese Informationen werden wir auf einer Karte öffentlich zugänglich darstellen. Was gerade mit den Proben passiert, kannst Du ab Juni auf unserer Webseite verfolgen.
 
 # Kann ich auch ohne ein Sampling Kit beim MyOSD mitmachen?
-Du kannst auch ohne ein Sampling Kit am 21. Juni wertvolle Daten sammeln. Zu diesen Daten gehören z.B. die Wasser- und Lufttemperatur, der pH-Wert oder die Nährstoffe im Wasser. Die Temperatur kannst Du mit einem einfachen Thermometer messen, für Nährstoffe gibt es Testkits, wie sie z.B. im Aquarienhandel erhältlich sind. Am besten nutzt Du zum Übertragen der Daten die OSD Citizen App. Nutze bitte die [EyeOnWater-Colour App](http://www.eyeonwater.org/color),um die Wasserfarbe erfassen.  
+Du kannst auch ohne ein Sampling Kit am 21. Juni wertvolle Daten sammeln. Zu diesen Daten gehören z.B. die Wasser- und Lufttemperatur, der pH-Wert oder die Nährstoffe im Wasser. Die Temperatur kannst Du mit einem einfachen Thermometer messen, für Nährstoffe gibt es Testkits, wie sie z.B. im Aquarienhandel erhältlich sind. Am besten nutzt Du zum Übertragen der Daten die OSD Citizen App. Nutze bitte die [EyeOnWater-Colour App](http://www.eyeonwater.org/color), um die Wasserfarbe erfassen.  
 
 # Was passiert mit den Daten, die ich mit der OSD Citizen App hochlade?
 Die Daten werden in unserer Datenbank gespeichert und auf unserem App-Server öffentlich zugänglich gemacht. 
@@ -41,4 +41,4 @@ Am einfachsten geht dies mit der OSD Citizen App. Wenn die GPS-Funktion auf dem 
 Klick auf „Persönliche Daten“ und logge Dich aus und wieder ein. Vergiss nicht nach dem Einloggen auf „allow“ zu klicken.
 
 # Meine Messung mit der EyeOnWater-Colour App wird auf der Webseite nicht angezeigt, was soll ich tun?
-Verbinde Dein Smartphone mit dem Internet und lade dann die www.eyeonwater.org/color Webseite neu. Wenn Dein Messpunkt noch immer nicht erscheint, mach eine neue Messung während Du online bist. Nun sollten beide Messungen auf der Webseite erscheinen. Sollte Deine neue Messung nicht vom Wasser sein, markiere sie bitte auf der Webseite durch einen Klick auf "Flag this".
+Verbinde Dein Smartphone mit dem Internet und lade dann die [Webseite](http://www.eyeonwater.org/color) neu. Wenn Dein Messpunkt noch immer nicht erscheint, mach eine neue Messung während Du online bist. Nun sollten beide Messungen auf der Webseite erscheinen. Sollte Deine neue Messung nicht von der Wasserfarbe sein, markiere sie bitte auf der Webseite durch einen Klick auf "Flag this".
