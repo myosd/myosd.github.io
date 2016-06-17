@@ -37,8 +37,9 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 ## Wie kann ich mitmachen?
 
-**Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren. Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benutzen für die Registrierung einfach ein anderes System.
-Wir haben alle 1000 Kits verteilt, können also leider keine Bestellungen mehr annehmen. Die Registrierung für verteilte Sampling Kits ist noch offen.** 
+**Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren. Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benutzen für die Registrierung einfach ein anderes System.**
+
+**Wir haben alle 1000 Kits verteilt, können also leider keine Bestellungen mehr annehmen. Die Registrierung für verteilte Sampling Kits ist noch offen.** 
 
 
 <a href="http://www.megx.net/myosd/2016/registration.html"><img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="MyOSD 2016 Registrierung" /></a>
