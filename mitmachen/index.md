@@ -7,6 +7,8 @@ published: true
 
 {{ "**Meer wissen – Schritt für Schritt: Sampling ist englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende – dem Ocean Sampling Day – nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können im MyOSD-Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**" | markdownify }}
 
+**Wir haben alle 1000 Sampling Kits verteilt! Danke an alle Teilnehmerinnen und Teilnehmer!**
+
 <div class="block" style="margin-top: 1em">
   <img src="/assets/images/box.svg" width="190" height="100" />
   <img src="/assets/images/handy.svg" width="190" height="100" />
@@ -35,7 +37,8 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 ## Wie kann ich mitmachen?
 
-**Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren. Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benutzen für die Registrierung einfach ein anderes System.** 
+**Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren. Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benutzen für die Registrierung einfach ein anderes System.
+Wir haben alle 1000 Kits verteilt, können also leider keine Bestellungen mehr annehmen. Die Registrierung für verteilte Sampling Kits ist noch offen.** 
 
 
 <a href="http://www.megx.net/myosd/2016/registration.html"><img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="MyOSD 2016 Registrierung" /></a>
@@ -63,7 +66,7 @@ Willst Du genau wissen, was auf Dich zukommt? Schau Dir unser [MyOSD Handbuch](h
 
 <img src="/assets/images/box.svg" width="190" height="100" />
 
-Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, [siehst Du in dieser Liste](/mitmachen/hubs). Vielleicht gibt es ja eins ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. Die letzte Registrierung für den Postversand ist am 14. Juni 2016. 
+Die Sampling Kits bekommst Du von uns oder von einer zentralen Anlaufstelle (Hub), sprich: einem Forschungsinstitut in Deiner Nähe. Welche Institute dabei sind, [siehst Du in dieser Liste](/mitmachen/hubs). Vielleicht gibt es ja eins ganz in Deiner Nähe? Die Proben werden dann entweder von den Hubs oder direkt von Dir zu uns nach Bremen geschickt. **Die letzte Registrierung für den Postversand ist am 14. Juni 2016.** 
 Am besten gleich [registrieren](/registrierung) und ein Sampling Kit reservieren!
 
 Die Sampling Kits bestehen (unter anderem) aus:
