@@ -69,4 +69,4 @@ Katharinenberg 14 - 20
 Tel: 03831-2650325          
 Mobil: 0173-9688312
 
-**Mehr werden folgen..., schau einfach wieder vorbei**
+**Danke an unsere MyOSD Hubs für die tolle Unterstützung!!**
