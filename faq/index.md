@@ -10,6 +10,9 @@ Für Dich nichts. Wir verteilen die Sampling Kits gratis. Bestell aber bitte nur
 # Wie schicke ich die Proben zurück und was kostet es?
 Du kannst die Proben einfach in der Box des Sampling Kits zurückschicken. Dazu musst Du sie nur bei der nächsten Postfiliale oder einer Packstation abgeben. Die Rücksendung kostet nichts, ein entsprechender Aufkleber liegt dem Kit bei.
 
+# Die Post nimmt das Paket mit Rücksendeetikett nicht an. Was soll ich tun?
+Zunächst einmal sorry, dass einige Annahmestellen das DHL-Produkt anscheinend nicht kennen. In einigen Fällen hat die Abgabe als “einfache Sendung” (nicht Retoure), oder aber die Behandlung wie bei einer Online-Frankierung geholfen. Als sehr zuverlässig hat sich die Abgabe an Packstationen erwiesen (das geht auch als nicht-registrierter Nutzer).
+
 # Kann ich nur am 21. Juni eine Probe nehmen?
 Das Konzept des OSD und MyOSD besteht darin, eine Momentaufnahme der Artenvielfalt und Aufgaben der Kleinstlebewesen unserer Flüsse und Meere zu erhalten. Das geht nur bei einer gemeinsamen Probennahme am 21. Juni 2016. Eine Probennahme am 19. und 20.06 ist aber noch akzeptabel.
 
