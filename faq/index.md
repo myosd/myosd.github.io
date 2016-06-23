@@ -43,5 +43,8 @@ Am einfachsten geht dies mit der OSD Citizen App. Wenn die GPS-Funktion auf dem 
 # Warum kann ich meine Proben und Fotos nicht hochladen?
 Klick auf „Persönliche Daten“ und logge Dich aus und wieder ein. Vergiss nicht nach dem Einloggen auf „allow“ zu klicken.
 
+# Meine Fotos sind auf der OSD Citizen App Seite nicht sichtbar. Was soll ich tun?
+Deine Fotos werden auf der [megx-Seite](http://www.megx.net/osd-app/samples) nur als graue Rahmen angezeigt? Dann klick bitte bei bestehender Interent-Verbindung noch einmal auf "Fotos hochladen". 
+
 # Meine Messung mit der EyeOnWater-Colour App wird auf der Webseite nicht angezeigt, was soll ich tun?
-Verbinde Dein Smartphone mit dem Internet und lade dann die [Webseite](http://www.eyeonwater.org/color) neu. Wenn Dein Messpunkt noch immer nicht erscheint, mach eine neue Messung während Du online bist. Nun sollten beide Messungen auf der Webseite erscheinen. Sollte Deine neue Messung nicht von der Wasserfarbe sein, markiere sie bitte auf der Webseite durch einen Klick auf "Flag this".
+Verbinde Dein Smartphone mit dem Internet, öffne die EyeOnWater-Colour App und warte einen Moment. Dann lade die [Webseite](http://www.eyeonwater.org/color) neu. Wenn Dein Messpunkt noch immer nicht erscheint, mach eine neue Messung während Du online bist. Nun sollten beide Messungen auf der Webseite erscheinen. Wenn diese zweite Messung nicht vom Wasser ist (z.B. von Deiner Tastatur oder dem Teppich), markiere sie bitte auf der Webseite durch einen Klick auf "Flag this".
