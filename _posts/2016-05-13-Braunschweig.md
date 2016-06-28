@@ -3,7 +3,7 @@ published: true
 title: Zu viel des Guten - Meeresschutz beginnt auf dem Acker
 layout: post
 excerpt_separator: "<!--stop-->"
-featured: /assets/images/Kits_packing11.jpg
+featured: /assets/images/BS_screenshot.png
 ---
  
 Nitrat gelangt in Form von Düngemitteln aus der Landwirtschaft in die Nord- und Ostsee. [„Zuviel Des Guten – Meeresschutz Beginnt Auf Dem Acker“](https://ms-wissenschaft.de/ausstellung/veranstaltungen/zuviel-des-guten/) wurde von Dipl.-Ing. agr. Bernhard Osterburg, Thünen-Institut, Braunschweig, Dr. Julia A. Busch, Jacobs University Bremen und Max-Planck-Institut für marine Mikrobiologie aus dem MyOSD-Team, Dr. Bettina Taylor, BUND-Meeresschutzbüro, Bremen und Wilfried Henties, stellv. Vorsitzender des Bauernverbandes Braunschweiger Land lebhaft diskutiert.
