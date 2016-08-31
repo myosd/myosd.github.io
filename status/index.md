@@ -20,6 +20,11 @@ Daten und Bilder, die mit der OSD Citizen App erfasst wurden, werden direkt auf 
 
 2016-06-20: Wir nehmen täglich Sampling Kit-Berge am MPI in Empfang. Hier werden die Proben nun fleissig ausgepackt und sortiert. Die ersten Salzgehalt-Proben werden auch schon gemessen.
 
+2016-08-30: Die Probenaufbereitung ist in vollem Gang. Jede Filterkartusche muss geöffnet und der Filter für die DNA Extraktion entnommen werden. Hier seht ihr Marina bei der Arbeit im Labor.
+<div align="center">
+<iframe width="520" height="293" src="https://www.youtube.com/embed/3pBwrK71qdk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Schau einfach von Zeit zu Zeit wieder vorbei. Auf dieser Seite werden wir Dich weitherhin über den Stand der Arbeiten informieren.
 
 Was aktuell passiert, kannst Du auch auf [Twitter](https://twitter.com/Micro_B3) und [Facebook](https://www.facebook.com/microb3osd) verfolgen. Offizielle Hashtags: **#myosd #oceansamplingday #citizenscience #meereundozeane**
