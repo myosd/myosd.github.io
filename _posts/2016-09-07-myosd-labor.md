@@ -3,7 +3,7 @@ published: true
 title: Was passiert gerade bei MyOSD?
 layout: post
 excerpt_separator: "<!--stop-->"
-featured: /assets/images/myosd_labor.jpg
+featured: /assets/images/myosd_labor.JPG
 ---
 
 WOW wart ihr fleißig! Wir haben 780 Proben aus ganz Deutschland und tolle Fotos und Videos von euch zugeschickt bekommen!
