@@ -1,10 +1,10 @@
----
+
 published: true
 title: MyOSD Verlosung
 layout: post
 excerpt_separator: "<!--stop-->"
-featured: /assets/images/verlosung.jpg
----
+featured:/assets/images/verlosung.jpg
+
 Habt ihr was bei der MyOSD Verlosung gewonnen? Findet es hier heraus!
 
 <!--stop-->
