@@ -7,7 +7,7 @@ published: true
 
 **Nach der Probennahme am 21. Juni nehmen wir die Proben in Bremen in Empfang. Die Auswertung wird einige Monate in Anspruch nehmen – Wissenschaft braucht manchmal einfach etwas Zeit. Nach der Aufarbeitung und Analyse der Proben kannst Du dann sehen, welche Mikroorganismen in Deiner Wasserprobe waren. Vielleicht hast Du ja sogar eine neue Lebensform entdeckt!**
 
-Wir haben 1000 Sampling Kits verteilt! An diesen Stellen wollen Teilnehmerinnen und Teilnehmer Proben nehmen.
+Wir haben 1080 Sampling Kits verteilt! An diesen Stellen wollten Teilnehmerinnen und Teilnehmer Proben nehmen:
 
 <div align="center">
 <iframe width="60%" height="400" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/587826" ></iframe>
