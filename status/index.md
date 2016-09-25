@@ -25,6 +25,10 @@ Daten und Bilder, die mit der OSD Citizen App erfasst wurden, werden direkt auf 
 <iframe width="520" height="293" src="https://www.youtube.com/embed/3pBwrK71qdk" frameborder="0" allowfullscreen></iframe>
 </div>
 
+2016-09-23: Heute haben wir die zwei iPads Mini 4 und 10 SenseBoxen:Home verlost. Bist Du ein Gewinner? Schau Dir das Video an.
+<div align="center">
+<iframe width="520" height="293" src="https://www.youtube.com/embed/E2WoDtc-zi8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Schau einfach von Zeit zu Zeit wieder vorbei. Auf dieser Seite werden wir Dich weitherhin über den Stand der Arbeiten informieren.
 
