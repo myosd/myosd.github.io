@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Habt ihr was bei der MyOSD Verlosung gewonnen? Findet es hier heraus!
 
