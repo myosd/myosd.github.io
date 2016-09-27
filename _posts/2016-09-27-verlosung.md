@@ -1,7 +1,11 @@
 ---
 published: true
+title: Verlosung
+layout: post
+featured: /assets/images/verlosung.jpg
+
 ---
-## Habt ihr was bei der MyOSD Verlosung gewonnen? Findet es hier heraus!
+Habt ihr was bei der MyOSD Verlosung gewonnen? Findet es hier heraus!
 
 Unsere zwei Glücksfeen Julia und Julia haben die Gewinner der zwei iPads 4 Mini und der 10 Senseboxen gezogen.
 Wir gratulieren den Gewinnern und bedanken uns nochmal ganz herzlich bei allen die an MyOSD Teilgenommen haben!
