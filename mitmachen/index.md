@@ -5,7 +5,7 @@ published: true
 ---
 
 
-{{ "**Meer wissen – Schritt für Schritt: Sampling ist englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende – dem Ocean Sampling Day – nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 können im MyOSD-Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**" | markdownify }}
+{{ "**Meer wissen – Schritt für Schritt: Sampling ist englisch und heißt so viel wie Probennahme. Am 21. Juni, also am Tag der Sommersonnenwende – dem Ocean Sampling Day – nehmen Wissenschaftlerinnen und Wissenschaftler überall auf der Welt Wasserproben. Im Wissenschaftsjahr 2016*17 konnten im MyOSD-Projekt bis zu 1.000 Hobbyforscherinnen und -forscher an deutschen Küsten und Mündungsflüssen Proben nehmen und Umweltmessungen durchführen. Bei MyOSD arbeiten Wissenschaftlerinnen und Wissenschaftler, Bürgerinnen und Bürger Hand in Hand.**" | markdownify }}
 
 **Wir haben alle 1000 Sampling Kits verteilt! Danke an alle Teilnehmerinnen und Teilnehmer!**
 
@@ -39,10 +39,10 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 **Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren. Bitte wundere Dich nicht, dass Du für die Registrierung auf eine andere Webseite weitergeleitet wirst. Wir benutzen für die Registrierung einfach ein anderes System.**
 
-**Wir haben alle 1000 Kits verteilt, können also leider keine Bestellungen mehr annehmen. Die Registrierung für verteilte Sampling Kits ist noch offen.** 
+**Wir haben alle 1000 Kits verteilt, können also leider keine Bestellungen mehr annehmen.** 
 
 
-<a href="http://www.megx.net/myosd/2016/registration.html"><img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="MyOSD 2016 Registrierung" /></a>
+<!-- a href="http://www.megx.net/myosd/2016/registration.html"><img src="/assets/images/Hier_geht_es_zur_Registrierung.jpg" width="300" height="116" alt="MyOSD 2016 Registrierung" /></a -->
 
 
 Du erhältst dann ein Sampling Kit.
