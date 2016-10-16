@@ -125,7 +125,7 @@ Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigen
 - [MyOSD Handbuch zur Probennahme (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) 
 - [MyOSD Log sheet (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/RjR5ki8PpJS2XFY)
 - [App Guide (OSD Citizen App) (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA)
-- [senseBox:home Wlan Aufbauanleitung](https://owncloud.mpi-bremen.de/index.php/s/PFGBQlriiQHuF97)
+- [senseBox:home Wlan Aufbauanleitung](https://owncloud.mpi-bremen.de/index.php/s/PFGBQlriiQHuF97/download)
 - [Flyer & Plakat MyOSD 2016 (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/WAPXUGf1ELlr3u5)
 - [Unterrichtsmaterial (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/uJzbSifsXVEvohr)
 - [Liste der MyOSD-Hubs in Deutschland, für den MyOSD 2016 (deutsch)](/mitmachen/hubs), diese wird ständig erweitert.
