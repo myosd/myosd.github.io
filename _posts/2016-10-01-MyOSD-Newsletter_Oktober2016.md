@@ -4,7 +4,7 @@ title: MyOSD Newsletter, Oktober 2016
 layout: post
 featured: /assets/images/Newsletter_Oktober.jpg
 ---
-MyOSD Newletter vom Oktober 2016
+[Lade Deinen MyOSD Newsletter vom Oktober 2016 herunter](https://owncloud.mpi-bremen.de/index.php/s/WV63HCgotTDypjn)
 
 Liebe/r MyOSD 2016 Teilnehmerinnen und Teilnehmer, sowie Unterstützerinnen und Unterstützer,
 
@@ -24,5 +24,3 @@ Die DNA der Bakterien wird nun sequenziert, also für uns lesbar gemacht. Für e
 Wir melden uns bei Dir, wenn wir die ersten Ergebnisse haben. Gute Wissenschaft braucht manchmal etwas Zeit, in der Analyse, sowie in der Auswertung. Wir hoffen, dass Du dafür Verständnis hast.
 Viel Spaß mit den Videos, beste Grüße, 
 Dein MyOSD-Team
-
-[Dein Newsletter zum Herunterladen](https://owncloud.mpi-bremen.de/index.php/s/WV63HCgotTDypjn)
