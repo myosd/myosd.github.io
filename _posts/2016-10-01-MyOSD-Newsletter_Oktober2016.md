@@ -2,7 +2,7 @@
 published: true
 title: MyOSD Newsletter, Oktober 2016
 layout: post
-featured: /assets/images/Newsletter_Oktober.tif
+featured: /assets/images/Newsletter_Oktober.jpg
 ---
 MyOSD Newletter vom Oktober 2016
 
