@@ -7,15 +7,15 @@ published: true
 
 **Nach der Probennahme am 21. Juni nehmen wir die Proben in Bremen in Empfang. Die Auswertung wird einige Monate in Anspruch nehmen – Wissenschaft braucht manchmal einfach etwas Zeit. Nach der Aufarbeitung und Analyse der Proben kannst Du dann sehen, welche Mikroorganismen in Deiner Wasserprobe waren. Vielleicht hast Du ja sogar eine neue Lebensform entdeckt!**
 
-Wir haben 1080 Sampling Kits verteilt! An diesen Stellen wollten Teilnehmerinnen und Teilnehmer Proben nehmen:
+Wir haben 1080 Sampling Kits verteilt! <!--An diesen Stellen wollten Teilnehmerinnen und Teilnehmer Proben nehmen:--> An diesen Stellen haben Teilnehmerinnen und Teilnehmer im Jahr 2016 Proben genommen:
 
 <div align="center">
 <iframe src="https://www.google.com/maps/d/embed?mid=1OY_k2-HF_Fm-ILFqrkBB0wJko1A" width="640" height="480"></iframe>
 </div>
 
-<div align="center">
+<!--<div align="center">
 <iframe width="60%" height="400" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/587826" ></iframe>
-</div>
+</div>-->
 
 
 Daten und Bilder, die mit der OSD Citizen App erfasst wurden, werden direkt auf den OSD-Server geschickt. Du kannst Dir die Daten live auf unserer [OSD-App-Webseite](https://mb3is.megx.net/osd-app/samples) ansehen. Auch die Erfassung der Wasserfarbe kannst Du sofort auf der [EyeOnWater-Webseite](http://www.eyeonwater.org.color) sehen.
