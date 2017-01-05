@@ -10,6 +10,10 @@ published: true
 Wir haben 1080 Sampling Kits verteilt! An diesen Stellen wollten Teilnehmerinnen und Teilnehmer Proben nehmen:
 
 <div align="center">
+<iframe src="https://www.google.com/maps/d/embed?mid=1OY_k2-HF_Fm-ILFqrkBB0wJko1A" width="640" height="480"></iframe>
+</div>
+
+<div align="center">
 <iframe width="60%" height="400" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/587826" ></iframe>
 </div>
 
