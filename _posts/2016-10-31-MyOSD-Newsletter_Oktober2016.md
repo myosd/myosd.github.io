@@ -4,7 +4,7 @@ title: MyOSD Newsletter, Oktober 2016
 layout: post
 featured: /assets/images/Newsletter_Oktober.jpg
 ---
-[Lade Deinen MyOSD Newsletter vom Oktober 2016 herunter!](https://owncloud.mpi-bremen.de/index.php/s/WV63HCgotTDypjn/download)
+[Lade Deinen MyOSD Newsletter vom Oktober 2016 herunter!](/assets/images/MyOSD_Newsletter_2016-10.pdf)
 
 Liebe/r MyOSD 2016 Teilnehmerinnen und Teilnehmer, sowie Unterstützerinnen und Unterstützer,
 
