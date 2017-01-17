@@ -4,7 +4,7 @@ title: MyOSD Newsletter, Dezember 2016
 layout: post
 featured: /assets/images/MyOSD_Newsletter_2016-12.jpg
 ---
-[Lade Deinen MyOSD Newsletter vom Dezember 2016 herunter!](https://owncloud.mpi-bremen.de/index.php/s/N5R89xmX9i93hro)
+[Lade Deinen MyOSD Newsletter vom Dezember 2016 herunter!](/assets/images/MyOSD_Newsletter_2016-12.pdf)
 
 Liebe/r MyOSD 2016 Teilnehmer/in und Unterstützer/in,       
 
