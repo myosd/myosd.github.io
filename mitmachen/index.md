@@ -20,7 +20,7 @@ published: true
 ## Wer kann mitmachen?
 
 Jede und jeder ist willkommen. Egal, ob Einzelpersonen, Familien, Vereinsgruppen oder Schulklassen. Im Team könnt Ihr Euch bei der Probennahme und beim Filtrieren unterstützen. Kinder unter 16 sollten am besten in Begleitung eines Erwachsenen sein. 
-Für Schüler ab der 11. Klasse haben wir [Unterrichtsmaterial](https://owncloud.mpi-bremen.de/index.php/s/uJzbSifsXVEvohr) erstellt. Du willst es genau wissen? Hier findest Du unsere [Teilnahmebedingungen](/teilnahme-bedingungen). Noch Fragen? <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp; Schreibt uns!</a>
+Für Schüler ab der 11. Klasse haben wir [Unterrichtsmaterial](https://owncloud.mpi-bremen.de/index.php/s/rfGyOVLH3Vpl1ok?path=/4_MyOSD_Unterrichtsmaterial) erstellt. Du willst es genau wissen? Hier findest Du unsere [Teilnahmebedingungen](/teilnahme-bedingungen). Noch Fragen? <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp; Schreibt uns!</a>
 
 Unter allen Teilnehmern, die uns vollständige Proben mit entsprechenden Orts- und Umweltparametern zurückschicken (siehe [Teilnahmebedingungen](/teilnahme-bedingungen)), werden 2x ein [Apple iPad 4 Mini](http://www.apple.com/de/ipad-mini-4/) sowie 10x eine [senseBoxe:home](http://www.sensebox.de/de/products/) verlost. 
 
@@ -47,17 +47,17 @@ Achte bitte darauf, dass Du die Proben nur an Orten nimmst, an denen Du Dich auc
 
 Du erhältst dann ein Sampling Kit.
 Das Sampling Kit enthält alles, um eine Probe aus Nord- und Ostsee oder einem Mündungsfluss zu entnehmen. 
-Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen [Video-Tutorial](https://youtu.be/b6Wc9A6D6d8) ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du im [MyOSD Handbuch](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) nachlesen. 
+Dabei wird eine Wasserprobe mit einer Spritze durch einen sehr feinen Filter filtriert. Die Mikroorganismen bleiben auf dem Filter zurück. Je mehr Wasser filtriert wird, desto mehr Mikroorganismen sammeln sich auf dem Filter. Diesen schickst Du dann kostenlos zu uns nach Bremen. Hier bestimmen wir die Mikroorganismen-Arten auf Deinem Filter. Wie die Probe genommen wird, kannst Du Dir in einem kurzen [Video-Tutorial](https://youtu.be/b6Wc9A6D6d8) ansehen. Die genaue Beschreibung zur Nutzung des Sampling Kits kannst Du im [MyOSD Handbuch](/assets/images/A5_Handbuch_2016.pdf) nachlesen. 
 Neben den Mikroorganismen sind auch Umweltdaten wichtig, um die Proben auszuwerten. Dazu gehört die Wassertemperatur sowie der Salzgehalt und der pH-Wert. 
 
 Auch wenn Du keine Mikroorganismen sammeln möchtest, kannst Du am MyOSD mitmachen. Dazu misst Du einfach einzelne Umweltparameter – z.B. die Wasser- und Lufttemperatur, den pH-Wert oder die Nährstoffe – und trägst diese dann in die [OSD Citizen App](#die-myosd-citizen-app) ein. Nutze auch die [EyeOnWater-Colour App](http://eyeonwater.org/color/welcome.php) für die Messung der Wasserfarbe.
 
 Proben kannst Du übrigens von Land (Ufer, Steg, Brücke) oder vom Wasser aus nehmen. Vom Boot, Surfbrett oder Kajak aus ... Deiner Fantasie sind keine Grenzen gesetzt!
 
-Toll wäre es, wenn Du uns Fotos und/oder kleine Videos von Deiner Probennahme schickst. Entweder über die OSD Citizen App oder Du lädst sie einfach in unsere [Cloud](https://owncloud.mpi-bremen.de/index.php/s/EYdCgvoNS4WUbNK).
+Toll wäre es, wenn Du uns Fotos und/oder kleine Videos von Deiner Probennahme schickst. Entweder über die OSD Citizen App oder Du lädst sie einfach in unsere [Cloud]("https://owncloud.mpi-bremen.de/index.php/s/rfGyOVLH3Vpl1ok?path=/3_MyOSD_Uploads).
 Über **Tweeds** freuen wir uns natürlich auch, **hashtags: #myosd #oceansamplingday #citizenscience**
 
-Willst Du genau wissen, was auf Dich zukommt? Schau Dir unser [MyOSD Handbuch](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) und das Sampling-Tutorial an:
+Willst Du genau wissen, was auf Dich zukommt? Schau Dir unser [MyOSD Handbuch](/assets/images/A5_Handbuch_2016.pdf) und das Sampling-Tutorial an:
 
 <div class="block">
 <iframe width="392" height="220" src="https://www.youtube.com/embed/b6Wc9A6D6d8" frameborder="0" allowfullscreen></iframe>
@@ -84,8 +84,7 @@ Die Sampling Kits bestehen (unter anderem) aus:
 
 <img src="/assets/images/handy.svg" width="190" height="100" />
 
-Wichtige Umweltdaten wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die [OSD Citizen App fuer Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) oder [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD-Server geschickt und gleich auf unserer Webseite angezeigt. Die App ist für Android-Smartphones und iPhones erhältlich und wir haben auch ein [kleines Handbuch zur Benutzung der OSD Citizen App](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA/download
-).
+Wichtige Umweltdaten wie z.B. die Temperatur oder den pH-Wert kannst Du direkt an Deinem Sampling Ort in die [OSD Citizen App fuer Android](https://play.google.com/store/apps/details?id=com.iw.esa&hl=de) oder [iOS](https://itunes.apple.com/us/app/osd-citizen/id834353532?mt=8) eintragen. Diese fungiert als elektronischer "Log sheet", also als eine Art digitales Protokoll. Mit der App kannst Du auch Fotos von Dir beim Beproben oder von der Umgebung hochladen. Diese werden dann direkt an den OSD-Server geschickt und gleich auf unserer Webseite angezeigt. Die App ist für Android-Smartphones und iPhones erhältlich und wir haben auch ein [kleines Handbuch zur Benutzung der OSD Citizen App](/assets/images/A5_App_Guide_2016.pdf).
 
 
 <div class="block">
@@ -122,13 +121,13 @@ Die [EyeOnWater](http://eyeonwater.org/color/welcome.php) App kannst Du übrigen
 
 ## Downloads
 
-- [MyOSD Handbuch zur Probennahme (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/6ERXLMk7pjwEmax) 
-- [MyOSD Log sheet (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/RjR5ki8PpJS2XFY)
-- [App Guide (OSD Citizen App) (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/RsWn7xwwYeo0PvA)
-- [senseBox:home Wlan Aufbauanleitung](https://owncloud.mpi-bremen.de/index.php/s/PFGBQlriiQHuF97/download)
-- [Flyer & Plakat MyOSD 2016 (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/WAPXUGf1ELlr3u5)
-- [Unterrichtsmaterial (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/uJzbSifsXVEvohr)
-- [Liste der MyOSD-Hubs in Deutschland, für den MyOSD 2016 (deutsch)](/mitmachen/hubs), diese wird ständig erweitert.
-- [MyOSD hub guidelines for Germany (english)](https://owncloud.mpi-bremen.de/index.php/s/sZsf0aZqqJLCcfY)
-- [MyOSD-Hub Kurzfassung (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/noUp3rbaxO5rqJp)
-- [MyOSD-Hub Liste für verteilte Sampling Kits (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/JLzlBeZUXi1g7tI)
+- [MyOSD Handbuch zur Probennahme (deutsch)](/assets/images/A5_Handbuch_2016.pdf) 
+- [MyOSD Log sheet (deutsch)](/assets/images/MyOSD_logsheet_2016.pdf)
+- [App Guide (OSD Citizen App) (deutsch)](/assets/images/A5_App_Guide_2016.pdf)
+- [senseBox:home Wlan Aufbauanleitung](/assets/images/Aufbau_der_MyOSD_senseBox_home_Wlan_final.pdf) 
+- [Flyer & Plakat MyOSD 2016 (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/rfGyOVLH3Vpl1ok?path=/0_MyOSD_Flyer_Plakat)
+- [Unterrichtsmaterial (deutsch)](https://owncloud.mpi-bremen.de/index.php/s/rfGyOVLH3Vpl1ok?path=/4_MyOSD_Unterrichtsmaterial)
+- [Liste der MyOSD-Hubs in Deutschland, für den MyOSD 2016 (deutsch)](/mitmachen/hubs)
+- [MyOSD hub guidelines for Germany (english)](/assets/images/A5_Hub_Guidelines_2016.pdf)
+- [MyOSD-Hub Kurzinfo (deutsch)](/assets/images/MyOSD-Hub-Kurzinfo.pdf)
+- [MyOSD-Hub Liste für verteilte Sampling Kits (deutsch)](/assets/images/MyOSD Hub-Teilnehmerliste.pdf)
