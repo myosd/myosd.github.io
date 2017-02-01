@@ -17,11 +17,16 @@ Wir haben 1080 Sampling Kits verteilt! <!--An diesen Stellen wollten Teilnehmeri
 <iframe width="60%" height="400" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/587826" ></iframe>
 </div>-->
 
-Du hast Google Earth installiert? Dann kannst Du Dir eine Kartenansicht der verschiedenen Umweltparameter von unserer Webseite herunterladen. Diese Ansicht steht derzeit für den [Salzgehalt]({{site.baseurl}}/assets/images/MyOSD2016_sal.kmz), den [pH-Wert]({{site.baseurl}}/assets/images/MyOSD2016_pH.kmz), sowie für die [Wassertemperatur]({{site.baseurl}}/assets/images/MyOSD2016_wtemp.kmz) zur Verfügung. Dazu die Datei einfach abspeichern und mit Google Earth öffnen. Die Daten werden wir selbstverständlich zusammen mit den Ergebnissen der Mikroben-Analyse auch auf unserer Webseite bereitstellen. 
+Du hast Google Earth installiert? Dann kannst Du Dir eine Kartenansicht der verschiedenen Umweltparameter von unserer Webseite herunterladen. Diese Ansicht steht derzeit für den [Salzgehalt]({{site.baseurl}}/assets/images/MyOSD2016_sal.kmz), den [pH-Wert]({{site.baseurl}}/assets/images/MyOSD2016_pH.kmz), sowie für die [Wassertemperatur]({{site.baseurl}}/assets/images/MyOSD2016_wtemp.kmz) zur Verfügung. Dazu die Datei einfach abspeichern und mit Google Earth öffnen. Die Daten werden wir selbstverständlich zusammen mit den Ergebnissen der Mikroben-Analyse auch auf unserer Webseite bereitstellen. Diese ist allerdings noch in Arbeit.
 
 Daten und Bilder, die mit der OSD Citizen App erfasst wurden, werden direkt auf den OSD-Server geschickt. Du kannst Dir die Daten live auf unserer [OSD-App-Webseite](https://mb3is.megx.net/osd-app/samples) ansehen. Auch die Erfassung der Wasserfarbe kannst Du sofort auf der [EyeOnWater-Webseite](http://www.eyeonwater.org.color) sehen.
 
 <!--[![Citizen App samples]({{site.baseurl}}/assets/images/app_samples_page.png)](http://mb3is.megx.net/osd-app/samples) -->
+
+2017-01-19: Die Dateien mit dem Erbgut der Mikroben aus den MyOSD-Proben sind da! Nun müssen wir diese Daten sorgfältig überprüfen. Danach wird das Erbgut jeder einzelnen Mikrobe aus jeder einzelnen Probe mit einer großen Mikroben-Kartei verglichen. So finden wir heraus, um welche Art es sich handelt. Das erklären wir genau in unserem Video “Was passiert jetzt? MyOSD 2016- Deutschland”. Da wir sehr viele Proben, mit dem Erbgut von sehr sehr vielen Mikroben zu bewältigen haben, wird dies noch einige Wochen in Anspruch nehmen. Wir sind selbst schon gespannt auf die Ergebnisse.
+<div align="center">
+<iframe width="520" height="293" src="https://www.youtube.com/embed/EOdb_SZASl4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 2016-09-23: Heute haben wir die zwei iPads Mini 4 und 10 SenseBoxen:Home verlost. Bist Du ein Gewinner? Schau Dir das Video an.
 <div align="center">
