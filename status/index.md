@@ -23,7 +23,7 @@ Daten und Bilder, die mit der OSD Citizen App erfasst wurden, werden direkt auf 
 
 <!--[![Citizen App samples]({{site.baseurl}}/assets/images/app_samples_page.png)](http://mb3is.megx.net/osd-app/samples) -->
 
-2017-01-19: Die Dateien mit dem Erbgut der Mikroben aus den MyOSD-Proben sind da! Nun müssen wir diese Daten sorgfältig überprüfen. Danach wird das Erbgut jeder einzelnen Mikrobe aus jeder einzelnen Probe mit einer großen Mikroben-Kartei verglichen. So finden wir heraus, um welche Art es sich handelt. Das erklären wir genau in unserem Video “Was passiert jetzt? MyOSD 2016- Deutschland”. Da wir sehr viele Proben, mit dem Erbgut von sehr sehr vielen Mikroben zu bewältigen haben, wird dies noch einige Wochen in Anspruch nehmen. Wir sind selbst schon gespannt auf die Ergebnisse.
+2017-01-19: Die Dateien mit dem Erbgut der Mikroben aus den MyOSD-Proben sind da! Nun müssen wir diese Daten sorgfältig überprüfen. Danach wird das Erbgut jeder einzelnen Mikrobe aus jeder einzelnen Probe mit einer großen Mikroben-Kartei verglichen. So finden wir heraus, um welche Art es sich handelt. Das erklären wir genau in unserem Video “Was passiert jetzt? MyOSD Deutschland 2016”. Da wir sehr viele Proben, mit dem Erbgut von sehr sehr vielen Mikroben zu bewältigen haben, wird dies noch einige Wochen in Anspruch nehmen. Wir sind selbst schon gespannt auf die Ergebnisse.
 <div align="center">
 <iframe width="520" height="293" src="https://www.youtube.com/embed/EOdb_SZASl4" frameborder="0" allowfullscreen></iframe>
 </div>
