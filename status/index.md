@@ -19,7 +19,7 @@ Wir haben 1080 Sampling Kits verteilt! <!--An diesen Stellen wollten Teilnehmeri
 
 Du hast Google Earth installiert? Dann kannst Du Dir eine Kartenansicht der verschiedenen Umweltparameter von unserer Webseite herunterladen. Diese Ansicht steht derzeit für den [Salzgehalt]({{site.baseurl}}/assets/images/MyOSD2016_sal.kmz), den [pH-Wert]({{site.baseurl}}/assets/images/MyOSD2016_pH.kmz), sowie für die [Wassertemperatur]({{site.baseurl}}/assets/images/MyOSD2016_wtemp.kmz) zur Verfügung. Dazu die Datei einfach abspeichern und mit Google Earth öffnen. Die Daten werden wir selbstverständlich zusammen mit den Ergebnissen der Mikroben-Analyse auch auf unserer Webseite bereitstellen. Diese ist allerdings noch in Arbeit.
 
-Daten und Bilder, die mit der OSD Citizen App erfasst wurden, werden direkt auf den OSD-Server geschickt. Du kannst Dir die Daten live auf unserer [OSD-App-Webseite](https://mb3is.megx.net/osd-app/samples) ansehen. Auch die Erfassung der Wasserfarbe kannst Du sofort auf der [EyeOnWater-Webseite](http://www.eyeonwater.org.color) sehen.
+Daten und Bilder, die mit der OSD Citizen App erfasst wurden, werden direkt auf den OSD-Server geschickt. Du kannst Dir die Daten live auf unserer [OSD-App-Webseite](https://mb3is.megx.net/osd-app/samples) ansehen. Auch die Erfassung der Wasserfarbe kannst Du sofort auf der [EyeOnWater-Webseite](http://www.eyeonwater.org/color) sehen.
 
 <!--[![Citizen App samples]({{site.baseurl}}/assets/images/app_samples_page.png)](http://mb3is.megx.net/osd-app/samples) -->
 
