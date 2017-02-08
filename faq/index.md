@@ -48,3 +48,6 @@ Deine Fotos werden auf der [megx-Seite](http://www.megx.net/osd-app/samples) nur
 
 # Meine Messung mit der EyeOnWater-Colour App wird auf der Webseite nicht angezeigt, was soll ich tun?
 Verbinde Dein Smartphone mit dem Internet, öffne die EyeOnWater-Colour App und warte einen Moment. Dann lade die [Webseite](http://www.eyeonwater.org/color) neu. Wenn Dein Messpunkt noch immer nicht erscheint, mach eine neue Messung während Du online bist. Nun sollten beide Messungen auf der Webseite erscheinen. Wenn diese zweite Messung nicht vom Wasser ist (z.B. von Deiner Tastatur oder dem Teppich), markiere sie bitte auf der Webseite durch einen Klick auf "Flag this".
+
+# Warum ist meine Probe nicht auf der Ergebnis-Karte zu sehen?
+Du hast sicherlich schon nahe genug auf Deine Probennahmestelle gezoomt. Manche Punkte werden von anderen überlagert. Einige MyOSD Proben konnten wir nicht auf der [Karte](/status) anzeigen, da wichtige Daten aus den Log sheets nicht korrekt angegeben wurden und auch nicht zu ermitteln waren (z.B. keine oder fehlerhafte Koordinaten). Dies betrifft die MyOSD Nummern 306, 399, 439, 502, 516, 594, 596, 621, 625, 658, 780, 1056, 1106, 1119, 1126, 1228, 1230, 1249, 1258, 1317, 1324, 1344, 1346, 1364.
