@@ -53,4 +53,4 @@ Verbinde Dein Smartphone mit dem Internet, öffne die EyeOnWater-Colour App und 
 Du hast sicherlich schon nahe genug auf Deine Probennahmestelle gezoomt. Manche Punkte werden von anderen überdeckt. Einige MyOSD Proben konnten wir nicht auf der [Karte](/status) anzeigen, da wichtige Daten aus den Log sheets nicht korrekt angegeben wurden und auch nicht zu ermitteln waren (z.B. keine oder fehlerhafte Koordinaten). Dies betrifft die MyOSD Nummern 306, 399, 439, 502, 516, 594, 596, 621, 625, 658, 780, 1056, 1106, 1119, 1126, 1228, 1230, 1249, 1258, 1317, 1324, 1344, 1346 und 1364.
 
 # Mir ist noch ein Fehler in meinen Daten aufgefallen. Kann ich diesen noch korrigieren? 
-Wenn Dir ein Fehler in Deinen Daten aufgefallen ist, kannst du uns gern eine Email schreiben <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp;!</a>. Wenn es möglich ist, werden wir die Korrekturen einfügen.
+Wenn Dir ein Fehler in Deinen Daten aufgefallen ist, kannst du uns gern eine Email schreiben <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp;</a>! Wenn es möglich ist, werden wir die Korrekturen einfügen.
