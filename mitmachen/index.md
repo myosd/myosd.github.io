@@ -20,7 +20,7 @@ published: true
 ## Wer kann mitmachen?
 
 Jede und jeder ist willkommen. Egal, ob Einzelpersonen, Familien, Vereinsgruppen oder Schulklassen. Im Team könnt Ihr Euch bei der Probennahme und beim Filtrieren unterstützen. Kinder unter 16 sollten am besten in Begleitung eines Erwachsenen sein. 
-Für Schüler ab der 11. Klasse haben wir [Unterrichtsmaterial](https://owncloud.mpi-bremen.de/index.php/s/rfGyOVLH3Vpl1ok?path=/4_MyOSD_Unterrichtsmaterial) erstellt. Du willst es genau wissen? Hier findest Du unsere [Teilnahmebedingungen](/teilnahme-bedingungen). Noch Fragen? <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp; Schreibt uns!</a>
+Für Schüler ab der 11. Klasse haben wir [Unterrichtsmaterial](https://owncloud.mpi-bremen.de/index.php/s/rfGyOVLH3Vpl1ok?path=/4_MyOSD_Unterrichtsmaterial) erstellt. Du willst es genau wissen? Hier findest Du unsere [Teilnahmebedingungen](/teilnahme-bedingungen). Noch Fragen? <a href="mailto:myosd-contact@microb3.eu"><i class="fa fa-envelope fa-fw"></i>&nbsp; Schreib uns!</a>
 
 Unter allen Teilnehmern, die uns vollständige Proben mit entsprechenden Orts- und Umweltparametern zurückschicken (siehe [Teilnahmebedingungen](/teilnahme-bedingungen)), werden 2x ein [Apple iPad 4 Mini](http://www.apple.com/de/ipad-mini-4/) sowie 10x eine [senseBoxe:home](http://www.sensebox.de/de/products/) verlost. 
 
