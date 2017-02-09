@@ -5,9 +5,9 @@ published: true
 ---
 
 
-**Nach der Probennahme am 21. Juni nehmen wir die Proben in Bremen in Empfang. Die Auswertung wird einige Monate in Anspruch nehmen – Wissenschaft braucht manchmal einfach etwas Zeit. Nach der Aufarbeitung und Analyse der Proben kannst Du dann sehen, welche Mikroorganismen in Deiner Wasserprobe waren. Vielleicht hast Du ja sogar eine neue Lebensform entdeckt!**
+**Nach der Probennahme am 21. Juni haben wir die Proben in Bremen in Empfang genommen. Die Auswertung wird einige Monate in Anspruch nehmen – Wissenschaft braucht manchmal einfach etwas Zeit. Nach der Aufarbeitung und Analyse der Proben kannst Du dann sehen, welche Mikroorganismen in Deiner Wasserprobe waren.**
 
-Wir haben 1080 Sampling Kits verteilt! <!--An diesen Stellen wollten Teilnehmerinnen und Teilnehmer Proben nehmen:--> An diesen Stellen haben Teilnehmerinnen und Teilnehmer im Jahr 2016 Proben genommen:
+Wir haben 1080 Sampling Kits verteilt! An diesen Stellen haben Teilnehmerinnen und Teilnehmer im Jahr 2016 Proben genommen:
 
 <div align="center">
 <iframe src="https://www.google.com/maps/d/embed?mid=1OY_k2-HF_Fm-ILFqrkBB0wJko1A" width="640" height="480"></iframe>
@@ -33,7 +33,7 @@ Daten und Bilder, die mit der OSD Citizen App erfasst wurden, werden direkt auf 
 <iframe width="520" height="293" src="https://www.youtube.com/embed/E2WoDtc-zi8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-2016-08-30: Die Probenaufbereitung ist in vollem Gang. Jede Filterkartusche muss geöffnet und der Filter für die DNA Extraktion entnommen werden. Hier seht ihr Marina bei der Arbeit im Labor.
+2016-08-30: Die Probenaufbereitung ist in vollem Gang. Jede Filterkartusche muss geöffnet und der Filter für die DNA Extraktion entnommen werden. Hier ist Marina bei der Arbeit im Labor.
 <div align="center">
 <iframe width="520" height="293" src="https://www.youtube.com/embed/3pBwrK71qdk" frameborder="0" allowfullscreen></iframe>
 </div>
