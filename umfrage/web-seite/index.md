@@ -21,10 +21,10 @@ published: true
 <img src="/assets/images/iow.jpg"/>
 <img src="/assets/images/geomar.png"/>
 <img src="/assets/images/Logo_Nationalpark_Schleswig-Holsteinisches_Wattenmeer.svg.png"/>
-<img src="/assets/images/Logo_Nationalpark_Niedersächsisches_Wattenmeer.svg.png"/>
+<img src="/assets/images/Logo_Nationalpark_Niedersaechsisches_Wattenmeer.svg.png"/>
 <img src="/assets/images/Logo_Nationalpark_Vorpommersche_Boddenlandschaft.svg.png"/>
 <img src="/assets/images/Logo_Nationalpark_Jasmund.svg.png"/>
-<img src="/assets/images/Logo_Biosphärenreservat_Mittelelbe.svg.png"/>
+<img src="/assets/images/Logo_Biosphaerenreservat_Mittelelbe.svg.png"/>
 <img src="/assets/images/Logo_Multimar.jpg"/>
 <img src="/assets/images/LOGO-SWSchutzstationen_180.png"/>
 <img src="/assets/images/Logo_Verein-Jordsand-Logo-2014.png"/>
