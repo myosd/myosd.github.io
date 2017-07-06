@@ -571,6 +571,24 @@ img.img-first {
 
 /* Box */
 
+    .frame-box-krona { 
+        display:inline-block; 
+        
+        form {
+          margin: 1em;
+        }
+        
+        iframe {
+          border: 2px black solid;
+          margin: 1em;
+          background-color: #fff;
+          width: 600px;
+          height: 500px;
+          min-width: 50%;
+          max-width: 100%;
+        }
+    }
+
     .box {
         &.highlight {
             text-align: center;
