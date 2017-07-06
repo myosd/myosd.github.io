@@ -1,0 +1,31 @@
+---
+title: 'My Ocean Sampling Day Sample Comparator'
+lang_link: '<a href="/ergebnisse/vergleicher" class="icon fa-language"> (in German)</a>'
+intro_txt: 'here you can compare two samples next to each other'
+search_txt: 'MyOSD Number'
+layout: page-wide
+published: true
+---
+
+
+<section class="wrapper style1">
+
+  <div class="frame-box-krona" >
+    <form >
+      {{ page.search_txt }}:
+      <input type="number" name="quantity" min="1" max="2000">
+    </form>
+    
+    <iframe src="https://myosd.megx.net/krona/MYOSD4_2015-06_1_16S_file4krona.tsv.html" ></iframe>
+  </div>
+
+  <div class="frame-box-krona">
+    <form>
+      {{ page.search_txt }}:
+      <input type="number" name="quantity" min="1" max="2000">
+    </form>
+    
+    <iframe src="https://myosd.megx.net/krona/MYOSD4_2015-06_1_16S_file4krona.tsv.html"  ></iframe>
+  </div>
+ 
+</section>
