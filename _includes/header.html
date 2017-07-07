@@ -11,7 +11,7 @@
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
-    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery{% if page.jquery_version %}-{{ page.jquery_version}}{% endif %}.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
