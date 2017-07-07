@@ -1,9 +1,10 @@
 ---
 title: 'My Ocean Sampling Day Sample Comparator'
 lang_link: '<a href="/ergebnisse/vergleicher" class="icon fa-language"> (in German)</a>'
-intro_txt: 'here you can compare two samples next to each other'
+intro_txt: 'Here you can compare two MyOSD samples next to each other.'
 search_txt: 'MyOSD Number'
 layout: page-wide
+jquery_version: '3.2.1'
 published: true
 ---
 
@@ -13,19 +14,117 @@ published: true
   <div class="frame-box-krona" >
     <form >
       {{ page.search_txt }}:
-      <input type="number" name="quantity" min="1" max="2000">
+      <input type="number" name="quantity" min="0" max="1410">
+      <input id="first-submit" type="submit" value="Load">
     </form>
     
-    <iframe src="https://myosd.megx.net/krona/MYOSD4_2015-06_1_16S_file4krona.tsv.html" ></iframe>
+    <iframe id="first-frame" ></iframe>
   </div>
 
   <div class="frame-box-krona">
     <form>
       {{ page.search_txt }}:
-      <input type="number" name="quantity" min="1" max="2000">
+      <input type="number" name="quantity" min="1" max="1410">
+      <input id="second-submit" type="submit" value="Load">
     </form>
     
-    <iframe src="https://myosd.megx.net/krona/MYOSD4_2015-06_1_16S_file4krona.tsv.html"  ></iframe>
+    <iframe id="second-frame" ></iframe>
   </div>
  
+ <script>
+  //pollyfill
+  Number.isInteger = Number.isInteger || function(value) {
+    return typeof value === 'number' && isFinite(value) && Math.floor(value) === value;
+  };
+  
+  
+ 
+  function handleLoadFrame( event ) {
+    //alert(JSON.stringify( $(this).parent(), null, '\t') );
+      
+    ////console.log( $(this).parent().children("input[type='number']") );
+      
+    var inputValue = $(this).parent().children("input[type='number']").val();
+    
+    if ( inputValue === '') {
+      alert("Please specify a valid MyOSD number.");
+      return false;
+    }
+    
+    var myOsdId = parseInt(inputValue);
+    ////console.log("myosdid=", myOsdId);
+    
+    if ( !Number.isInteger(myOsdId) || myOsdId < 0 || myOsdId > 1410 ) {
+      alert( inputValue + " is not a valid MyOSD number." );
+      return false;
+    }
+      
+    var myFrame = $(this).parents("div[class='frame-box-krona']").children("iframe");
+      
+    var url = getUrl(myOsdId, myFrame);
+    if (url === 'error') {
+      alert('Could not determine correct link for Krona chart');
+    }
+    //console.log('before kroan exists');
+    if ( checkKronaExists(url) ) {
+    ////console.log('kroan exists');
+      myFrame.attr('src', url);
+    } else {
+      alert( 'Could not load Krona. Is the MyOSD number correct?');
+    }
+    //console.log('agfter kroan exists');
+    //console.log('krona url=' + url);
+    event.preventDefault();
+  }
+ 
+  function getUrl(id, frame) {
+    var baseURL  = 'https://myosd.megx.net/krona/';
+    var year = '2015';
+    
+    if ( !Number.isInteger(id) ) {
+      return 'error';
+    }
+    // all id > are from 2016 and below are 2015
+    if ( id > 269 ) {
+      year = '2016';
+    }
+    var url = baseURL + 'MYOSD' + id + '_' + year + '-06_1_16S_file4krona.tsv.html';
+    
+    return url;
+  }
+ 
+ 
+  function checkKronaExists(url) {
+    var exists = false;
+    
+    var jqxhr = $.ajax({
+          method: 'HEAD',
+          async: false,
+          url: url
+       })
+      .done(function() {
+        //console.log("returning true");
+        exists = true;
+        return true;
+      })
+      .fail(function( jqXHR, textStatus, errorThrown) {
+        exists = false;
+        return false;
+      });
+    return exists;
+  }
+ 
+  function bindSubmit(){
+    $( "input[type='submit']" ).on( "click", handleLoadFrame );
+  }
+  
+    
+  $( document ).ready(function() {
+    bindSubmit();
+  });
+</script>
+ 
 </section>
+
+
+
