@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: MyOSD Newsletter, Oktober 2017
 layout: post
 featured: /assets/images/MyOSD_Newsletter_2017-10.jpg
