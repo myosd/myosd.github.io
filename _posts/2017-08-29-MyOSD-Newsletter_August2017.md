@@ -4,7 +4,7 @@ title: MyOSD Newsletter, August 2017
 layout: post
 featured: /assets/images/MyOSD_Newsletter_2017-08.jpg
 ---
-[Lade Deinen MyOSD Newsletter vom August 2017 herunter!](/assets/images/MyOSD_Newsletter_2017-02.pdf)
+[Lade Deinen MyOSD Newsletter vom August 2017 herunter!](/assets/images/MyOSD_Newsletter_2017-08.pdf)
 
 Liebe/r MyOSD 2016 Teilnehmer/in und Unterstützer/in,
 
