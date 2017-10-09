@@ -12,7 +12,7 @@ wir haben gemeinsam viel über die kleinsten Meeres- und Flussbewohner erfahren 
  
 Jetzt heißt es Abschied nehmen. Unser tolles gemeinsames Projekt ist nun abgeschlossen und wir sind stolz, dass wir mit so vielen Menschen Teil von etwas so Großem sein durften. Weitere Untersuchungen und Forschungsergebnisse werden wir auf unserer Webseite veröffentlichen, aber wie bei der Aufbereitung der Proben braucht die genaue Analyse spezifischer Fragestellungen sehr viel Zeit.
 
-MyOSD war das erste Bürgerwissenschafts-Projekt im Wissenschaftsjahr 2016*17 -  Meere und Ozeane, aber nicht das letzte. Leider konnten wir den MyOSD in diesem Jahr nicht wiederholen, aber es gibt andere Projekte - zum Beispiel mit Julia aus dem MyOSD-Team: [Plötzlich Wissen!](www.ploetzlichwissen.de)
+MyOSD war das erste Bürgerwissenschafts-Projekt im Wissenschaftsjahr 2016*17 -  Meere und Ozeane, aber nicht das letzte. Leider konnten wir den MyOSD in diesem Jahr nicht wiederholen, aber es gibt andere Projekte - zum Beispiel mit Julia aus dem MyOSD-Team: [Plötzlich Wissen!](https://www.ploetzlichwissen.de)
 
 Unser Engagement im Bereich Meere und Ozeane hat auch das Interesse der Forschung geweckt. Ein Team vom Deutschen Zentrum für Integrative Biodiversitätsforschung und der Universität in Tasmanien (Australien) erforschen, inwieweit die Beteiligung von Bürgerinnen und Bürgern das öffentliche Verständnis über die Meeresumwelt und die Unterstützung des Schutzes und Erhaltung von maritimen Systemen in Europa erhöhen kann. Unter diesem Link kannst Du eine Kurzumfrage dazu ausfüllen. Vergiß nicht, den MyOSD als Projekt mit anzugeben:          
 [Umfrage auf deutsch](https://umfrage.uni-leipzig.de/996286?lang=de)          
