@@ -37,3 +37,46 @@ Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (
 
 Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sollten einzelne Bestimmungen des vorstehenden Textes der geltenden Rechtslage nicht, nicht mehr oder nicht ausnahmslos entsprechen, wird die Wirksamkeit der übrigen Bestimmungen des vorstehenden Textes hiervon nicht berührt.
 
+## 6. Datenschutzerklärung 
+Nachfolgend möchten wir Sie über den Umgang mit Ihren Daten gem. Art. 13 Datenschutzgrundverordnung (DSGVO) informieren.   
+
+Verantwortlicher
+Verantwortlich für die nachfolgend dargestellte Datenerhebung und Verarbeitung ist die im Impressum genannte Stelle. 
+
+Nutzungsdaten
+Wenn Sie unsere Webseite besuchen, werden auf unserem Webserver temporär sogenannte Nutzungsdaten zu statistischen Zwecken als Protokoll gespeichert, um die Qualität unserer Webseite zu verbessern. Dieser Datensatz besteht aus
+* der Seite, von der aus die Datei angefordert wurde,
+* dem Namen der Datei,
+* dem Datum und der Uhrzeit der Abfrage,
+* der übertragenen Datenmenge,
+* dem Zugriffsstatus (Datei übertragen, Datei nicht gefunden),
+* der Beschreibung des Typs des verwendeten Webbrowsers,
+* der IP-Adresse des anfragenden Rechners, die so verkürzt wird, dass ein Personenbezug nicht mehr herstellbar ist. 
+Die genannten Protokolldaten werden nur anonymisiert gespeichert. 
+
+Datenübermittlung an Dritte
+Wir übermitteln Ihre personenbezogenen Daten nicht an Dritte. 
+
+Ihre Rechte als Nutzer
+Bei Verarbeitung Ihrer personenbezogenen Daten gewährt die DSGVO Ihnen als Webseitennutzer bestimmte Rechte: 
+
+1. Auskunftsrecht (Art. 15 DSGVO):
+Sie haben das Recht eine Bestätigung darüber zu verlangen, ob sie betreffende personenbezogene Daten verarbeitet werden; ist dies der Fall, so haben Sie ein Recht auf Auskunft über diese personenbezogenen Daten und auf die in Art. 15 DSGVO im einzelnen aufgeführten Informationen. 
+
+2. Recht auf Berichtigung und Löschung (Art. 16 und 17 DSGVO):
+Sie haben das Recht, unverzüglich die Berichtigung sie betreffender unrichtiger personenbezogener Daten und ggf. die Vervollständigung unvollständiger personenbezogener Daten zu verlangen. 
+Sie haben zudem das Recht, zu verlangen, dass sie betreffende personenbezogene Daten unverzüglich gelöscht werden, sofern einer der in Art. 17 DSGVO im einzelnen aufgeführten Gründe zutrifft, z. B. wenn die Daten für die verfolgten Zwecke nicht mehr benötigt werden. 
+
+3. Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO):
+Sie haben das Recht, die Einschränkung der Verarbeitung zu verlangen, wenn eine der in Art. 18 DSGVO aufgeführten Voraussetzungen gegeben ist, z. B. wenn Sie Widerspruch gegen die Verarbeitung eingelegt haben, für die Dauer einer etwaigen Prüfung. 
+
+4. Recht auf Datenübertragbarkeit (Art. 20 DSGVO):
+In bestimmten Fällen, die in Art. 20 DSGVO im Einzelnen aufgeführt werden, haben Sie das Recht, die sie betreffenden personenbezogenen Daten in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten bzw. die Übermittlung dieser Daten an einen Dritten zu verlangen.   
+
+5. Widerspruchsrecht (Art. 21 DSGVO):
+Werden Daten auf Grundlage von Art. 6 Abs. 1 lit. f erhoben (Datenverarbeitung zur Wahrung berechtigter Interessen), steht Ihnen das Recht zu, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Widerspruch einzulegen. Wir verarbeiten die personenbezogenen Daten dann nicht mehr, es sei denn, es liegen nachweisbar zwingende schutzwürdige Gründe für die Verarbeitung vor, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. 
+
+6. Beschwerderecht bei einer Aufsichtsbehörde:
+Sie haben gem. Art. 77 DSGVO das Recht auf Beschwerde bei einer Aufsichtsbehörde, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden Daten gegen datenschutzrechtliche Bestimmungen verstößt. Das Beschwerderecht kann insbesondere bei einer Aufsichtsbehörde in dem Mitgliedstaat Ihres Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes geltend gemacht werden. 
+
+Kontaktdaten des Datenschutzbeauftragten der Jacobs University Dr. Uwe Schläger datenschutz nord GmbH Konsul-Smidt-Str. 88a office@datenschutz-nord.de 
