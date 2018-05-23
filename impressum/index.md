@@ -40,10 +40,8 @@ Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von 
 ## 6. Datenschutzerklärung 
 Nachfolgend möchten wir Sie über den Umgang mit Ihren Daten gem. Art. 13 Datenschutzgrundverordnung (DSGVO) informieren.
 
-Verantwortlicher
 Verantwortlich für die nachfolgend dargestellte Datenerhebung und Verarbeitung ist die im Impressum genannte Stelle. 
 
-Nutzungsdaten
 Wenn Sie unsere Webseite besuchen, werden auf unserem Webserver temporär sogenannte Nutzungsdaten zu statistischen Zwecken als Protokoll gespeichert, um die Qualität unserer Webseite zu verbessern. Dieser Datensatz besteht aus
 * der Seite, von der aus die Datei angefordert wurde,
 * dem Namen der Datei,
@@ -55,9 +53,11 @@ Wenn Sie unsere Webseite besuchen, werden auf unserem Webserver temporär sogena
 Die genannten Protokolldaten werden nur anonymisiert gespeichert. 
 
 Datenübermittlung an Dritte
+
 Wir übermitteln Ihre personenbezogenen Daten nicht an Dritte. 
 
 Ihre Rechte als Nutzer
+
 Bei Verarbeitung Ihrer personenbezogenen Daten gewährt die DSGVO Ihnen als Webseitennutzer bestimmte Rechte: 
 
 1. Auskunftsrecht (Art. 15 DSGVO):
