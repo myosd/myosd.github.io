@@ -38,9 +38,11 @@ Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (
 Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sollten einzelne Bestimmungen des vorstehenden Textes der geltenden Rechtslage nicht, nicht mehr oder nicht ausnahmslos entsprechen, wird die Wirksamkeit der übrigen Bestimmungen des vorstehenden Textes hiervon nicht berührt.
 
 ## 6. Datenschutzerklärung 
-Nachfolgend möchten wir Sie über den Umgang mit Ihren Daten gem. Art. 13 Datenschutzgrundverordnung (DSGVO) informieren.   
+Nachfolgend möchten wir Sie über den Umgang mit Ihren Daten gem. Art. 13 Datenschutzgrundverordnung (DSGVO) informieren.
+
 Verantwortlicher
 Verantwortlich für die nachfolgend dargestellte Datenerhebung und Verarbeitung ist die im Impressum genannte Stelle. 
+
 Nutzungsdaten
 Wenn Sie unsere Webseite besuchen, werden auf unserem Webserver temporär sogenannte Nutzungsdaten zu statistischen Zwecken als Protokoll gespeichert, um die Qualität unserer Webseite zu verbessern. Dieser Datensatz besteht aus
 * der Seite, von der aus die Datei angefordert wurde,
